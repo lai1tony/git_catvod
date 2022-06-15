@@ -1,4 +1,3 @@
-
 {
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
 "spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
@@ -31,24 +30,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-{
-      "key": "csp_Fantuan",
-      "name": "饭团(SP)",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{
-      "key": "csp_Buka",
-      "name": "不卡(SP)",
-      "type": 3,
-      "api": "csp_Buka",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
 {
       "key": "csp_GitCafe",
