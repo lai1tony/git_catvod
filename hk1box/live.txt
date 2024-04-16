@@ -40,9 +40,7 @@ Clash工具使用,https://p.fygg.xyz/f/dyTm/Clash%E4%BD%BF%E7%94%A8.mp4
 无线财经频道,http://nz189l149.bb27109.ctm.net:8892/bysid/85
 TVB翡翠频道,https://ali.hlspull.yximgs.com/live/3870d065f7b2f0a8b6cbc57fd42656b4.flv
 TVB翡翠频道,http://125.124.206.142:18081/GN/gdfc2/hls.m3u8
-TVB明珠频道,https://iptv.hiper25.com/Pearl/video.m3u8
-TVB明珠频道,http://113.88.66.42:8001/bysid/2
-TVB明珠频道,http://nz189l149.bb27109.ctm.net:8892/bysid/2
+TVB明珠频道,https://ali.hlspull.yximgs.com/live/928034a6ac223895988015c8e7a296de.flv
 J2TVB频道台,http://113.88.66.42:8001/bysid/82
 港台電視  31,http://113.88.66.42:8002/bysid/31
 港台電視  32,http://113.88.66.42:8002/bysid/32
