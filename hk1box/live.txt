@@ -47,7 +47,7 @@ J2TVB频道台,http://113.88.66.42:8001/bysid/82
 CCTV-1  綜合,http://113.88.66.42:8002/bysid/33
 CGTN紀錄頻,http://113.88.66.42:8002/bysid/34
 ViuTVsix频道,http://113.88.66.42:8000/bysid/96
-ViuTV频道台,http://113.88.66.42:8000/bysid/99
+ViuTV频道台,https://ali.hlspull.yximgs.com/live/6e9b60d401bb4838b8d49b448dbe1cba.flv
 澳门澳视频道,https://iptv.hiper25.com/TDM/video.m3u8
 澳门澳视频道,http://nz189l149.bb27109.ctm.net:8891/bysid/91
 澳门澳视频道,http://nz189l149.bb27109.ctm.net:8891/bysid/96
