@@ -25,6 +25,7 @@ RTHK32,http://mywlkj.ddns.net:754/tv/rthk32.m3u8
 香港佛学,http://mywlkj.ddns.net:754/tv/amtb.m3u8
 Now SPORTS,http://119.23.61.191:8088/HK/nowbg/hls.m3u8
 Now 新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
+无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
 广电翡翠2,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
 香港明珠,http://zsntlqj.xicp.net:8896/bysid/2
 J2,http://zsntlqj.xicp.net:8896/bysid/82
