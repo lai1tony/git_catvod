@@ -26,6 +26,8 @@ RTHK32,http://mywlkj.ddns.net:754/tv/rthk32.m3u8
 Now SPORTS,http://119.23.61.191:8088/HK/nowbg/hls.m3u8
 Now 新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 广电翡翠2,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
+香港明珠,http://zsntlqj.xicp.net:8896/bysid/2
+J2,http://zsntlqj.xicp.net:8896/bysid/82
 功夫,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
 香港31台高清,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 香港32台高清,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
