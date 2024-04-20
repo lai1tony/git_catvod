@@ -186,6 +186,7 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 📡湾湾频道👉全网,#genre#
+中天新闻,https://ali.hlspull.yximgs.com/live/5e6088a5b86946170b6fd5defc8a971b.flv
 中天亚洲台 HD,http://startv365.com:80/live/9794783213/6955630461/5555.m3u8
 中天娱乐 HD,http://startv365.com:80/live/9794783213/6955630461/5554.m3u8
 中天综合 HD,http://startv365.com:80/live/9794783213/6955630461/5552.m3u8
