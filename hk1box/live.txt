@@ -982,7 +982,6 @@ CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 
 🍁收音广播👉全网,#genre#
 飛揚電台FM89.5,https://n04.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABjvvfDv8AtwcSpYG-1O9Fow
-中廣新聞網,https://n03.rcs.revma.com/fgtx07f3qtzuv?rj-ttl=5&rj-tok=AAABjvvkCbIASyVbtd8Uv9i_4w
 中廣流行網 FM103,https://n04.rcs.revma.com/s1zttsg3qtzuv?rj-ttl=5&rj-tok=AAABjvvlGuIAmlu0tOwXWj7I5g
 中廣音樂網 FM96,https://n08.rcs.revma.com/ks4vsmg3qtzuv?rj-ttl=5&rj-tok=AAABjvvnAQYAhCRs79AsHU4qEg
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
