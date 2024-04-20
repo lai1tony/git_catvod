@@ -207,7 +207,7 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 壹电视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5532.m3u8
 非凡新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5531.m3u8
 民视高清台 HD,http://startv365.com:80/live/9794783213/6955630461/5530.m3u8
-民视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5529.m3u8
+民视新闻台 HD,http://proxy.dfkj.live/alitv.php?u=min&id=34
 民视台湾台 HD,http://startv365.com:80/live/9794783213/6955630461/5528.m3u8
 好电视2台 HD,http://startv365.com:80/live/9794783213/6955630461/5527.m3u8
 好莱坞电影 HD,http://startv365.com:80/live/9794783213/6955630461/5526.m3u8
