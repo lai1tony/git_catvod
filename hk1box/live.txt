@@ -191,6 +191,7 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 中天亚洲台 HD,http://startv365.com:80/live/9794783213/6955630461/5555.m3u8
 中天娱乐 HD,http://startv365.com:80/live/9794783213/6955630461/5554.m3u8
 中天综合 HD,http://startv365.com:80/live/9794783213/6955630461/5552.m3u8
+华视 HD,rtmp://220.130.201.73/sat/tv111
 华视 HD,http://startv365.com:80/live/9794783213/6955630461/5551.m3u8
 公视2台 HD,http://startv365.com:80/live/9794783213/6955630461/5549.m3u8
 大爱2台 HD,http://startv365.com:80/live/9794783213/6955630461/5548.m3u8
@@ -202,11 +203,13 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 东森财经 HD,http://startv365.com:80/live/9794783213/6955630461/5539.m3u8
 东森戏剧 HD,http://startv365.com:80/live/9794783213/6955630461/5538.m3u8
 东森电影 HD,http://startv365.com:80/live/9794783213/6955630461/5537.m3u8
+东森新闻 HD,https://s2.pub/cctv-18
 东森新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5536.m3u8
 东森洋片 HD,http://startv365.com:80/live/9794783213/6955630461/5534.m3u8
 壹电视旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5533.m3u8
 壹电视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5532.m3u8
 非凡新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5531.m3u8
+民视高清台 HD,rtmp://220.130.201.73/sat/tv051
 民视高清台 HD,http://startv365.com:80/live/9794783213/6955630461/5530.m3u8
 民视新闻台 HD,http://proxy.dfkj.live/alitv.php?u=min&id=34
 民视台湾台 HD,http://startv365.com:80/live/9794783213/6955630461/5528.m3u8
@@ -219,11 +222,13 @@ Arirang HD,http://startv365.com:80/live/9794783213/6955630461/5521.m3u8
 龙华戏剧 HD,http://startv365.com:80/live/9794783213/6955630461/5514.m3u8
 龙祥时代 HD,http://startv365.com:80/live/9794783213/6955630461/5513.m3u8
 美亚电影 HD,http://startv365.com:80/live/9794783213/6955630461/5511.m3u8
+东森MOMO HD,rtmp://f13h.mine.nu/sat/tv761
 东森MOMO HD,http://startv365.com:80/live/9794783213/6955630461/5510.m3u8
 年代新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5509.m3u8
 三立都会 HD,http://startv365.com:80/live/9794783213/6955630461/5506.m3u8
 三立台湾 HD,http://startv365.com:80/live/9794783213/6955630461/5505.m3u8
 三立综合 HD,http://startv365.com:80/live/9794783213/6955630461/5503.m3u8
+台视,rtmp://220.130.201.73/sat/tv071
 台视台湾台 HD,http://startv365.com:80/live/9794783213/6955630461/5502.m3u8
 台视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5501.m3u8
 台视综合台 HD,http://startv365.com:80/live/9794783213/6955630461/5500.m3u8
@@ -231,12 +236,15 @@ TVBS N HD,http://startv365.com:80/live/9794783213/6955630461/5499.m3u8
 TVBS G HD,http://startv365.com:80/live/9794783213/6955630461/5498.m3u8
 TVBS欢乐台 HD,http://startv365.com:80/live/9794783213/6955630461/5497.m3u8
 TVBS HD,http://startv365.com:80/live/9794783213/6955630461/5496.m3u8
+纬来日本 HD,rtmp://220.130.201.73/sat/tv771
 纬来日本 HD,http://startv365.com:80/live/9794783213/6955630461/5495.m3u8
 纬来精彩 HD,http://startv365.com:80/live/9794783213/6955630461/5494.m3u8
+纬来体育 HD,rtmp://220.130.201.73/sat/tv721
 纬来体育 HD,http://startv365.com:80/live/9794783213/6955630461/5492.m3u8
 卫视中文台 HD,http://startv365.com:80/live/9794783213/6955630461/5489.m3u8
 星卫电影 HD,http://startv365.com:80/live/9794783213/6955630461/5488.m3u8
 星卫娱乐 HD,http://startv365.com:80/live/9794783213/6955630461/5487.m3u8
+中视高清 HD,rtmp://220.130.201.73/sat/tv091
 中视高清 HD,http://startv365.com:80/live/9794783213/6955630461/5485.m3u8
 中视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5484.m3u8
 纬来综合 HD,http://startv365.com:80/live/9794783213/6955630461/5490.m3u8
