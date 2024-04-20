@@ -44,10 +44,11 @@ HOY资讯,https://ali.hlspull.yximgs.com/live/7a87a7205b44d9e8dfdf48ff43ac0878.f
 香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 澳门澳视频道,https://iptv.hiper25.com/TDM/video.m3u8
-澳门澳视频道,http://nz189l149.bb27109.ctm.net:8891/bysid/91
+澳门葡文,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
+澳门澳视频道,http://61.244.22.5/ch3/ch3.live/playelist.m3u8
 澳门澳视频道,http://nz189l149.bb27109.ctm.net:8891/bysid/96
-澳门资讯频道,http://nz189l149.bb27109.ctm.net:8891/bysid/94
-澳门娱乐频道,http://nz189l149.bb27109.ctm.net:8891/bysid/92
+澳视资讯台,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
+莲花莲花「代理」,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经频道,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
