@@ -37,7 +37,7 @@ J2,http://zsntlqj.xicp.net:8896/bysid/82
 娱乐新闻台,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 HOYTV77,https://ali.hlspull.yximgs.com/live/0f910fa08ec4853f66d6e6cc53a2bf00.flv
 HOY资讯,https://ali.hlspull.yximgs.com/live/7a87a7205b44d9e8dfdf48ff43ac0878.flv
-香港31台高清,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
+香港31台高清,https://ali.hlspull.yximgs.com/live/3712835f064f6b5e26d55540f7d456eb.flv
 香港32台高清,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
