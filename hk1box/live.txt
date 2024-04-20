@@ -242,7 +242,7 @@ TVBS HD,http://startv365.com:80/live/9794783213/6955630461/5496.m3u8
 纬来电视· HD,http://startv365.com:80/live/9794783213/6955630461/5491.m3u8
 纬来电影 HD,http://startv365.com:80/live/9794783213/6955630461/5493.m3u8
 靖天国际 HD,http://startv365.com:80/live/9794783213/6955630461/5519.m3u8
-寰宇新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5523.m3u8
+寰宇新闻 HD,https://ali.hlspull.yximgs.com/live/30d0649593e76f08b0fc991c4b51c453.flv
 东森超视 HD,http://startv365.com:80/live/9794783213/6955630461/5535.m3u8
 爱尔达体育台 HD,http://startv365.com:80/live/9794783213/6955630461/5543.m3u8
 中天新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5553.m3u8
