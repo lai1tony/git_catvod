@@ -48,7 +48,6 @@
     },
 {"key":"csp_Lib","name":"🇨🇳LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
-{"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_miai","name":"👑米爱蓝光👑","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/beMAHp/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json"},
 {"key": "学堂","name": " 🎗️吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/laivbox/mys/raw/master/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
 {"key": "外语","name": "🎗️吾爱外语","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/laivbox/HK1_BOX/raw/branch/master/%e5%90%be%e7%88%b1%e5%a4%96%e8%af%ad0122.json"},
