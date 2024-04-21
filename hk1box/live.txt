@@ -187,8 +187,10 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 📡湾湾频道👉全网,#genre#
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天新闻,https://ali.hlspull.yximgs.com/live/5e6088a5b86946170b6fd5defc8a971b.flv
 中天亚洲台 HD,http://startv365.com:80/live/9794783213/6955630461/5555.m3u8
+中天亚洲台 HD,http://livetv.skycf.eu.org/live.m3u8?c=3
 中天娱乐 HD,http://startv365.com:80/live/9794783213/6955630461/5554.m3u8
 中天综合 HD,http://startv365.com:80/live/9794783213/6955630461/5552.m3u8
 华视 HD,rtmp://220.130.201.73/sat/tv111
@@ -201,17 +203,21 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 爱尔达综合 HD,http://startv365.com:80/live/9794783213/6955630461/5541.m3u8
 东森亚洲 HD,http://startv365.com:80/live/9794783213/6955630461/5540.m3u8
 东森财经 HD,http://startv365.com:80/live/9794783213/6955630461/5539.m3u8
+东森财经 HD,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森戏剧 HD,http://startv365.com:80/live/9794783213/6955630461/5538.m3u8
 东森电影 HD,http://startv365.com:80/live/9794783213/6955630461/5537.m3u8
 东森新闻 HD,https://s2.pub/cctv-18
 东森新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5536.m3u8
+东森新闻 HD,http://livetv.skycf.eu.org/live.m3u8?c=9
 东森洋片 HD,http://startv365.com:80/live/9794783213/6955630461/5534.m3u8
 壹电视旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5533.m3u8
 壹电视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5532.m3u8
 非凡新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5531.m3u8
+半岛新闻,http://livetv.skycf.eu.org/live.m3u8?c=15
 民视高清台 HD,rtmp://220.130.201.73/sat/tv051
 民视高清台 HD,http://startv365.com:80/live/9794783213/6955630461/5530.m3u8
 民视新闻台 HD,http://proxy.dfkj.live/alitv.php?u=min&id=34
+民视新闻台 HD,http://livetv.skycf.eu.org/live.m3u8?c=11
 民视台湾台 HD,http://startv365.com:80/live/9794783213/6955630461/5528.m3u8
 好电视2台 HD,http://startv365.com:80/live/9794783213/6955630461/5527.m3u8
 好莱坞电影 HD,http://startv365.com:80/live/9794783213/6955630461/5526.m3u8
@@ -225,13 +231,19 @@ Arirang HD,http://startv365.com:80/live/9794783213/6955630461/5521.m3u8
 东森MOMO HD,rtmp://f13h.mine.nu/sat/tv761
 东森MOMO HD,http://startv365.com:80/live/9794783213/6955630461/5510.m3u8
 年代新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5509.m3u8
+三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
 三立都会 HD,http://startv365.com:80/live/9794783213/6955630461/5506.m3u8
 三立台湾 HD,http://startv365.com:80/live/9794783213/6955630461/5505.m3u8
 三立综合 HD,http://startv365.com:80/live/9794783213/6955630461/5503.m3u8
+公视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=8
 台视,rtmp://220.130.201.73/sat/tv071
 台视台湾台 HD,http://startv365.com:80/live/9794783213/6955630461/5502.m3u8
 台视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5501.m3u8
 台视综合台 HD,http://startv365.com:80/live/9794783213/6955630461/5500.m3u8
+闽镜新闻台,http://livetv.skycf.eu.org/live.m3u8?c=10
+TVBS新闻台,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
+TVBS新闻台,http://mywlkj.ddns.net:754/tv/tw.php?id=52
+TVBS新闻台,http://livetv.skycf.eu.org/live.m3u8?c=5
 TVBS N HD,http://startv365.com:80/live/9794783213/6955630461/5499.m3u8
 TVBS G HD,http://startv365.com:80/live/9794783213/6955630461/5498.m3u8
 TVBS欢乐台 HD,http://startv365.com:80/live/9794783213/6955630461/5497.m3u8
@@ -255,6 +267,7 @@ TVBS HD,http://startv365.com:80/live/9794783213/6955630461/5496.m3u8
 东森超视 HD,http://startv365.com:80/live/9794783213/6955630461/5535.m3u8
 爱尔达体育台 HD,http://startv365.com:80/live/9794783213/6955630461/5543.m3u8
 中天新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5553.m3u8
+中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
 博斯网球 HD,http://startv365.com:80/live/9794783213/6955630461/5556.m3u8
 YOYO TV,http://startv365.com:80/live/9794783213/6955630461/473533.m3u8
 美国城市卫视,http://startv365.com:80/live/9794783213/6955630461/473534.m3u8
@@ -270,6 +283,8 @@ ET中国,http://startv365.com:80/live/9794783213/6955630461/473542.m3u8
 华视,http://startv365.com:80/live/9794783213/6955630461/473544.m3u8
 三立国际,http://startv365.com:80/live/9794783213/6955630461/473545.m3u8
 民视,http://startv365.com:80/live/9794783213/6955630461/473546.m3u8
+华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
+台視新聞台,http://livetv.skycf.eu.org/live.m3u8?c=4
 台視新聞台,http://mywlkj.ddns.net:754/tv/ttvnews.m3u8
 星光视界,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69
 金马影院,http://mywlkj.ddns.net:754/tv/yximgs.php?id=65
