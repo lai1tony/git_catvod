@@ -28,7 +28,7 @@ Now 新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
 无线财经资讯,http://zsntlqj.xicp.net:8896/bysid/85
 香港翡翠台,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
-香港翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+香港翡翠台,http://ha.hahomes.net:9982/stream/channel/5954ad9fd4240f4a1c1b64ca44963160?profile=pass
 香港明珠,http://zsntlqj.xicp.net:8896/bysid/2
 J2,http://zsntlqj.xicp.net:8896/bysid/82
 功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
