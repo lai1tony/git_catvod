@@ -4,7 +4,8 @@
 
 
 🇨🇳中国港澳👉春盈,#genre#
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://146.56.153.245:20121/bysid/258
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰香港,http://113.64.145.220:8081/hls/38/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
@@ -14,9 +15,6 @@
 无线星河频道,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 香港卫视,http://mywlkj.ddns.net:754/tv/hkstv.m3u8
 香港文旅,http://mywlkj.ddns.net:754/tv/hkstv1.m3u8
-凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw1.m3u8
-凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw2.m3u8
-凤凰中文,http://mywlkj.ddns.net:754/tv/fhzw.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8
 环球电视,http://mywlkj.ddns.net:754/tv/hqds.m3u8
@@ -35,10 +33,8 @@ J2,http://zsntlqj.xicp.net:8896/bysid/82
 功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 功夫,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
 娱乐新闻台,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-HOYTV77,https://ali.hlspull.yximgs.com/live/0f910fa08ec4853f66d6e6cc53a2bf00.flv
-HOY资讯,https://ali.hlspull.yximgs.com/live/7a87a7205b44d9e8dfdf48ff43ac0878.flv
-香港31台高清,https://ali.hlspull.yximgs.com/live/3712835f064f6b5e26d55540f7d456eb.flv
-香港32台高清,https://ali.hlspull.yximgs.com/live/291185f0b4a6d366bc52f394d67b6c1e.flv
+ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
+ViuTV6,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
 香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
