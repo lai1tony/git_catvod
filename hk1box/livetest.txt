@@ -1029,13 +1029,13 @@ CRI阿拉伯语频道,http://sk.cri.cn/cmgarabic.m3u8
 CRI海峡飞虹,http://sk.cri.cn/hxfh.m3u8
 CRI客家之声,http://sk.cri.cn/hakka.m3u8
 CRI闽南之音,http://sk.cri.cn/minnan.m3u8
-CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
-CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+飛揚電台FM89.5,https://n04.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABjvvfDv8AtwcSpYG-1O9Fow
 香港电台第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
-香港电台第2台,https://stm.rthk.hk/radio2
+香港电台第2台,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
 香港电台第3台,https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
-香港电台第4台,https://stm.rthk.hk/radio4
+香港电台第4台,https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8
 香港电台第5台,https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+香港D100,https://hk2.d100.net:8001/Channel1-128MP3
 新城资讯台,https://1561247963.rsc.cdn77.org/1561247963/tracks-a1/mono.m3u8
 新城财经台,https://1964171372.rsc.cdn77.org/1964171372/tracks-a1/mono.m3u8
 新城1044,https://1185548114.rsc.cdn77.org/1185548114/tracks-a1/mono.m3u8
@@ -1049,6 +1049,7 @@ AsiaFM HD音乐台,https://live.ximalaya.com/radio-first-page-app/live/1427/64.m
 亚洲音乐成都FM96.5,https://lhttp.qtfm.cn/live/4581/64k.mp3
 AsiaFM亚洲热歌台,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
 AsiaFM亚洲粤语台,https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
+AsiaFM亚洲粤语台,https://lhttp.qingting.fm/live/15318569/64k.mp3
 广东新闻广播,https://fanmingming.com/fm?id=487
 广东股市广播,https://fanmingming.com/fm?id=488
 广东音乐之声,https://fanmingming.com/fm?id=489
