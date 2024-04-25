@@ -998,49 +998,14 @@ CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 歌MV55,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0f2a4gUonvrdrgI.mp4
 
 
-🍁收音广播👉全网,#genre#
+🍁收音广播电台👉全网,#genre#
 飛揚電台FM89.5,https://n04.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABjvvfDv8AtwcSpYG-1O9Fow
-中廣流行網 FM103,https://n04.rcs.revma.com/s1zttsg3qtzuv?rj-ttl=5&rj-tok=AAABjvvlGuIAmlu0tOwXWj7I5g
-中廣音樂網 FM96,https://n08.rcs.revma.com/ks4vsmg3qtzuv?rj-ttl=5&rj-tok=AAABjvvnAQYAhCRs79AsHU4qEg
-中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-音乐之声,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-经典音乐广播,https://ngcdn004.cnr.cn/live/dszs/index.m3u8
-台海之声,https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-神舟之声,https://ngcdn006.cnr.cn/live/szzs/index.m3u8
-大湾区之声,https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-民族之声,https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-文艺之声,https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-老年之声,https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-藏语广播,https://ngcdn012.cnr.cn/live/zygb/index.m3u8
-阅读之声,https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-维语广播,https://ngcdn013.cnr.cn/live/wygb/index.m3u8
-香港之声,https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-中国交通广播,https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-中国乡村之声,https://ngcdn017.cnr.cn/live/xczs/index.m3u8
-哈语广播,https://ngcdn025.cnr.cn/live/hygb/index.m3u8
-环球资讯广播,https://cnlive.cnr.cn/hls/huanqiuzixunguangbo.m3u8
-南海之声,https://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
-轻松调频,https://sk.cri.cn/915.m3u8
-HITFM国际流行音乐,https://cnlive.cnr.cn/hls/HITFM.m3u8
-英语资讯广播CGTNRadio,https://cnlive.cnr.cn/hls/yyzxgb.m3u8
-华语环球(CRI Chinese Service),http://sk.cri.cn/hyhq.m3u8
-环球资讯广播(CRI News Radio),http://sk.cri.cn/905.m3u8
-南海之声,http://sk.cri.cn/nhzs.m3u8
-南海之声 2,http://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
-CRI英语资讯广播AM846–同CGTNRadio, http://sk.cri.cn/am846.m3u8
-CRI外语教学广播AM1008,http://sk.cri.cn/am1008.m3u8
-CRI阿拉伯语频道,http://sk.cri.cn/cmgarabic.m3u8
-CRI海峡飞虹,http://sk.cri.cn/hxfh.m3u8
-CRI客家之声,http://sk.cri.cn/hakka.m3u8
-CRI闽南之音,http://sk.cri.cn/minnan.m3u8
-CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
-CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 香港电台第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
-香港电台第2台,https://stm.rthk.hk/radio2
+香港电台第2台,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
 香港电台第3台,https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
-香港电台第4台,https://stm.rthk.hk/radio4
+香港电台第4台,https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8
 香港电台第5台,https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+香港D100,https://hk2.d100.net:8001/Channel1-128MP3
 新城资讯台,https://1561247963.rsc.cdn77.org/1561247963/tracks-a1/mono.m3u8
 新城财经台,https://1964171372.rsc.cdn77.org/1964171372/tracks-a1/mono.m3u8
 新城1044,https://1185548114.rsc.cdn77.org/1185548114/tracks-a1/mono.m3u8
@@ -1054,6 +1019,7 @@ AsiaFM HD音乐台,https://live.ximalaya.com/radio-first-page-app/live/1427/64.m
 亚洲音乐成都FM96.5,https://lhttp.qtfm.cn/live/4581/64k.mp3
 AsiaFM亚洲热歌台,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
 AsiaFM亚洲粤语台,https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
+AsiaFM亚洲粤语台,https://lhttp.qingting.fm/live/15318569/64k.mp3
 广东新闻广播,https://fanmingming.com/fm?id=487
 广东股市广播,https://fanmingming.com/fm?id=488
 广东音乐之声,https://fanmingming.com/fm?id=489
@@ -1122,6 +1088,42 @@ AsiaFM亚洲粤语台,https://live.ximalaya.com/radio-first-page-app/live/999/64
 深圳电福建旁边区之声,https://fanmingming.com/fm?id=2331
 揭阳交通广播,https://fanmingming.com/fm?id=2527
 揭阳综合广播,https://fanmingming.com/fm?id=2533
+中廣流行網 FM103,https://n04.rcs.revma.com/s1zttsg3qtzuv?rj-ttl=5&rj-tok=AAABjvvlGuIAmlu0tOwXWj7I5g
+中廣音樂網 FM96,https://n08.rcs.revma.com/ks4vsmg3qtzuv?rj-ttl=5&rj-tok=AAABjvvnAQYAhCRs79AsHU4qEg
+中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+音乐之声,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐广播,https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+台海之声,https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+神舟之声,https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+大湾区之声,https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+民族之声,https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+文艺之声,https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+老年之声,https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+藏语广播,https://ngcdn012.cnr.cn/live/zygb/index.m3u8
+阅读之声,https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+维语广播,https://ngcdn013.cnr.cn/live/wygb/index.m3u8
+香港之声,https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+中国交通广播,https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+中国乡村之声,https://ngcdn017.cnr.cn/live/xczs/index.m3u8
+哈语广播,https://ngcdn025.cnr.cn/live/hygb/index.m3u8
+环球资讯广播,https://cnlive.cnr.cn/hls/huanqiuzixunguangbo.m3u8
+南海之声,https://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
+轻松调频,https://sk.cri.cn/915.m3u8
+HITFM国际流行音乐,https://cnlive.cnr.cn/hls/HITFM.m3u8
+英语资讯广播CGTNRadio,https://cnlive.cnr.cn/hls/yyzxgb.m3u8
+华语环球(CRI Chinese Service),http://sk.cri.cn/hyhq.m3u8
+环球资讯广播(CRI News Radio),http://sk.cri.cn/905.m3u8
+南海之声,http://sk.cri.cn/nhzs.m3u8
+南海之声 2,http://satellitepull.cnr.cn/live/wxnhzs/playlist.m3u8
+CRI英语资讯广播AM846–同CGTNRadio, http://sk.cri.cn/am846.m3u8
+CRI外语教学广播AM1008,http://sk.cri.cn/am1008.m3u8
+CRI阿拉伯语频道,http://sk.cri.cn/cmgarabic.m3u8
+CRI海峡飞虹,http://sk.cri.cn/hxfh.m3u8
+CRI客家之声,http://sk.cri.cn/hakka.m3u8
+CRI闽南之音,http://sk.cri.cn/minnan.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 湖南新闻,https://lhttp.qtfm.cn/live/4978/64k.mp3
 湖南交通,https://lhttp.qingting.fm/live/4879/64k.mp3
 湖南交通2,http://rscdn.ajmide.com/r_1211/live_1211.m3u8
