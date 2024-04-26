@@ -26,8 +26,8 @@
       "key": "drpy_js_追剧迷",
       "name": "🇨🇳影视 | 追剧迷[js]",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧迷.js"
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/追剧迷.js"
   },
 {"key": "xpg","name": "🍎小苹果","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://download.kstore.space/download/4077/xpg/zyxpg.json"},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -35,8 +35,8 @@
       "key": "drpy_js_Voflix",
       "name": "影视 | Voflix[js]",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
+      "api": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
   },
 {"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {
@@ -172,13 +172,13 @@
 //"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 //Yoursmile720240414
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CE6C4DB34B73FB63711906DFA9152021",
-"spider": "https://ghproxy.net/https://github.com/cysk003/Yoursmile7_TVBox/blob/master/Yoursmile.jar",
+"spider": "https://gh.con.sh/https://github.com/cysk003/Yoursmile7_TVBox/blob/master/Yoursmile.jar",
 //直播
  "lives": [
     {
       "name": "live",
       "type": 0,
- "url": "https://ghproxy.net/https://raw.githubusercontent.com/lai1tony/git_catvod/master/hk1box/live.txt",
+ "url": "https://gh.con.sh/https://raw.githubusercontent.com/lai1tony/git_catvod/master/hk1box/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
