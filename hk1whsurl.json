@@ -7,28 +7,19 @@
       		"name": "🚀HK1_影盒版(主线路)"
    		},
     
-        
 		{
-			"url": "https://raw.gitcode.com/Xymz/ymz/blobs/daf2a0b4b029cb681d788e30924c0a417e2d1e9a/夜猫子",
+			"url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子",
 			"name": "🚀新夜猫子"
 		},
+		
 		{
-			"url": "http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0",
+			"url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
 			"name": "🚀吾爱线路"
 		},
 		{
 			"url": "http://饭太硬.top/tv",
 			"name": "🚀饭有点硬"
 		},
-	
-		{
-			"url": "https://pastebin.com/raw/5NHaxyGR",
-			"name": "🚀道长在线"
-		},
-		{
-			"url": "http://home.jundie.top:81/top98.json",
-			"name": "🚀俊佬线路"
-		}
-        
+	        
          ]
 }
