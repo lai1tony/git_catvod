@@ -49,6 +49,20 @@
 {"key":"csp_Lib","name":"🇨🇳LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_miai","name":"👑米爱蓝光👑","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/beMAHp/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json"},
+{
+      "key": "有声小说js",
+      "name": "🎧有声┃小说",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
 {"key": "学堂","name": " 🎗️吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/laivbox/mys/raw/master/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
 {"key": "外语","name": "🎗️吾爱外语","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://152.32.170.60/laivbox/HK1_BOX/raw/branch/master/%e5%90%be%e7%88%b1%e5%a4%96%e8%af%ad0122.json"},
 {"key": "舞蹈","name": "🎗️吾爱舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52pan.top:81/api/v3/file/get/48890/%E5%90%BE%E7%88%B1%E8%88%9E%E8%B9%88.json?sign=E9PR-_2s_wEokfhY9mh8NMGPnf7iwyItONSu421JwpM%3D%3A0"},
@@ -80,34 +94,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
- {
-      "key": "csp_310直播",
-      "name": "⚽310┃看球",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-{
-      "key": "88js",
-      "name": "⚽ 88┃看球",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+{"key":"csp_Kanqiu","name":"⚽88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"js豆瓣","name":"🅱豆瓣热播","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_BBB","name":"🅱️bili","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://p.fygg.xyz/f/L4tp/Bili.json"},
 {
