@@ -5,41 +5,63 @@ Clash工具使用,https://p.fygg.xyz/f/dyTm/Clash%E4%BD%BF%E7%94%A8.mp4
 HK1影视仓使用,https://p.fygg.xyz/f/Kdcp/%E5%BD%B1%E8%A7%86%E4%BB%93%E4%BD%BF%E7%94%A8.mp4
 
 🇨🇳中国港澳👉春盈,#genre#
-凤凰中文,http://146.56.153.245:20121/bysid/258
-凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰香港,http://113.64.145.220:8081/hls/38/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文频道,http://218.89.233.208:8088/rtp/239.93.0.162:2192
+凤凰中文频道,http://218.89.233.208:8088/rtp/239.93.1.9:2192
+凤凰中文频道,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
+凤凰中文频道,http://112.19.171.156:9999/udp/239.93.0.162:2192
+
+凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
+凤凰资讯频道,http://218.89.233.208:8088/rtp/239.93.0.118:2191
+凤凰资讯频道,http://218.89.233.208:8088/rtp/239.93.1.4:2191
+凤凰资讯频道,http://218.89.233.208:8088/udp/239.93.0.118:2191
+凤凰资讯频道,http://112.19.171.156:9999/udp/239.93.0.118:2191
+凤凰资讯频道,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯频道,http://103.95.24.37:880/fhzx.m3u8
+
+香港凤凰频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+香港凤凰频道,http://gzcyl001.3322.org:8081/hls/33/index.m3u8
+香港凤凰频道,http://103.95.24.37:880/fhxgt.m3u8
+翡翠频道流畅,http://gzcyl001.3322.org:8081/hls/30/index.m3u8
+翡翠美洲流畅,http://gzcyl001.3322.org:8081/hls/31/index.m3u8
+星空频道频道,http://218.89.233.208:8088/rtp/239.93.0.156:2193
+星空频道频道,http://218.89.233.208:8088/rtp/239.93.1.10:2193
+香港無綫新聞,http://113.83.152.28:1935/bysid/83
+
+香港無綫新聞,http://zsntlqj.xicp.net:8896/bysid/83
+香港凤凰频道,http://zsntlqj.xicp.net:8896/bysid/85
+TVB 香港频道,http://zsntlqj.xicp.net:8896/bysid/82
+香港明珠频道,http://zsntlqj.xicp.net:8896/bysid/83
+
+香港翡翠频道,http://beishan008.asuscomm.com:8889/bysid/1
+香港無綫新聞,http://123.202.245.120:8008/bysid/83
+香港凤凰频道,http://hikvision.city:880/fhxgt.m3u8
+香港凤凰频道,http://123.202.245.120:8008/bysid/85
+香港凤凰频道,http://www.pr666.site:4040/udp/239.255.30.123:8231
+HOY 資訊频道,http://123.202.245.120:8009/bysid/78
+國際財經频道,http://123.202.245.120:8009/bysid/76
+HOY TV  频道,http://123.202.245.120:8009/bysid/77
+香港明珠频道,http://123.202.245.120:8008/bysid/2
+香港TVB Plus,http://123.202.245.120:8008/bysid/82
+香港翡翠频道,http://zsntlqj.xicp.net:8895/bysid/1
 无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-无线星河频道,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-香港卫视,http://mywlkj.ddns.net:754/tv/hkstv.m3u8
-香港文旅,http://mywlkj.ddns.net:754/tv/hkstv1.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8
-环球电视,http://mywlkj.ddns.net:754/tv/hqds.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-耀才财经,http://mywlkj.ddns.net:754/tv/bstv.m3u8
-香港佛学,http://mywlkj.ddns.net:754/tv/amtb.m3u8
-Now SPORTS,http://119.23.61.191:8088/HK/nowbg/hls.m3u8
-Now 新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
-无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
-无线财经资讯,http://zsntlqj.xicp.net:8896/bysid/85
-香港翡翠台,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
-香港翡翠台,http://ha.hahomes.net:9982/stream/channel/5954ad9fd4240f4a1c1b64ca44963160?profile=pass
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-香港明珠,http://zsntlqj.xicp.net:8896/bysid/2
-J2,http://zsntlqj.xicp.net:8896/bysid/82
-功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-功夫,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
-娱乐新闻台,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
-ViuTV6,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
+凤凰电影频道,http://117.114.153.25:8180/TV00000000000000000072@HHZT
+STARmovies,http://117.114.153.25:8180/TV00000000000000000075@HHZT
+axn电影频道,http://117.114.153.25:8180/TV00000000000000000076@HHZT
+CINEMAX电影,http://117.114.153.25:8180/TV00000000000000000109@HHZT
+HBO（美）台,http://117.114.153.25:8180/TV00000000000000000074@HHZT
+欧洲华文频道,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
+星空卫视频道,http://wouu.net:9977/udp/239.93.0.156:2193
+星空卫视频道,http://iptv.028028.xyz:8/udp/239.93.0.156:2193
+Channel[V]台,http://iptv.028028.xyz:8/udp/239.93.0.157:2194
+无线娱乐频道,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经频道,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+澳视澳门流畅,http://gzcyl001.3322.org:8081/hls/32/index.m3u8
 DW,http://61.221.215.25:8800/hls/1/index.m3u8
 澳门澳视频道,https://iptv.hiper25.com/TDM/video.m3u8
 澳门葡文,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
@@ -139,117 +161,37 @@ CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 📡湾湾频道👉全网,#genre#
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天新闻,https://ali.hlspull.yximgs.com/live/5e6088a5b86946170b6fd5defc8a971b.flv
-中天亚洲台 HD,http://startv365.com:80/live/9794783213/6955630461/5555.m3u8
-中天亚洲台 HD,http://livetv.skycf.eu.org/live.m3u8?c=3
-中天娱乐 HD,http://startv365.com:80/live/9794783213/6955630461/5554.m3u8
-中天综合 HD,http://startv365.com:80/live/9794783213/6955630461/5552.m3u8
-华视 HD,rtmp://220.130.201.73/sat/tv111
-华视 HD,http://startv365.com:80/live/9794783213/6955630461/5551.m3u8
-公视2台 HD,http://startv365.com:80/live/9794783213/6955630461/5549.m3u8
-大爱2台 HD,http://startv365.com:80/live/9794783213/6955630461/5548.m3u8
-大爱1台 HD,http://startv365.com:80/live/9794783213/6955630461/5547.m3u8
-爱尔达体育2台 HD,http://startv365.com:80/live/9794783213/6955630461/5545.m3u8
-爱尔达体育3台 HD,http://startv365.com:80/live/9794783213/6955630461/5544.m3u8
-爱尔达综合 HD,http://startv365.com:80/live/9794783213/6955630461/5541.m3u8
-东森亚洲 HD,http://startv365.com:80/live/9794783213/6955630461/5540.m3u8
-东森财经 HD,http://startv365.com:80/live/9794783213/6955630461/5539.m3u8
-东森财经 HD,http://livetv.skycf.eu.org/live.m3u8?c=14
-东森戏剧 HD,http://startv365.com:80/live/9794783213/6955630461/5538.m3u8
-东森电影 HD,http://startv365.com:80/live/9794783213/6955630461/5537.m3u8
-东森新闻 HD,https://s2.pub/cctv-18
-东森新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5536.m3u8
-东森新闻 HD,http://livetv.skycf.eu.org/live.m3u8?c=9
-东森洋片 HD,http://startv365.com:80/live/9794783213/6955630461/5534.m3u8
-壹电视旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5533.m3u8
-壹电视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5532.m3u8
-非凡新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5531.m3u8
-半岛新闻,http://livetv.skycf.eu.org/live.m3u8?c=15
-民视高清台 HD,rtmp://220.130.201.73/sat/tv051
-民视高清台 HD,http://startv365.com:80/live/9794783213/6955630461/5530.m3u8
-民视新闻台 HD,http://proxy.dfkj.live/alitv.php?u=min&id=34
-民视新闻台 HD,http://livetv.skycf.eu.org/live.m3u8?c=11
-民视台湾台 HD,http://startv365.com:80/live/9794783213/6955630461/5528.m3u8
-好电视2台 HD,http://startv365.com:80/live/9794783213/6955630461/5527.m3u8
-好莱坞电影 HD,http://startv365.com:80/live/9794783213/6955630461/5526.m3u8
-JET TV HD,http://startv365.com:80/live/9794783213/6955630461/5522.m3u8
-Arirang HD,http://startv365.com:80/live/9794783213/6955630461/5521.m3u8
-龙华偶像 HD,http://startv365.com:80/live/9794783213/6955630461/5518.m3u8
-龙华洋片 HD,http://startv365.com:80/live/9794783213/6955630461/5515.m3u8
-龙华戏剧 HD,http://startv365.com:80/live/9794783213/6955630461/5514.m3u8
-龙祥时代 HD,http://startv365.com:80/live/9794783213/6955630461/5513.m3u8
-美亚电影 HD,http://startv365.com:80/live/9794783213/6955630461/5511.m3u8
-东森MOMO HD,rtmp://f13h.mine.nu/sat/tv761
-东森MOMO HD,http://startv365.com:80/live/9794783213/6955630461/5510.m3u8
-年代新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5509.m3u8
-三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
-三立都会 HD,http://startv365.com:80/live/9794783213/6955630461/5506.m3u8
-三立台湾 HD,http://startv365.com:80/live/9794783213/6955630461/5505.m3u8
-三立综合 HD,http://startv365.com:80/live/9794783213/6955630461/5503.m3u8
-公视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=8
-台视,rtmp://220.130.201.73/sat/tv071
-台视台湾台 HD,http://startv365.com:80/live/9794783213/6955630461/5502.m3u8
-台视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5501.m3u8
-台视综合台 HD,http://startv365.com:80/live/9794783213/6955630461/5500.m3u8
-闽镜新闻台,http://livetv.skycf.eu.org/live.m3u8?c=10
-TVBS新闻台,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
-TVBS新闻台,http://mywlkj.ddns.net:754/tv/tw.php?id=52
-TVBS新闻台,http://livetv.skycf.eu.org/live.m3u8?c=5
-TVBS N HD,http://startv365.com:80/live/9794783213/6955630461/5499.m3u8
-TVBS G HD,http://startv365.com:80/live/9794783213/6955630461/5498.m3u8
-TVBS欢乐台 HD,http://startv365.com:80/live/9794783213/6955630461/5497.m3u8
-TVBS HD,http://startv365.com:80/live/9794783213/6955630461/5496.m3u8
-纬来日本 HD,rtmp://220.130.201.73/sat/tv771
-纬来日本 HD,http://startv365.com:80/live/9794783213/6955630461/5495.m3u8
-纬来精彩 HD,http://startv365.com:80/live/9794783213/6955630461/5494.m3u8
-纬来体育 HD,rtmp://220.130.201.73/sat/tv721
-纬来体育 HD,http://startv365.com:80/live/9794783213/6955630461/5492.m3u8
-卫视中文台 HD,http://startv365.com:80/live/9794783213/6955630461/5489.m3u8
-星卫电影 HD,http://startv365.com:80/live/9794783213/6955630461/5488.m3u8
-星卫娱乐 HD,http://startv365.com:80/live/9794783213/6955630461/5487.m3u8
-中视高清 HD,rtmp://220.130.201.73/sat/tv091
-中视高清 HD,http://startv365.com:80/live/9794783213/6955630461/5485.m3u8
-中视新闻台 HD,http://startv365.com:80/live/9794783213/6955630461/5484.m3u8
-纬来综合 HD,http://startv365.com:80/live/9794783213/6955630461/5490.m3u8
-纬来电视· HD,http://startv365.com:80/live/9794783213/6955630461/5491.m3u8
-纬来电影 HD,http://startv365.com:80/live/9794783213/6955630461/5493.m3u8
-靖天国际 HD,http://startv365.com:80/live/9794783213/6955630461/5519.m3u8
-寰宇新闻 HD,https://ali.hlspull.yximgs.com/live/30d0649593e76f08b0fc991c4b51c453.flv
-东森超视 HD,http://startv365.com:80/live/9794783213/6955630461/5535.m3u8
-爱尔达体育台 HD,http://startv365.com:80/live/9794783213/6955630461/5543.m3u8
-中天新闻 HD,http://startv365.com:80/live/9794783213/6955630461/5553.m3u8
-中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
-博斯网球 HD,http://startv365.com:80/live/9794783213/6955630461/5556.m3u8
-YOYO TV,http://startv365.com:80/live/9794783213/6955630461/473533.m3u8
-美国城市卫视,http://startv365.com:80/live/9794783213/6955630461/473534.m3u8
-天下卫视2,http://startv365.com:80/live/9794783213/6955630461/473535.m3u8
-天下卫视,http://startv365.com:80/live/9794783213/6955630461/473536.m3u8
-台视新闻,http://startv365.com:80/live/9794783213/6955630461/473537.m3u8
-东森美洲,http://startv365.com:80/live/9794783213/6955630461/473538.m3u8
-东森财经,http://startv365.com:80/live/9794783213/6955630461/473539.m3u8
-东森戏剧,http://startv365.com:80/live/9794783213/6955630461/473540.m3u8
-东森卫视,http://startv365.com:80/live/9794783213/6955630461/473541.m3u8
-ET中国,http://startv365.com:80/live/9794783213/6955630461/473542.m3u8
-台视综合,http://startv365.com:80/live/9794783213/6955630461/473543.m3u8
-华视,http://startv365.com:80/live/9794783213/6955630461/473544.m3u8
-三立国际,http://startv365.com:80/live/9794783213/6955630461/473545.m3u8
-民视,http://startv365.com:80/live/9794783213/6955630461/473546.m3u8
-华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
-台視新聞台,http://livetv.skycf.eu.org/live.m3u8?c=4
-台視新聞台,http://mywlkj.ddns.net:754/tv/ttvnews.m3u8
-星光视界,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69
-金马影院,http://mywlkj.ddns.net:754/tv/yximgs.php?id=65
-亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
-亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
-八大戏剧 HD,http://startv365.com:80/live/9794783213/6955630461/5564.m3u8
-八大娱乐 HD,http://startv365.com:80/live/9794783213/6955630461/5563.m3u8
-八大第一 HD,http://startv365.com:80/live/9794783213/6955630461/5562.m3u8
-八大综合 HD,http://startv365.com:80/live/9794783213/6955630461/5561.m3u8
-博斯高球1台 HD,http://startv365.com:80/live/9794783213/6955630461/5560.m3u8
-博斯高球2台 HD,http://startv365.com:80/live/9794783213/6955630461/5559.m3u8
-博斯体育1台 HD,http://startv365.com:80/live/9794783213/6955630461/5558.m3u8
-博斯体育2台 HD,http://startv365.com:80/live/9794783213/6955630461/5557.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+台视频道,rtmp://220.130.201.73/sat/tv071
+民视频道,rtmp://220.130.201.73/sat/tv051
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来日本,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
+
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+華視频道,rtmp://f13h.mine.nu/sat/tv111
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
 
 📡湖北频道👉全网,#genre#
 荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1735660799-0-0-1963c999651ea135890d90bcc5ae172d
