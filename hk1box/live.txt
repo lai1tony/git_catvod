@@ -23,12 +23,10 @@ HK1影视仓使用,https://p.fygg.xyz/f/Kdcp/%E5%BD%B1%E8%A7%86%E4%BB%93%E4%BD%B
 香港凤凰频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港凤凰频道,http://gzcyl001.3322.org:8081/hls/33/index.m3u8
 香港凤凰频道,http://103.95.24.37:880/fhxgt.m3u8
-翡翠频道流畅,http://gzcyl001.3322.org:8081/hls/30/index.m3u8
 翡翠美洲流畅,http://gzcyl001.3322.org:8081/hls/31/index.m3u8
 星空频道频道,http://218.89.233.208:8088/rtp/239.93.0.156:2193
 星空频道频道,http://218.89.233.208:8088/rtp/239.93.1.10:2193
 香港無綫新聞,http://113.83.152.28:1935/bysid/83
-
 香港無綫新聞,http://zsntlqj.xicp.net:8896/bysid/83
 香港凤凰频道,http://zsntlqj.xicp.net:8896/bysid/85
 TVB 香港频道,http://zsntlqj.xicp.net:8896/bysid/82
