@@ -43,7 +43,7 @@
       "api": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
-{"key":"csp_Lib","name":"🇨🇳LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
+{"key":"csp_Lib","name":"🇨🇳LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_miai","name":"👑米爱蓝光👑","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/beMAHp/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json"},
 {
@@ -75,14 +75,13 @@
             "ext" : "https://gitee.com/laivbox/mys/raw/master/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B1127.json"
 },
 {"key": "csp_XPath_企鹅体育","name": "🐧┃企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52pan.top:81/api/v3/file/get/174889/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD.json?sign=IwG1RevJkCsw63TYk2cAGogE42sCwE-O6qh4WUkCIow%3D%3A0"},
-
 //{"key":"drpy_js_JRKAN直播","name":"⚽球赛直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
 {
             "key": "csp_qiumi",
             "name": "⚽┃球迷直播",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjmjk/main/api/drpy2.min.js",
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjmjk/main/js/jrk.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -137,7 +136,6 @@
       "quickSearch": 1,
       "changeable": 1
 }],
-
 //解X设置
 "parses":[
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
@@ -154,7 +152,6 @@
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
 {"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 {"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}],
-
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 //小苹果
 //"spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",
@@ -178,7 +175,6 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
-
 "doh": [
     {
       "name": "Google",
@@ -324,7 +320,6 @@
         "video/tos/cn"
       ]
     },
-
 {
 				"name": "proxy",
 				"hosts": [
