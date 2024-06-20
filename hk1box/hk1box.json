@@ -36,13 +36,7 @@
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/lai1tony/git_catvod/master/hk1box/voflix.js"
   },
 {"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-{
-      "key": "drpy_js_奇珍异兽",
-      "name": "🇨🇳官源 | 爱奇艺[js]",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
-    },
+{"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"csp_Lib","name":"🇨🇳LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_miai","name":"👑米爱蓝光👑","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/beMAHp/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json"},
