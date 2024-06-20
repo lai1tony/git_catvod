@@ -75,6 +75,7 @@
             "ext" : "https://gitee.com/laivbox/mys/raw/master/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B1127.json"
 },
 {"key": "csp_XPath_企鹅体育","name": "🐧┃企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52pan.top:81/api/v3/file/get/174889/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD.json?sign=IwG1RevJkCsw63TYk2cAGogE42sCwE-O6qh4WUkCIow%3D%3A0"},
+
 //{"key":"drpy_js_JRKAN直播","name":"⚽球赛直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
 {
             "key": "csp_qiumi",
@@ -136,6 +137,7 @@
       "quickSearch": 1,
       "changeable": 1
 }],
+
 //解X设置
 "parses":[
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
@@ -152,6 +154,7 @@
 {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
 {"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 {"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}],
+
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 //小苹果
 //"spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",
@@ -164,8 +167,8 @@
 //"spider": "http://52bsj.vip:81/api/v3/file/get/170325/0928.jar?sign=HEawELyUvljhHCgfGefYOZ6DHvaGLMWouC0tIwMkd9E%3D%3A0;md5;02c40490ea14c433b66fcc0ce2f2ed94",
 //"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 //Yoursmile720240414
-//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CE6C4DB34B73FB63711906DFA9152021",
-"spider": "https://gh.con.sh/https://github.com/cysk003/Yoursmile7_TVBox/blob/master/Yoursmile.jar",
+"spider": "https://p.fygg.xyz/f/oRtK/Yoursmile.jar",
+//"spider": "https://gh.con.sh/https://github.com/cysk003/Yoursmile7_TVBox/blob/master/Yoursmile.jar",
 //直播
  "lives": [
     {
@@ -175,6 +178,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
+
 "doh": [
     {
       "name": "Google",
@@ -320,6 +324,7 @@
         "video/tos/cn"
       ]
     },
+
 {
 				"name": "proxy",
 				"hosts": [
