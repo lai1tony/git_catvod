@@ -5,66 +5,132 @@ Clash工具使用,https://p.fygg.xyz/f/dyTm/Clash%E4%BD%BF%E7%94%A8.mp4
 HK1影视仓使用,https://p.fygg.xyz/f/Kdcp/%E5%BD%B1%E8%A7%86%E4%BB%93%E4%BD%BF%E7%94%A8.mp4
 
 🇨🇳中国港澳👉春盈,#genre#
-凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文频道,http://218.89.233.208:8088/rtp/239.93.0.162:2192
-凤凰中文频道,http://218.89.233.208:8088/rtp/239.93.1.9:2192
-凤凰中文频道,http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
-凤凰中文频道,http://112.19.171.156:9999/udp/239.93.0.162:2192
+TVB千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+翡翠台HD,http://php.jdshipin.com:8880/smt.php?id=Wlt
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=tvbxinhe_twn
+TVB+,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+RHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+VIU1,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+VIUTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+财经资讯台,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+凤凰卫视中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视资讯台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+翡翠台,http://www.balala.top:9200/channel/n379c44d0/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰资讯,http://jxtv3.gdsz.eu.org:8081/hls/36/index.m3u8
+凤凰中文,http://jxtv3.gdsz.eu.org:8081/hls/37/index.m3u8
+凤凰香港,http://jxtv3.gdsz.eu.org:8081/hls/38/index.m3u8
+TVB星河,http://jxtv3.gdsz.eu.org:8081/hls/135/index.m3u8
+TVB星河,http://jxtv3.gdsz.eu.org:8081/hls/136/index.m3u8
 
-凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
-凤凰资讯频道,http://218.89.233.208:8088/rtp/239.93.0.118:2191
-凤凰资讯频道,http://218.89.233.208:8088/rtp/239.93.1.4:2191
-凤凰资讯频道,http://218.89.233.208:8088/udp/239.93.0.118:2191
-凤凰资讯频道,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯频道,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰资讯频道,http://103.95.24.37:880/fhzx.m3u8
+凤凰中文,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
+凤凰资讯,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
+凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰香港,http://103.95.24.37:880/fhxgt.m3u8
+凤凰中文,http://php.jdshipin.com:8880/jydx.php?id=37$揭阳电信
+凤凰资讯,http://php.jdshipin.com:8880/jydx.php?id=36$揭阳电信
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$中华电信
+凤凰中文,http://27.184.17.222:4022/udp/239.254.201.2:5226$河北电信组播
+凤凰资讯,http://27.184.17.222:4022/udp/239.254.201.3:5227$河北电信组播
+凤凰电影,http://27.184.17.222:4022/udp/239.254.201.1:5214$河北电信组播
+凤凰中文,http://111.224.75.66:4022/udp/239.254.201.2:5226$河北电信组播
+凤凰资讯,http://111.224.75.66:4022/udp/239.254.201.3:5227$河北电信组播
+凤凰电影,http://111.224.75.66:4022/udp/239.254.201.1:5214$河北电信组播
+凤凰中文,http://125.71.58.184:4022/rtp/239.93.0.162:2192$四川电信组播
+凤凰中文,http://125.71.58.184:4022/rtp/239.93.1.9:2192$四川电信组播
+凤凰资讯,http://125.71.58.184:4022/rtp/239.93.0.118:2191$四川电信组播
+凤凰资讯,http://125.71.58.184:4022/rtp/239.93.1.4:2191$四川电信组播
 
-香港凤凰频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-香港凤凰频道,http://gzcyl001.3322.org:8081/hls/33/index.m3u8
-香港凤凰频道,http://103.95.24.37:880/fhxgt.m3u8
-翡翠美洲流畅,http://gzcyl001.3322.org:8081/hls/31/index.m3u8
-香港無綫新聞,http://113.83.152.28:1935/bysid/83
-香港無綫新聞,http://zsntlqj.xicp.net:8896/bysid/83
-香港凤凰频道,http://zsntlqj.xicp.net:8896/bysid/85
-TVB 香港频道,http://zsntlqj.xicp.net:8896/bysid/82
-香港翡翠频道,http://beishan008.asuscomm.com:8889/bysid/1
-香港無綫新聞,http://123.202.245.120:8008/bysid/83
-香港無綫新聞,http://123.202.245.120:8008/bysid/2
-香港凤凰频道,http://hikvision.city:880/fhxgt.m3u8
-香港凤凰频道,http://123.202.245.120:8008/bysid/85
-香港凤凰频道,http://www.pr666.site:4040/udp/239.255.30.123:8231
-國際財經频道,http://123.202.245.120:8009/bysid/76
-HOY TV  频道,http://123.202.245.120:8009/bysid/77
-香港TVB Plus,http://123.202.245.120:8008/bysid/82
-无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB 香港武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-无线娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB香港直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
-星空卫视频道,http://giwon.ddns.net:5555/udp/239.93.0.156:2193
-星空卫视频道,http://giwon.ddns.net:5555/rtp/239.93.1.10:2193
-星空卫视频道,http://118.112.148.228:4022/rtp/239.93.0.156:2193
-星空卫视频道,http://118.112.148.228:4022/rtp/239.93.1.10:2193
-星空卫视频道,http://118.112.148.228:4022/udp/239.93.0.156:2193
-无线星河频道,http://113.64.145.55:8081/hls/135/index.m3u8
-无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-凤凰电影频道,http://117.114.153.25:8180/TV00000000000000000072@HHZT
-星空卫视频道,http://iptv.028028.xyz:8/udp/239.93.0.156:2193
-星空卫视频道,http://wouu.net:9977/udp/239.93.0.156:2193
-港臺電影频道,https://epg.pw/stream/9733a9faedac1ecb653defe0c92c8c29c8e1f07b0869bd241b1b2ad7737c1dde.ctv
-STARmovies,http://117.114.153.25:8180/TV00000000000000000075@HHZT
-axn电影频道,http://117.114.153.25:8180/TV00000000000000000076@HHZT
-CINEMAX电影,http://117.114.153.25:8180/TV00000000000000000109@HHZT
-HBO（美）台,http://117.114.153.25:8180/TV00000000000000000074@HHZT
-香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+星空卫视,http://125.71.58.184:4022/rtp/239.93.0.156:2193$四川电信组播
+星空卫视,http://125.71.58.184:4022/rtp/239.93.1.10:2193$四川电信组播
+Channel[V],http://125.71.58.184:4022/rtp/239.93.0.157:2194$四川电信组播1
+Channel[V],http://125.71.58.184:4022/rtp/239.93.1.7:2194$四川电信组播2
+Channel[V],http://iptv.028028.xyz:8/udp/239.93.0.157:2194$四川电信组播3
+
+
+无线翡翠台,http://biaozhun114.com/tv/gdmzyd.php?id=1$梅州移动
+无线星河台,http://biaozhun114.com/tv/gdmzyd.php?id=2
+无线明珠台,http://biaozhun114.com/tv/gdmzyd.php?id=3
+凤凰中文台,http://biaozhun114.com/tv/gdmzyd.php?id=4
+澳亚卫视台,http://biaozhun114.com/tv/gdmzyd.php?id=5
+澳视澳门台,http://biaozhun114.com/tv/gdmzyd.php?id=6
+东森电影台,http://biaozhun114.com/tv/gdmzyd.php?id=7
+
+
+星空卫视,http://118.114.168.57:8888/udp/239.93.0.156:2193$成都电信组播1
+星空卫视,http://118.122.103.228:4022/udp/239.93.0.156:2193$成都电信组播2
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-莲花莲花「代理」,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
-新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-耀才财经频道,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+国兴卫视,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
+
+TVBPlus,http://154.204.178.8:345/233.php
+TVBPlus,http://biaozhun114.com/tv/tvbplus.m3u8
+TVBPlus,http://biaozhun114.com/tv/hk.php?id=45
+
+星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+NOW星影,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
+NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
+TVB华语剧,http://60.30.198.43:5080/香蕉哥/华语剧/hls.m3u8
+TVB亚洲剧,http://60.30.198.43:5080/香蕉哥/亚洲剧/hls.m3u8
+广电翡翠1,http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8
+广电翡翠2,http://60.30.198.43:5080/香蕉哥/广电翡翠1/hls.m3u8
+TVB翡翠,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
+TVB翡翠2,http://60.30.198.43:5080/香蕉哥/tvb翡翠2/hls.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+翡翠台[1920x1080],http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+TVB星河[1280x720],http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河[1280x720],http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+J2[1920x1080],http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+VIUTV[1920x1080],http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+星河频道,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
+明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
+天映频道,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+TVB无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
+TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+TVB无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+TVB明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+无线新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+东森新闻台,https://edge1.laotv.la/live/DongsenMovie/index.m3u8
+
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB星河,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB娱乐新闻台,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+星河频道,http://113.64.145.100:8081/hls/135/index.m3u8#http://113.64.145.61:8081/hls/135/index.m3u8#http://php.jdshipin.com:8880/jydx.php?id=135
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+
+//澳门
+亚旅卫视,http://www.ctstvnet.com/uploads/video/jiemushubo.mp4
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视葡文台,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
+澳视卫星台,http://61.244.22.5/ch3/ch3.live/playelist.m3u8
+澳视体育台,http://61.244.22.5/ch4/ch4.live/playelist.m3u8
+澳视资讯台,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
+澳视高清台,http://61.244.22.5/ch6/hd_ch6.live/playerlist.m3u8
+莲花卫视,http://php.jdshipin.com:8880/amlh.php
+莲花卫视,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
+莲花卫视,https://edge1.laotv.la:443/live/AomenLotus/index.m3u8
 
 🇨🇳央视频道👉移动,#genre#
 CCTV-01「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
