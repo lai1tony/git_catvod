@@ -16,7 +16,8 @@
             "name": "🍁戏魅梦工场┃🎬荐片推介首页🍎",
             "type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1
 },
-{"key":"drpy_js_荐片","name":"🇨🇳荐片 | 影视[js]","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh.con.sh/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
+{"key":"t9-jp","name":"影视-荐片(t9)","type":4,"api":"https://catbox.n13.club/t9/jianpian.php"},
+{"key":"t9-caiji","name":"影视-采集(t9)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
 //{"key":"csp_AppMr","name":"🇨🇳明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_SP360","name":"💘360〔SP〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
  {
@@ -118,6 +119,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+  {
+      "key": "紙條搜",
+      "name": "紙條┃云盘",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://tv.菜妮丝.top/jar/fm0625.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
     },
 //{"key":"js豆瓣","name":"🅱豆瓣热播","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_BBB","name":"🅱️bili","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://p.fygg.xyz/f/L4tp/Bili.json"},
