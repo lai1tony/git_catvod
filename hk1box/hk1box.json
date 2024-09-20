@@ -16,8 +16,7 @@
             "name": "🍁戏魅梦工场┃🎬荐片推介首页🍎",
             "type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1
 },
-//{"key":"csp_AppMr","name":"🇨🇳明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_SP360","name":"💘360〔SP〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json"},
+
 {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -42,12 +41,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
+      "ext": "https://www.zxzja.com/"
     },
 {"key":"圣城影视","name":"👑圣城影视👑","type":3,"api":"csp_XBPQ",
- "searchable":1,"quickSearch":1,"filterable":0,"playerType":1,
- "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
- "ext":  {  
+searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","ext":  {  
     "站名":"圣城影视", 
     "主页url":"https://sc1080.top/",
     "简介":"剧情：</span>&&</span>", 
@@ -72,7 +69,8 @@
     "播放标题":"<span>&&</span>",
     "播放列表":"<a&&</a>",
     "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类":"短剧$21#电视剧$2#电影$1#动漫$4#bilibli$5#综艺$3"  
+    "分类":"短剧$21#电视剧$2#电影$1#动漫$4#bilibli$5#综艺$3"
+	  
     }},
 {
       "key": "csp_xml_ikun",
@@ -147,6 +145,7 @@
             "filterable" : 1,
             "ext" : "https://gitee.com/laivbox/mys/raw/master/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B1127.json"
 },
+{"key": "csp_XPath_企鹅体育","name": "🐧┃企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52pan.top:81/api/v3/file/get/174889/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD.json?sign=IwG1RevJkCsw63TYk2cAGogE42sCwE-O6qh4WUkCIow%3D%3A0"},
 
 //{"key":"drpy_js_JRKAN直播","name":"⚽球赛直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
 {
@@ -163,7 +162,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
-{"key":"88看球","name":"⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
+{"key":"88看球","name":"⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
   {
       "key": "紙條搜",
       "name": "紙條┃云盘",
@@ -263,7 +262,7 @@
 //FTY
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726760091321/fan.txt;md5;050512c9db356ad449af9d37dde8c5f0",
 //Yoursmile720240414
-//"spider": "https://p.fygg.xyz/f/JwFJ/Yoursmile240726.jar",
+//"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;73D04EE8BAFAF24C7A16B1555BCDBC02",
 //直播
  "lives": [
     {
@@ -563,13 +562,3 @@
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}]}
-
-
-
-
-
-
-
-
-​
-Auto
