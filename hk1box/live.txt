@@ -64,49 +64,23 @@ CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 上海纪实人文,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 
 🇨🇳中国港澳👉春盈,#genre#
-香港凤凰台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-香港凤凰台,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
-凤凰中文台,http://171.212.170.32:8088/udp/239.93.0.162:2192
-凤凰中文台,http://www.lebaobei.top:6868/udp/239.255.30.50:8231?$甘肃酒泉电信
-凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
-凤凰资讯,http://www.lebaobei.top:6868/udp/239.255.30.70:8231?$甘肃酒泉电信
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-TVB娱乐新闻,https://ali.hlspull.yximgs.com/live/34bcec00e494dad391c3972b4e735507.flv
-TVB亚洲剧,https://ali.hlspull.yximgs.com/live/9e84da260ec546c2177fab70d303bf97.flv
-TVB香港直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
-无线星河频道,http://113.64.145.55:8081/hls/135/index.m3u8
-无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-J2,http://cdn9.1678520.xyz/smt1.1.php?id=j2_twn
-J2,http://110.185.171.226:96/hksmt.php?id=j2_twn
-明珠台,http://us4ul.jdshipin.com/us4.uy.ts.ulivetv.net/c0vzuc7wqkzk/c0vzuc7wqkzk_mingzhutaibm_8erk_yj-1722759600-1299-0ef47ea2062a1ec47917f0f50a096afe.ts
-无线新闻,https://ali.hlspull.yximgs.com/live/84596309d73c9096dedd4a1b06be197b.flv
-无线新闻,https://ali.hlspull.yximgs.com/live/1e3c71bf047b85a8ed813e511ee99504.flv
-HOYTV,https://ali.hlspull.yximgs.com/live/a7dc75c2b1446c8ed790a9a5455d6da3.flv
-HOYTV,https://ali.hlspull.yximgs.com/live/8ece0bc0038891f713b0a9392211d112.flv
-HOY资讯,https://ali.hlspull.yximgs.com/live/a1bcdd1d8b2eaa07647faea288d98974.flv
-HOY资讯,http://cdn9.1678520.xyz/xsj1.php?id=hoy-info&xl=0
-HOY财经,https://ali.hlspull.yximgs.com/live/87e860a3b8edc5960407180064d68db8.flv
-HOY财经,https://ali.hlspull.yximgs.com/live/c9b967cb2b69bc726139e62bec41594f.flv
-有线18,https://ali.hlspull.yximgs.com/live/edd0088f975f31e4f98c06372c30331e.flv
-ViuTu,http://cdn9.1678520.xyz/smt1.1.php?id=viu1_twn
-ViuTu,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-ViuTu,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-ViuTu6,https://ali.hlspull.yximgs.com/live/ee44948e0d9297eaab24191bd03557e4.flv
-ViuTu6,http://php.jdshipin.com:8880/xsj.php?id=viutv6
-NOW新闻,https://ali.hlspull.yximgs.com/live/26ddc853128c536508ae0de3f0e66c00.flv
-NOW新闻,http://cdn9.1678520.xyz/xsj1.php?id=now-news&xl=0
-NOW新闻,https://ali.hlspull.yximgs.com/live/4054d931f6829204ce3f35c31659bbdf.flv
-NOW财经,http://110.185.171.226:96/xhgat/gat.php?type=3&id=now-finance&key=a2307bfe379dc306426754e701cf6b54
-NOW财经,http://cdn9.1678520.xyz/xsj1.php?id=now-finance&xl=0
-NOW财经,http://php.jdshipin.com:8880/xsj.php?id=now-finance
-NOW爆菊,https://ali.hlspull.yximgs.com/live/8d4b2636bcb1896bf2e74ad687000f4b.flv
-NOW爆菊,http://110.185.171.226:96/xhgat/gat.php?type=1&id=now-baogu-superstars&key=032dc793d557ea20956c952df6c1a00c
-NOW星影,http://123.150.5.131:9000/NOW%E6%98%9F%E5%BD%B1/%E9%A6%99%E8%95%89%E5%93%A5%E4%B8%93%E7%94%A8-%E6%98%93%E7%99%BCTV.live.ts
-NOW星影,http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
-RTHKTV34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-RTHKTV34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHKTV35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8
+凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8
+凤凰资询,http://avd.iptviptv.site:9694/hls/732/index.m3u8
+重温经典,http://avd.iptviptv.site:9694/hls/716/index.m3u8
+新视觉,http://avd.iptviptv.site:9694/hls/717/index.
+明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8
+翡翠台(原版),http://avd.iptviptv.site:9694/hls/98/index.m3u8
+千禧经典台,http://avd.iptviptv.site:9694/hls/901/index.m3u8
+翡翠台4k,http://avd.iptviptv.site:9694/hls/902/index.m3u8
+黃金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
+翡翠台(广电),http://avd.iptviptv.site:9694/hls/99/index.m3u8
+Animax,http://avd.iptviptv.site:9694/hls/903/index.m3u8
+美亚电影台,http://avd.iptviptv.site:9694/hls/904/index.m3u8
+TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
+无线新闻台,http://avd.iptviptv.site:9694/hls/906/index.m3u8
+天映經典頻道,http://avd.iptviptv.site:9694/hls/914/index.m3u8
+HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
 澳门莲花,https://ali.hlspull.yximgs.com/live/89a2b4a393135e8fddd7bc85a26480e7.flv
 亚旅卫视,http://www.ctstvnet.com/uploads/video/jiemushubo.mp4
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
