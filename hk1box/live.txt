@@ -64,27 +64,10 @@ CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 上海纪实人文,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 
 🇨🇳中国港澳👉春盈,#genre#
-凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8
-凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8
-凤凰资询,http://avd.iptviptv.site:9694/hls/732/index.m3u8
-重温经典,http://avd.iptviptv.site:9694/hls/716/index.m3u8
-新视觉,http://avd.iptviptv.site:9694/hls/717/index.
-明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8
-翡翠台(原版),http://avd.iptviptv.site:9694/hls/98/index.m3u8
-千禧经典台,http://avd.iptviptv.site:9694/hls/901/index.m3u8
-翡翠台4k,http://avd.iptviptv.site:9694/hls/902/index.m3u8
-黃金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
-翡翠台(广电),http://avd.iptviptv.site:9694/hls/99/index.m3u8
-Animax,http://avd.iptviptv.site:9694/hls/903/index.m3u8
-美亚电影台,http://avd.iptviptv.site:9694/hls/904/index.m3u8
-TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
-无线新闻台,http://avd.iptviptv.site:9694/hls/906/index.m3u8
-天映經典頻道,http://avd.iptviptv.site:9694/hls/914/index.m3u8
-HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
-澳门莲花,https://ali.hlspull.yximgs.com/live/89a2b4a393135e8fddd7bc85a26480e7.flv
-亚旅卫视,http://www.ctstvnet.com/uploads/video/jiemushubo.mp4
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+凤凰中文,http://14.145.132.125:8081/hls/33/index.m3u8
+翡翠台,http://14.145.132.125:8081/hls/30/index.m3u8
+明珠台,http://14.145.132.125:8081/hls/31/index.m3u8
+澳视澳门,http://14.145.132.125:8081/hls/32/index.m3u8
 
 🌏全球频道👉全网,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
