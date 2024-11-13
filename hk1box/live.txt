@@ -1,263 +1,6 @@
 🐼机盒使用说明👉恭贺,#genre#
 HK1影视仓使用,https://p.fygg.xyz/f/Kdcp/%E5%BD%B1%E8%A7%86%E4%BB%93%E4%BD%BF%E7%94%A8.mp4
 
-🇨🇳国内频道👉测试,#genre#
-CCTV1,http://60.255.240.247:8090/live/CCTV-1H265_4000.m3u8
-CCTV2,http://60.255.240.247:8090/live/CCTV-2H265_4000.m3u8
-CCTV3,http://60.255.240.247:8090/live/CCTV-3H265_4000.m3u8
-CCTV4,http://60.255.240.247:8090/live/CCTV-4H265_4000.m3u8
-CCTV5,http://60.255.240.247:8090/live/CCTV-5H265_4000.m3u8
-CCTV5+,http://60.255.240.247:8090/live/CCTV-5plusH265_4000.m3u8
-CCTV6,http://60.255.240.247:8090/live/CCTV-6H265_4000.m3u8
-CCTV7,http://60.255.240.247:8090/live/CCTV-7H265_4000.m3u8
-CCTV8,http://60.255.240.247:8090/live/CCTV-8H265_4000.m3u8
-CCTV9,http://60.255.240.247:8090/live/CCTV-9H265_4000.m3u8
-CCTV10,http://60.255.240.247:8090/live/CCTV-10H265_4000.m3u8
-CCTV11,http://60.255.240.247:8090/live/CCTV-11-H265_4000.m3u8
-CCTV12,http://60.255.240.247:8090/live/CCTV-12H265_4000.m3u8
-CCTV13,http://60.255.240.247:8090/live/CCTV-xw_4000.m3u8
-CCTV14,http://60.255.240.247:8090/live/CCTV-14H265_4000.m3u8
-CCTV15,http://60.255.240.247:8090/live/CCTV-15-yyH265_4000.m3u8
-CCTV16,http://60.255.240.247:8090/live/CCTV-16_4000.m3u8
-CCTV16_4K,http://60.255.240.247:8090/live/CCTV-16-4K_8000.m3u8
-CCTV17,http://60.255.240.247:8090/live/CCTV-17_4000.m3u8
-CCTV4K,http://60.255.240.247:8090/live/ys4Kcq_2000.m3u8
-CETV1,http://60.255.240.247:8090/live/CETV-1H264_4000.m3u8
-CETV4,http://60.255.240.247:8090/live/CETV-4H264_2000.m3u8
-峨眉电影4K,http://60.255.240.247:8090/live/emdy4k_8000.m3u8
-欢笑剧场_4K,http://60.255.240.247:8090/live/hxjc-4k_8000.m3u8
-凤凰中文,http://60.255.240.247:8090/live/test1_4000.m3u8
-凤凰资讯,http://60.255.240.247:8090/live/test2_4000.m3u8
-安徽卫视,http://60.255.240.247:8090/live/ahwsH265_4000.m3u8
-北京卫视,http://60.255.240.247:8090/live/bjwsH265_4000.m3u8
-兵团卫视,http://60.255.240.247:8090/live/btws_4000.m3u8
-重庆卫视,http://60.255.240.247:8090/live/cqwsH265_4000.m3u8
-东方卫视,http://60.255.240.247:8090/live/dfwsH265_4000.m3u8
-东南卫视,http://60.255.240.247:8090/live/dnwsfjwsH265_4000.m3u8
-甘肃卫视,http://60.255.240.247:8090/live/gsws_4000.m3u8
-广东卫视,http://60.255.240.247:8090/live/gdwsH265_4000.m3u8
-广西卫视,http://60.255.240.247:8090/live/gxws_4000.m3u8
-贵州卫视,http://60.255.240.247:8090/live/gzwsH265_4000.m3u8
-海南卫视,http://60.255.240.247:8090/live/hnws_4000.m3u8
-河南卫视,http://60.255.240.247:8090/live/hnws35_4000.m3u8
-湖北卫视,http://60.255.240.247:8090/live/hbwsH265_4000.m3u8
-湖南卫视,http://60.255.240.247:8090/live/hnwsH265_4000.m3u8
-吉林卫视,http://60.255.240.247:8090/live/jlwsH265_4000.m3u8
-江苏卫视,http://60.255.240.247:8090/live/jswsH265_4000.m3u8
-江西卫视,http://60.255.240.247:8090/live/jxwsH265_4000.m3u8
-康巴卫视,http://60.255.240.247:8090/live/kbwsH264_2000.m3u8
-辽宁卫视,http://60.255.240.247:8090/live/lnwsHDH264_4000.m3u8
-山东卫视,http://60.255.240.247:8090/live/sdwsH265_4000.m3u8
-山西卫视,http://60.255.240.247:8090/live/sxws42_4000.m3u8
-陕西卫视,http://60.255.240.247:8090/live/sxws_4000.m3u8
-深圳卫视,http://60.255.240.247:8090/live/szwsH265_4000.m3u8
-四川卫视,http://60.255.240.247:8090/live/scwsH265_4000.m3u8
-天津卫视,http://60.255.240.247:8090/live/tjwsH265_4000.m3u8
-西藏卫视,http://60.255.240.247:8090/live/xzwsH264_2000.m3u8
-云南卫视,http://60.255.240.247:8090/live/ynws_4000.m3u8
-浙江卫视,http://60.255.240.247:8090/live/zjwsH265_4000.m3u8
-黑龙江卫视,http://60.255.240.247:8090/live/hljwsH265_4000.m3u8
-内蒙古卫视,http://60.255.240.247:8090/live/nmgws_4000.m3u8
-山东教育卫视,http://60.255.240.247:8090/live/sdjy_4000.m3u8
-中央新影-老故事,http://60.255.240.247:8090/live/lgs_2000.m3u8
-中央新影-中学生,http://60.255.240.247:8090/live/zxs_4000.m3u8
-中央新影-发现之旅,http://60.255.240.247:8090/live/fxzl_2000.m3u8
-CHC高清电影,http://60.255.240.247:8090/live/lnwsCHC-HDH265_4000.m3u8
-CHC动作电影,http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8
-CHC家庭影院,http://60.255.240.247:8090/live/jbtygqCHCjtyyH265_4000.m3u8
-重温经典,http://60.255.240.247:8090/live/CWJD_4000.m3u8
-新视觉,http://60.255.240.247:8090/live/ycxsjH265_4000.m3u8
-动漫秀场,http://60.255.240.247:8090/live/yybb-dmxc-H265_4000.m3u8
-都市剧场,http://60.255.240.247:8090/live/yxfydsjcHDH265_4000.m3u8
-法治天地,http://60.255.240.247:8090/live/fztx_4000.m3u8
-纪实科教,http://60.255.240.247:8090/live/bjjs_2000.m3u8
-嘉佳卡通,http://60.255.240.247:8090/live/jjkt_2000.m3u8
-家庭理财,http://60.255.240.247:8090/live/jtlc_4000.m3u8
-财富天下,http://60.255.240.247:8090/live/cftx_4000.m3u8
-金鹰纪实,http://60.255.240.247:8090/live/jyjsHDH265_4000.m3u8
-金鹰卡通,http://60.255.240.247:8090/live/jykt_2000.m3u8
-劲爆体育,http://60.255.240.247:8090/live/lqhxjcHDH265_4000.m3u8
-卡酷少儿,http://60.255.240.247:8090/live/kkkt_4000.m3u8
-快乐垂钓,http://60.255.240.247:8090/live/fyzqklcdHDH265_4000.m3u8
-梨园频道,http://60.255.240.247:8090/live/ly_4000.m3u8
-魅力足球,http://60.255.240.247:8090/live/mlyy_4000.m3u8
-生活时尚,http://60.255.240.247:8090/live/shssH265_4000.m3u8
-四海钓鱼,http://60.255.240.247:8090/live/shdy_4000.m3u8
-天元围棋,http://60.255.240.247:8090/live/tywq_2000.m3u8
-武术世界,http://60.255.240.247:8090/live/wssj_4000.m3u8
-先锋乒羽,http://60.255.240.247:8090/live/xfpy_4000.m3u8
-证劵服务,http://60.255.240.247:8090/live/jz_2000.m3u8
-中国天气,http://60.255.240.247:8090/live/zgqx_4000.m3u8
-四川文化,http://60.255.240.247:8090/live/SCTV-2-H265_4000.m3u8
-四川经济,http://60.255.240.247:8090/live/SCTV-3-H265_4000.m3u8
-四川新闻,http://60.255.240.247:8090/live/SCTV-4H265_4000.m3u8
-四川影视,http://60.255.240.247:8090/live/SCTV-5-scysH265_4000.m3u8
-四川妇女,http://60.255.240.247:8090/live/SCTV-7-_4000.m3u8
-四川科教,http://60.255.240.247:8090/live/SCTV-ggSCTV-8_4000.m3u8
-四川乡村,http://60.255.240.247:8090/live/SCTV-kjSCTV-9-_4000.m3u8
-峨嵋电影,http://60.255.240.247:8090/live/emdygqH265_4000.m3u8
-川网导视,http://60.255.240.247:8090/live/cwdsHDH264_4000.m3u8
-精品导视,http://60.255.240.247:8090/live/jpdsH265_4000.m3u8
-成都新闻,http://60.255.240.247:8090/live/CDTV-1_4000.m3u8
-成都经济,http://60.255.240.247:8090/live/CDTV-2_4000.m3u8
-成都都市,http://60.255.240.247:8090/live/CDTV-3_4000.m3u8
-成都影视,http://60.255.240.247:8090/live/CDTV-4_4000.m3u8
-成都公共,http://60.255.240.247:8090/live/CDTV-5_4000.m3u8
-成都购物,http://60.255.240.247:8090/live/mrgw_4000.m3u8
-沙湾融媒,http://60.255.240.247:8090/live/swxwzh_2000.m3u8
-安居综合,http://60.255.240.247:8090/live/ajxw_2000.m3u8
-安岳综合,http://60.255.240.247:8090/live/ayxwzh_4000.m3u8
-安州综合,http://60.255.240.247:8090/live/azgq_2000.m3u8
-巴中文旅,http://60.255.240.247:8090/live/bzetH264_2000.m3u8
-巴中综合,http://60.255.240.247:8090/live/bzytH265_4000.m3u8
-巴州电视,http://60.255.240.247:8090/live/bzxw_4000.m3u8
-宝兴综合,http://60.255.240.247:8090/live/bxdst_2000.m3u8
-北川综合,http://60.255.240.247:8090/live/bcxwHD_2000.m3u8
-苍溪综合,http://60.255.240.247:8090/live/cxxwgqH265_4000.m3u8
-长宁综合,http://60.255.240.247:8090/live/znzh_2000.m3u8
-朝天综合,http://60.255.240.247:8090/live/ctxwzh_2000.m3u8
-船山综合,http://60.255.240.247:8090/live/csxw_2000.m3u8
-达川新闻,http://60.255.240.247:8090/live/dcxwzh_2000.m3u8
-达州导视,http://60.255.240.247:8090/live/dzds_2000.m3u8
-达州公共,http://60.255.240.247:8090/live/dzgg_2000.m3u8
-达州新闻,http://60.255.240.247:8090/live/dzxwzh_2000.m3u8
-大英新闻,http://60.255.240.247:8090/live/dyxwzhH265_4000.m3u8
-丹棱综合,http://60.255.240.247:8090/live/dlxwzhH265_4000.m3u8
-东兴综合,http://60.255.240.247:8090/live/dxxwzh_4000.m3u8
-峨眉综合,http://60.255.240.247:8090/live/emsxw_2000.m3u8
-恩阳新闻,http://60.255.240.247:8090/live/eyxw_2000.m3u8
-涪城综合,http://60.255.240.247:8090/live/fcgq_2000.m3u8
-富顺综合,http://60.255.240.247:8090/live/fszh_2000.m3u8
-甘孜综合,http://60.255.240.247:8090/live/gzxwzh_2000.m3u8
-古蔺新闻,http://60.255.240.247:8090/live/glxwzhgq_2000.m3u8
-广安公共,http://60.255.240.247:8090/live/gagg_2000.m3u8
-广安新闻,http://60.255.240.247:8090/live/gaxwzh_2000.m3u8
-广汉综合,http://60.255.240.247:8090/live/ghxwzh_2000.m3u8
-广元文化,http://60.255.240.247:8090/live/gyggH265_4000.m3u8
-广元综合,http://60.255.240.247:8090/live/gyzhH265_4000.m3u8
-汉源综合,http://60.255.240.247:8090/live/hyxwzh_2000.m3u8
-合江新闻,http://60.255.240.247:8090/live/hjxw_2000.m3u8
-洪雅新闻,http://60.255.240.247:8090/live/hyzh_2000.m3u8
-华蓥综合,http://60.255.240.247:8090/live/hyxw_2000.m3u8
-会理新闻,http://60.255.240.247:8090/live/hlyt_4000.m3u8
-夹江新闻,http://60.255.240.247:8090/live/jjxw_2000.m3u8
-简阳新闻,http://60.255.240.247:8090/live/jyxwzh_2000.m3u8
-剑阁综合,http://60.255.240.247:8090/live/jgxwzhH265_4000.m3u8
-江油综合,http://60.255.240.247:8090/live/jyxwHD_2000.m3u8
-开江新闻,http://60.255.240.247:8090/live/kjxwzh_2000.m3u8
-乐山公共,http://60.255.240.247:8090/live/lsggpd_4000.m3u8
-乐山新闻,http://60.255.240.247:8090/live/lsxwzh_4000.m3u8
-利州综合,http://60.255.240.247:8090/live/lzxwzh_2000.m3u8
-凉山新闻,http://60.255.240.247:8090/live/lsxwHDH265_4000.m3u8
-凉山彝语,http://60.255.240.247:8090/live/yyzh_2000.m3u8
-龙泉综合,http://60.255.240.247:8090/live/lqxw_2000.m3u8
-隆昌综合,http://60.255.240.247:8090/live/lcxw_2000.m3u8
-芦山综合,http://60.255.240.247:8090/live/lszh_2000.m3u8
-马边综合,http://60.255.240.247:8090/live/mbxwzh_2000.m3u8
-眉山综合,http://60.255.240.247:8090/live/msxwzhgq_2000.m3u8
-米易综合,http://60.255.240.247:8090/live/myxwzh_2000.m3u8
-绵阳科技,http://60.255.240.247:8090/live/myetH265_4000.m3u8
-绵阳新闻,http://60.255.240.247:8090/live/myytH265_4000.m3u8
-冕宁综合,http://60.255.240.247:8090/live/mnxw_2000.m3u8
-南部综合,http://60.255.240.247:8090/live/nbxw_2000.m3u8
-南充综合,http://60.255.240.247:8090/live/ncxwzh_2000.m3u8
-南溪综合,http://60.255.240.247:8090/live/nxt_2000.m3u8
-内江公共,http://60.255.240.247:8090/live/njgg_4000.m3u8
-内江综合,http://60.255.240.247:8090/live/njzh_4000.m3u8
-宁南综合,http://60.255.240.247:8090/live/nnt_4000.m3u8
-攀钢新闻,http://60.255.240.247:8090/live/pgxwzh_2000.m3u8
-彭山综合,http://60.255.240.247:8090/live/pszh_2000.m3u8
-彭州综合,http://60.255.240.247:8090/live/pzxwzh_2000.m3u8
-蓬安综合,http://60.255.240.247:8090/live/pazh_2000.m3u8
-蓬溪新闻,http://60.255.240.247:8090/live/pxxw_2000.m3u8
-平昌综合,http://60.255.240.247:8090/live/pcxw_2000.m3u8
-平武综合,http://60.255.240.247:8090/live/pwgq_4000.m3u8
-屏山综合,http://60.255.240.247:8090/live/psxwzh_2000.m3u8
-蒲江综合,http://60.255.240.247:8090/live/pjxw_4000.m3u8
-普格综合,http://60.255.240.247:8090/live/pgt_4000.m3u8
-青川综合,http://60.255.240.247:8090/live/qcxwzhH265_4000.m3u8
-青神综合,http://60.255.240.247:8090/live/qszh_2000.m3u8
-渠县新闻,http://60.255.240.247:8090/live/qxxwzh_2000.m3u8
-仁和新闻,http://60.255.240.247:8090/live/rhxwH264_2000.m3u8
-荣县综合,http://60.255.240.247:8090/live/rxzh_2000.m3u8
-射洪综合,http://60.255.240.247:8090/live/shzhH264_2000.m3u8
-双流综合,http://60.255.240.247:8090/live/slgq_2000.m3u8
-遂宁综合,http://60.255.240.247:8090/live/snxwzhHDH265_4000.m3u8
-天全新闻,http://60.255.240.247:8090/live/tqzh_2000.m3u8
-通江综合,http://60.255.240.247:8090/live/tjxwH265_4000.m3u8
-旺苍新闻,http://60.255.240.247:8090/live/wcxwzhH265_4000.m3u8
-温江综合,http://60.255.240.247:8090/live/wjytH264_2000.m3u8
-武胜综合,http://60.255.240.247:8090/live/wsxw_2000.m3u8
-西充综合,http://60.255.240.247:8090/live/xczh_2000.m3u8
-新都综合,http://60.255.240.247:8090/live/xdzhpd_2000.m3u8
-叙州新闻,http://60.255.240.247:8090/live/ybx_2000.m3u8
-宣汉综合,http://60.255.240.247:8090/live/xhxwzh_2000.m3u8
-雅安公共,http://60.255.240.247:8090/live/yagg_2000.m3u8
-雅安新闻,http://60.255.240.247:8090/live/yazh_2000.m3u8
-雅安雨城,http://60.255.240.247:8090/live/ycpd_2000.m3u8
-仪陇新闻,http://60.255.240.247:8090/live/ylxw_2000.m3u8
-宜宾公共,http://60.255.240.247:8090/live/ybetH264_2000.m3u8
-宜宾新闻,http://60.255.240.247:8090/live/ybytH264_2000.m3u8
-越西综合,http://60.255.240.247:8090/live/yxt_4000.m3u8
-昭化综合,http://60.255.240.247:8090/live/zhxwzh_2000.m3u8
-中江新闻,http://60.255.240.247:8090/live/zjxwzh_2000.m3u8
-资阳新闻,http://60.255.240.247:8090/live/zyxwzh_2000.m3u8
-资中综合,http://60.255.240.247:8090/live/zzzh_2000.m3u8
-自贡文化,http://60.255.240.247:8090/live/zggg_4000.m3u8
-自贡综合,http://60.255.240.247:8090/live/zgxw_4000.m3u8
-郫县新闻,http://60.255.240.247:8090/live/pxds1_2000.m3u8
-阆中综合,http://60.255.240.247:8090/live/lzxw_2000.m3u8
-沐川综合,http://60.255.240.247:8090/live/mcxw_2000.m3u8
-泸定综合,http://60.255.240.247:8090/live/ldxw_4000.m3u8
-泸县综合,http://60.255.240.247:8090/live/lxxwzh_2000.m3u8
-珙县新闻,http://60.255.240.247:8090/live/gxzh_2000.m3u8
-梓潼综合,http://60.255.240.247:8090/live/ztgq_2000.m3u8
-犍为新闻,http://60.255.240.247:8090/live/qwxwzh_2000.m3u8
-成都高新区,http://60.255.240.247:8090/live/cdgxdstgq_2000.m3u8
-阿坝州藏语,http://60.255.240.247:8090/live/wypdgqH265_4000.m3u8
-大邑电视台,http://60.255.240.247:8090/live/dyytH265_4000.m3u8
-金口河综合,http://60.255.240.247:8090/live/jkhdst_2000.m3u8
-攀枝花新闻,http://60.255.240.247:8090/live/pzhytH265_4000.m3u8
-青白江综合,http://60.255.240.247:8090/live/qbjxwzh_2000.m3u8
-盐边电视台,http://60.255.240.247:8090/live/ybtgq_2000.m3u8
-纳溪1,http://60.255.240.247:8090/live/nxxw_2000.m3u8
-盐亭1,http://60.255.240.247:8090/live/ytzh_2000.m3u8
-乐游,http://60.255.240.247:8090/live/qjs-HDH265_4000.m3u8
-崇州,http://60.255.240.247:8090/live/czyt_4000.m3u8
-德昌,http://60.255.240.247:8090/live/dcxw_4000.m3u8
-峨边,http://60.255.240.247:8090/live/ebdst_2000.m3u8
-高县-1,http://60.255.240.247:8090/live/gxt_2000.m3u8
-江安,http://60.255.240.247:8090/live/jat_2000.m3u8
-金牛,http://60.255.240.247:8090/live/jnyx_2000.m3u8
-金堂,http://60.255.240.247:8090/live/jtzhpd_2000.m3u8
-邻水,http://60.255.240.247:8090/live/lsxw_2000.m3u8
-罗江,http://60.255.240.247:8090/live/ljxwzh_2000.m3u8
-绵竹,http://60.255.240.247:8090/live/mzxwzh_2000.m3u8
-名山,http://60.255.240.247:8090/live/msdstH265_2000.m3u8
-木里,http://60.255.240.247:8090/live/mltHD_4000.m3u8
-南江,http://60.255.240.247:8090/live/njxw_2000.m3u8
-前锋,http://60.255.240.247:8090/live/qfxw_2000.m3u8
-三台TV,http://60.255.240.247:8090/live/stxwHD_2000.m3u8
-石棉,http://60.255.240.247:8090/live/smxwzh_2000.m3u8
-松潘,http://60.255.240.247:8090/live/spxwzhpdH264_2000.m3u8
-万源,http://60.255.240.247:8090/live/wyxwzh_2000.m3u8
-西昌,http://60.255.240.247:8090/live/xctHD_2000.m3u8
-喜德,http://60.255.240.247:8090/live/xdxw_4000.m3u8
-新津,http://60.255.240.247:8090/live/xjzh_4000.m3u8
-叙永,http://60.255.240.247:8090/live/xyxw_2000.m3u8
-雁江,http://60.255.240.247:8090/live/yjxw_2000.m3u8
-营山,http://60.255.240.247:8090/live/ysxw_2000.m3u8
-岳池,http://60.255.240.247:8090/live/ycxw_2000.m3u8
-荥经,http://60.255.240.247:8090/live/xjdst_2000.m3u8
-筠连,http://60.255.240.247:8090/live/ylyt_2000.m3u8
-都江堰,http://60.255.240.247:8090/live/djyzh_4000.m3u8
-广安区,http://60.255.240.247:8090/live/gaqxw_2000.m3u8
-马尔康,http://60.255.240.247:8090/live/mekxwzhpd_2000.m3u8
-通川区,http://60.255.240.247:8090/live/xcxwzhH264_2000.m3u8
-五通桥,http://60.255.240.247:8090/live/wtqxwzh_2000.m3u8
-兴文台,http://60.255.240.247:8090/live/xwt_2000.m3u8
-阿坝州TV,http://60.255.240.247:8090/live/abxwzhpdgq_2000.m3u8
-
 🇨🇳央视频道👉移动,#genre#
 CCTV-01「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -281,8 +24,64 @@ CETV-01「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122565
 CETV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-🇨🇳中国港澳👉春盈,#genre#
-
+🇨🇳中国港澳台👉春盈,#genre#
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 🌏全球频道👉全网,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
