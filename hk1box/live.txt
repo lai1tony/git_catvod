@@ -29,7 +29,7 @@ CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122578
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+Hoy 78,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
