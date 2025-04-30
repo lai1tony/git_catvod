@@ -37,8 +37,6 @@ tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
 緯來體育,http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
 中天新闻台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
-寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
-東森新聞,http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
 
 🌏全球频道👉全网,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
