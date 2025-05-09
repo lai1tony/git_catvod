@@ -22,21 +22,30 @@ CETV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122642
 CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 🇨🇳中国港澳台👉春盈,#genre#
-Animax(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
-AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
-ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
-tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
-明珠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
-無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
-美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
-鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
-TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
-緯來體育,http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
-中天新闻台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+翡翠台,http://8hb85846je10.vicp.fun:8001/bysid/1
+翡翠台,http://113.83.152.34:65534/bysid/1
+翡翠台(备),http://bziyunshao.synology.me:8889/bysid/1.m3u8
+明珠台,http://bziyunshao.synology.me:8890/bysid/2.m3u8
+明珠台,http://8hb85846je10.vicp.fun:5000/bysid/2.m3u8
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83.m3u8
+無綫新聞台,http://8hb85846je10.vicp.fun:5000/bysid/83.m3u8
+鳳凰衛視香港台,http://bziyunshao.synology.me:8890/bysid/85.m3u8
+hoy77,http://bziyunshao.synology.me:8891/bysid/77.m3u8
+hoy78,http://bziyunshao.synology.me:8891/bysid/78.m3u8
+ViuTVsix,http://8hb85846je10.vicp.fun:8001/bysid/99
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96.m3u8
+ViuTVsix,http://113.83.152.34:65534/bysid/99.m3u8
+ViuTV,http://8hb85846je10.vicp.fun:8001/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
+ViuTV,http://113.83.152.34:65534/bysid/96.m3u8
+ViuTV,https://hkfa.2025link.site/43rd_HK_Film_Awards/viutv_99
+hk31,http://bziyunshao.synology.me:8892/bysid/31.m3u8
+hk32,http://bziyunshao.synology.me:8892/bysid/32.m3u8
+TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82.m3u8
+鳳凰衛視香港台,http://8hb85846je10.vicp.fun:5000/bysid/85.m3u8
+天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
+
 
 🌏全球频道👉全网,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
