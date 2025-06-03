@@ -22,17 +22,28 @@ CETV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122642
 CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 🇨🇳中国港澳台👉春盈,#genre#
-翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-翡翠台,http://8hb85846je10.vicp.fun:8001/bysid/1
-翡翠台,http://113.83.152.34:65534/bysid/1
-翡翠台(备),http://bziyunshao.synology.me:8889/bysid/1.m3u8
-明珠台,http://bziyunshao.synology.me:8890/bysid/2.m3u8
-明珠台,http://8hb85846je10.vicp.fun:5000/bysid/2.m3u8
-無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83.m3u8
-無綫新聞台,http://8hb85846je10.vicp.fun:5000/bysid/83.m3u8
+鳳凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰中文台,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2
+鳳凰中文台,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+鳳凰中文台,http://ali.hlspull.yximgs.com/live/4c0710213c1cd8cccad5ba9905ecff74.flv
+鳳凰咨询台,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+鳳凰咨询台,http://ali.hlspull.yximgs.com/live/e668f1643a980441e6f8bbceecfaa369.flv
+鳳凰咨询台,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳳凰衛視香港台,http://bziyunshao.synology.me:8890/bysid/85.m3u8
-hoy77,http://bziyunshao.synology.me:8891/bysid/77.m3u8
-hoy78,http://bziyunshao.synology.me:8891/bysid/78.m3u8
+翡翠台,http://ali.hlspull.yximgs.com/live/ab2aeb99b351d815f83e58178023dd01.flv
+翡翠台,http://cdn3.132.us.kg/live/fct/stream.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+明珠台,http://ali.hlspull.yximgs.com/live/2665016ae8f4fa28a1b85f2c73e4b7da.flv
+無綫新聞台,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
+無綫新聞台,http://ali.hlspull.yximgs.com/live/2cf48430ce001bca6fe3a87ea8078c61.flv
+hoy77,http://ali.hlspull.yximgs.com/live/3b6c4db096a82d3a35e53d9220c938db.flv
+hoy77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+hoy78,http://ali.hlspull.yximgs.com/live/e9e17842120e6ae248d8223a1f62d35f.flv
+hoy78,https://cdn.163189.xyz/live/hoy/segment_432604.ts
+hoy78,http://cdn.132.us.kg/live/hoy/stream.m3u8
+NOW新闻,http://ali.hlspull.yximgs.com/live/766747a5c3c4d9fe329b5dee681111d9.flv
+NOW星影,http://ali.hlspull.yximgs.com/live/15f8ed6cbb6f67f87707b6c810daf894.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/667f4e000c1cb96fe7453c62a6af1554.flv
 ViuTVsix,http://8hb85846je10.vicp.fun:8001/bysid/99
 ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96.m3u8
 ViuTVsix,http://113.83.152.34:65534/bysid/99.m3u8
@@ -45,7 +56,6 @@ hk32,http://bziyunshao.synology.me:8892/bysid/32.m3u8
 TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82.m3u8
 鳳凰衛視香港台,http://8hb85846je10.vicp.fun:5000/bysid/85.m3u8
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
-
 
 🌏全球频道👉全网,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
