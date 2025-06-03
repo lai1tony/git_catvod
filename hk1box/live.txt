@@ -44,18 +44,6 @@ hoy78,http://cdn.132.us.kg/live/hoy/stream.m3u8
 NOW新闻,http://ali.hlspull.yximgs.com/live/766747a5c3c4d9fe329b5dee681111d9.flv
 NOW星影,http://ali.hlspull.yximgs.com/live/15f8ed6cbb6f67f87707b6c810daf894.flv
 NOW财经,http://ali.hlspull.yximgs.com/live/667f4e000c1cb96fe7453c62a6af1554.flv
-ViuTVsix,http://8hb85846je10.vicp.fun:8001/bysid/99
-ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96.m3u8
-ViuTVsix,http://113.83.152.34:65534/bysid/99.m3u8
-ViuTV,http://8hb85846je10.vicp.fun:8001/bysid/96
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
-ViuTV,http://113.83.152.34:65534/bysid/96.m3u8
-ViuTV,https://hkfa.2025link.site/43rd_HK_Film_Awards/viutv_99
-hk31,http://bziyunshao.synology.me:8892/bysid/31.m3u8
-hk32,http://bziyunshao.synology.me:8892/bysid/32.m3u8
-TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82.m3u8
-鳳凰衛視香港台,http://8hb85846je10.vicp.fun:5000/bysid/85.m3u8
-天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 
 🌏全球频道👉全网,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
