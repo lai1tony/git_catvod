@@ -22,6 +22,9 @@ CETV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122642
 CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 🇨🇳中国港澳台👉春盈,#genre#
+鳳凰中文台,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2
+鳳凰中文台,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+鳳凰中文台,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 鳳凰咨询台,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 鳳凰咨询台,https://live.tvfix.org/live/fwzx/index.m3u8
 鳳凰衛視香港台,http://bziyunshao.synology.me:8890/bysid/85.m3u8
