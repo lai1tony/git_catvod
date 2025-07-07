@@ -257,67 +257,32 @@ rRB-生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m
 漠河综合频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
 
 📡卫视频道2👉全网,#genre#
-凤凰中文,http://60.255.240.247:8090/live/test1_4000.m3u8
-凤凰资讯,http://60.255.240.247:8090/live/test2_4000.m3u8
-安徽卫视,http://60.255.240.247:8090/live/ahwsH265_4000.m3u8
-北京卫视,http://60.255.240.247:8090/live/bjwsH265_4000.m3u8
-兵团卫视,http://60.255.240.247:8090/live/btws_4000.m3u8
-重庆卫视,http://60.255.240.247:8090/live/cqwsH265_4000.m3u8
-东方卫视,http://60.255.240.247:8090/live/dfwsH265_4000.m3u8
-东南卫视,http://60.255.240.247:8090/live/dnwsfjwsH265_4000.m3u8
-甘肃卫视,http://60.255.240.247:8090/live/gsws_4000.m3u8
-广东卫视,http://60.255.240.247:8090/live/gdwsH265_4000.m3u8
-广西卫视,http://60.255.240.247:8090/live/gxws_4000.m3u8
-贵州卫视,http://60.255.240.247:8090/live/gzwsH265_4000.m3u8
-海南卫视,http://60.255.240.247:8090/live/hnws_4000.m3u8
-河南卫视,http://60.255.240.247:8090/live/hnws35_4000.m3u8
-湖北卫视,http://60.255.240.247:8090/live/hbwsH265_4000.m3u8
-湖南卫视,http://60.255.240.247:8090/live/hnwsH265_4000.m3u8
-吉林卫视,http://60.255.240.247:8090/live/jlwsH265_4000.m3u8
-江苏卫视,http://60.255.240.247:8090/live/jswsH265_4000.m3u8
-江西卫视,http://60.255.240.247:8090/live/jxwsH265_4000.m3u8
-康巴卫视,http://60.255.240.247:8090/live/kbwsH264_2000.m3u8
-辽宁卫视,http://60.255.240.247:8090/live/lnwsHDH264_4000.m3u8
-山东卫视,http://60.255.240.247:8090/live/sdwsH265_4000.m3u8
-山西卫视,http://60.255.240.247:8090/live/sxws42_4000.m3u8
-陕西卫视,http://60.255.240.247:8090/live/sxws_4000.m3u8
-深圳卫视,http://60.255.240.247:8090/live/szwsH265_4000.m3u8
-四川卫视,http://60.255.240.247:8090/live/scwsH265_4000.m3u8
-天津卫视,http://60.255.240.247:8090/live/tjwsH265_4000.m3u8
-西藏卫视,http://60.255.240.247:8090/live/xzwsH264_2000.m3u8
-云南卫视,http://60.255.240.247:8090/live/ynws_4000.m3u8
-浙江卫视,http://60.255.240.247:8090/live/zjwsH265_4000.m3u8
-黑龙江卫视,http://60.255.240.247:8090/live/hljwsH265_4000.m3u8
-内蒙古卫视,http://60.255.240.247:8090/live/nmgws_4000.m3u8
-山东教育卫视,http://60.255.240.247:8090/live/sdjy_4000.m3u8
-
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$移动 | 回看
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$移动 | 回看
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$移动 | 回看
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$移动 | 回看
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$移动 | 回看
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$移动 | 回看
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$移动 | 回看
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8$移动 | 回看
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$移动 | 回看
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$移动 | 回看
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$移动 | 回看
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$移动 | 回看
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$移动 | 回看
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$移动 | 回看
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$移动 | 回看
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$移动 | 回看
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$移动 | 回看
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$移动 | 回看
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$移动 | 回看
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$移动 | 回看
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$移动 | 回看
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$移动 | 回看
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$移动 | 回看
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$移动 | 回看
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$移动 | 回看
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$移动 | 回看
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$移动 | 回看
+湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
+浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
+江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
+安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
+宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
+辽宁卫视,http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/liaoning_2/index.m3u8
+东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+湖北卫视,http://ivi.bupt.edu.cn/hls/hbtv.m3u8#http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
+广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+广州影视,http://aplay.gztv.com/sec/yingshi.m3u8
+厦门卫视,http://by4.nty.tv189.cn/live/tm-xiamentv-800k.m3u8#http://cstvpull.live.wscdns.com/live/xiamen.flv
+青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv
+海霞卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8
+江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+河南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8
+吉林卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+重庆卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
+黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
+兵团卫视,http://by4.nty.tv189.cn/live/tm-bingtuantv-800k.m3u8
+河北卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hebei_2/index.m3u8
+海南卫视,http://by4.nty.tv189.cn/live/tm-traveltv-800k.m3u8
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+东南卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongnan_2/index.m3u8
 
 📡地方频道👉全网,#genre#
 七星关台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
