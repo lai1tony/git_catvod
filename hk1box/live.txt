@@ -22,56 +22,26 @@ CETV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122642
 CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 🇨🇳中国港澳台👉春盈,#genre#
-Animax (HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
-AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
-Channel 5 HD,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
-Love Nature HD,https://s1.m16tv.cfd/aktv/lovenaturehd/AKTV.m3u8
-PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
-ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-tvN,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
-天映經典(1080),https://s1.m16tv.cfd/aktv/1080/AKTV.m3u8
-明珠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
-無線新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-美亞電影台(HK),https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
-翡翠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
-翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-翡翠综合台(北美),https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
-鳳凰衛視中文台,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視資訊台,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-鳳凰衛視香港台,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-黃金翡翠台,https://s1.m16tv.cfd/aktv/CH-6/AKTV.m3u8
-Sky Sports F1,https://s1.m16tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-天映电影,https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-東森洋片,https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
-東森電影,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-緯來體育台,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-CNA,https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
-朝鲜恩情台,https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
-Japan News 24H LIVE,https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS LIVE,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
-8TV,https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
-Astro Football,https://s1.m16tv.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,https://s1.m16tv.cfd/astro/astrosportuhd/AKTV.m3u8
-EuroSport 1,https://s1.m16tv.cfd/astro/eurosport1/AKTV.m3u8
-EuroSport 2,https://s1.m16tv.cfd/astro/eurosport2/AKTV.m3u8
-TNT SPORTS 1,https://s1.m16tv.cfd/astro/tntsports1/AKTV.m3u8
-TNT SPORTS 2,https://s1.m16tv.cfd/astro/tntsports2/AKTV.m3u8
-TNT SPORTS 3,https://s1.m16tv.cfd/astro/tntsports3/AKTV.m3u8
-中天亚洲台,https://s1.m16tv.cfd/astro/CH-1/AKTV.m3u8
-KLT-靖天國際台,https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
-TVBS,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-民視,https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
-民視第一台,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
-龍華日韓台,https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
-TVB 星河,https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
-test01,https://s1.m16tv.cfd/test/test01/AKTV.m3u8
-TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8 
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+-tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+-民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+-民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+-HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
+-HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+-美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+-东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+-东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
+-八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+-八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
+-爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 
 🌏全球频道👉全网,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
