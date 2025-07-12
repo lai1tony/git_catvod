@@ -44,7 +44,7 @@ CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122578
 -爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 
 🌏全球频道👉全网,#genre#
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+USA TODAY,https://stream1.freetv.fun/usa-today-4.m3u8
 Global News,https://stream1.freetv.fun/500c9b9e561b13a054cb3f012b7c85d6497ceb7b1500b811dceb42d4e213cd73.m3u8
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
