@@ -302,6 +302,11 @@ rRB-生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m
 
 📡广东频道👉,#genre#
 广东珠江,http://go.bkpcp.top/mg/gdzj
+广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
+广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
+广东新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
+广东民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
+广东影视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
 广东体育,http://go.bkpcp.top/mg/gdty
 大湾区卫视,http://go.bkpcp.top/mg/gddwq
 广东影视,http://go.bkpcp.top/mg/gdys
