@@ -21,7 +21,7 @@ CETV-01「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122565
 CETV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-国内频道,#genre#
+🇨🇳国内频道,#genre#
 CCTV-01,http://go.bkpcp.top/mg/cctv1
 CCTV-02,http://go.bkpcp.top/mg/cctv2
 CCTV-03,http://go.bkpcp.top/mg/cctv3
