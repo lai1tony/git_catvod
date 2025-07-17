@@ -70,7 +70,7 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 深圳卫视4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 
 🇨🇳中国港澳台👉春盈,#genre#
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 -凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 -凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 -中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
@@ -92,6 +92,8 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 -八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
 -八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
 -爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
+-Global News,https://stream1.freetv.fun/500c9b9e561b13a054cb3f012b7c85d6497ceb7b1500b811dceb42d4e213cd73.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 🇨🇳AKTV👉春盈,#genre#
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
@@ -143,78 +145,6 @@ TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-
-🌏全球频道👉全网,#genre#
-USA TODAY,https://stream1.freetv.fun/usa-today-4.m3u8
-Global News,https://stream1.freetv.fun/500c9b9e561b13a054cb3f012b7c85d6497ceb7b1500b811dceb42d4e213cd73.m3u8
-中國環球,http://live.cgtn.com/500/prog_index.m3u8
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-韩国国防,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-环球频道,http://live.cgtn.com/500/prog_index.m3u8
-NHK日本,http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
-KBS韩国,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8
-CAN亚洲,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8
-CNB亚太,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
-CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
-动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-📡湾湾频道👉全网,#genre#
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-音乐欣赏1,http://61.221.215.25:8800/hls/49/index.m3u8
-音乐欣赏2,http://61.221.215.25:8800/hls/58/index.m3u8
-客家电视台,http://37.27.111.214:8080/live/1/hls.m3u8
-民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
-寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMoTV,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-华语电视1,http://38.64.72.148:80/hls/modn/list/4002/playlist.m3u8
-华语电视2,http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
-FOCUS,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-中旺电视,http://38.64.72.148:80/hls/modn/list/4010/playlist.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-东森新闻台,https://edge1.laotv.la/live/DongsenMovie/index.m3u8
-国兴卫视,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
-东森电影台,http://8.138.7.223/tv/gdmzyd.php?id=7
-番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
 📡卫视频道1👉全网,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
