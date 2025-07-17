@@ -78,6 +78,8 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 -中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
 -翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 -无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+-凤凰电影频标,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+-无线赛马,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
 -重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 -tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 -民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
