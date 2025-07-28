@@ -137,6 +137,74 @@ test01,http://s1.an94tv.cfd/test/test01/AKTV.m3u8
 中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
+
+🇨🇳港澳台测试👉春盈,#genre#
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰资讯,http://171.213.172.50:8188/udp/239.93.1.4:2191
+凤凰资讯,http://171.213.172.50:8188/udp/239.93.0.118:2191
+凤凰中文,http://171.213.172.50:8188/udp/239.93.1.9:2192
+凤凰中文,http://171.213.172.50:8188/udp/239.93.0.162:2192
+星空卫视,http://171.213.172.50:8188/udp/239.93.0.156:2193
+星空卫视,http://171.213.172.50:8188/udp/239.93.1.10:2193
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+HOY78,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+RTHK31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+RTHK32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
+TVB无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+TVB明珠,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+TVB翡翠,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+TVB翡翠,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+TVB PLUS,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+VIUTV,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
+VIUTV6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
+凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
+凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
+TVB PLUS,http://bx.757888.xyz/api.php?id=tvbp
+TVB翡翠,http://bx.757888.xyz/api.php?id=fct
+TVB明珠,http://bx.757888.xyz/api.php?id=mz
+TVB无线新闻,http://bx.757888.xyz/api.php?id=wxxw
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+美亚电影,http://bx.757888.xyz/api.php?id=meiya
+天映经典,http://bx.757888.xyz/api.php?id=tyjd
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+中国电影,http://bx.757888.xyz/api.php?id=zgdy
+香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+凤凰资讯,http://j.s.bkpcp.top/js/fhzx
+凤凰中文,http://j.s.bkpcp.top/js/fhzw
+凤凰香港,http://j.s.bkpcp.top/js/fhxg
+NOW爆谷,http://j.s.bkpcp.top/js/nowbgt
+TVB PLUS,http://t.061899.xyz/tl/168.php?id=2j
+TVB翡翠,http://t.061899.xyz/tl/168.php?id=fct
+TVB千禧经典,http://t.061899.xyz/tl/168.php?id=tvbqxjd
+天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
+天映频道,http://t.061899.xyz/tl/168.php?id=typd
+台湾频道,#genre#
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森电影,http://bx.757888.xyz/api.php?id=dsdy
+华视,rtmp://f13h.mine.nu/sat/tv111
+龙华电影,http://bx.757888.xyz/api.php?id=lhdy
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+中视,rtmp://f13h.mine.nu/sat/tv091
+
 📡国际频道（测试）,#genre#
 BBC WORLD NEWS,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/40091.m3u8
 CNN,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/36480.m3u8
