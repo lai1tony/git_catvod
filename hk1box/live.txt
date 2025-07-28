@@ -65,6 +65,12 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 -民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
 -HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
 -HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
+-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 -美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
 -东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
 -东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
