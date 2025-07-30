@@ -82,6 +82,20 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 -澳門蓮花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 -Global News,https://stream1.freetv.fun/500c9b9e561b13a054cb3f012b7c85d6497ceb7b1500b811dceb42d4e213cd73.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+-翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn
+-翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue
+-iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn
+-J 2,https://live.catvod.com/catvod_com.php?id=j2_twn
+-珍珠台,https://live.catvod.com/catvod_com.php?id=pearl_twn
+-凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn
+-HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn
+-RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn
+-VIUTV1,https://live.catvod.com/catvod_com.php?id=viu1_twn
+-RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn
+-凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd
+-凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd
+-Viu6,https://live.catvod.com/catvod_com.php?id=viusix_twn
+
 
 🇨🇳AKTV👉春盈,#genre#
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
