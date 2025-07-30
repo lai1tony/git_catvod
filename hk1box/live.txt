@@ -271,27 +271,6 @@ EYETV 戏剧,https://live.catvod.com/catvod_com.php?id=eyetvxiju_twn
 爱尔达影剧台,https://live.catvod.com/catvod_com.php?id=eltayingju_twn
 爱尔达综合台,https://live.catvod.com/catvod_com.php?id=eltazonghe_twn
 星卫电影,https://live.catvod.com/catvod_com.php?id=xingwei_movie
-AFC 亚洲旅游台,https://live.catvod.com/catvod_com.php?id=asiatravel_twn 电影频道,#genre#
-Cinemax,https://live.catvod.com/catvod_com.php?id=Cinemax
-Animax,https://live.catvod.com/catvod_com.php?id=Animax
-Movies Now HD,https://live.catvod.com/catvod_com.php?id=moviesnow_raj
-Star Movies HD,https://live.catvod.com/catvod_com.php?id=starmovies_raj
-HBO Family,https://live.catvod.com/catvod_com.php?id=Hbofamily
-Hits,https://live.catvod.com/catvod_com.php?id=Hits
-Warner TV,https://live.catvod.com/catvod_com.php?id=WarnerTV
-HBO HD,https://live.catvod.com/catvod_com.php?id=Hbo
-HBO Signature,https://live.catvod_com.php?id=Hbosignature
-HBO Hits,https://live.catvod.com/catvod_com.php?id=Hbohitshd
-SCM,https://live.catvod.com/catvod_com.php?id=Weishimovie
-Dreamworks,https://live.catvod.com/catvod_com.php?id=Dreamworks
-Thrill,https://live.catvod.com/catvod_com.php?id=Thrill
-Hits Movie,https://live.catvod.com/catvod_com.php?id=Hitsmovie
-One,https://live.catvod.com/catvod_com.php?id=One
-tvN Movie,https://live.catvod.com/catvod_com.php?id=Tvnmovie
-Celestial Classic,https://live.catvod.com/catvod_com.php?id=Celestial2
-Celestial Movies HD,https://live.catvod.com/catvod_com.php?id=Celestialindo
-Axn HD,https://live.catvod.com/catvod_com.php?id=Axn
-Paramount Network,https://live.catvod.com/catvod_com.php?id=Paramountnetwork
 
 🇨🇳台湾频道,#genre#
 阿里郎,http://api.mytv666.top/api/hk.php?id=6533306662643238393336626162343736653738343739326163336237306133267469643d74762669643d313834
@@ -421,6 +400,28 @@ TVBS精彩,http://api.mytv666.top/api/hk.php?id=39653165306634613739326235373730
 中视菁采,http://api.mytv666.top/api/hk.php?id=3265643234663932333564313563356430663036346636303535616139663434267469643d74762669643d313534
 国会频道1,http://api.mytv666.top/api/hk.php?id=3064363636346433313362323964376231393632356566326435333364363634267469643d74762669643d313931
 国会频道2,http://api.mytv666.top/api/hk.php?id=6462626262626366326339343734353636323463363264653236316533353839267469643d74762669643d313932
+
+📡海外电影频道,#genre#
+Cinemax,https://live.catvod.com/catvod_com.php?id=Cinemax
+Animax,https://live.catvod.com/catvod_com.php?id=Animax
+Movies Now HD,https://live.catvod.com/catvod_com.php?id=moviesnow_raj
+Star Movies HD,https://live.catvod.com/catvod_com.php?id=starmovies_raj
+HBO Family,https://live.catvod.com/catvod_com.php?id=Hbofamily
+Hits,https://live.catvod.com/catvod_com.php?id=Hits
+Warner TV,https://live.catvod.com/catvod_com.php?id=WarnerTV
+HBO HD,https://live.catvod.com/catvod_com.php?id=Hbo
+HBO Signature,https://live.catvod_com.php?id=Hbosignature
+HBO Hits,https://live.catvod.com/catvod_com.php?id=Hbohitshd
+SCM,https://live.catvod.com/catvod_com.php?id=Weishimovie
+Dreamworks,https://live.catvod.com/catvod_com.php?id=Dreamworks
+Thrill,https://live.catvod.com/catvod_com.php?id=Thrill
+Hits Movie,https://live.catvod.com/catvod_com.php?id=Hitsmovie
+One,https://live.catvod.com/catvod_com.php?id=One
+tvN Movie,https://live.catvod.com/catvod_com.php?id=Tvnmovie
+Celestial Classic,https://live.catvod.com/catvod_com.php?id=Celestial2
+Celestial Movies HD,https://live.catvod.com/catvod_com.php?id=Celestialindo
+Axn HD,https://live.catvod.com/catvod_com.php?id=Axn
+Paramount Network,https://live.catvod.com/catvod_com.php?id=Paramountnetwork
 
 📡国际频道（测试）,#genre#
 BBC新闻,http://api.mytv666.top/api/hk.php?id=3439633964653730363063316234363066326666323662626530393932643061267469643d74762669643d3934
