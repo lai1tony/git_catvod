@@ -1,37 +1,51 @@
 🇨🇳央视频道👉移动,#genre#
-CCTV-01「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-03「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-05「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-06「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-07「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-08「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-09「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-12「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV-14「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV-01「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-02「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-04「龙江」,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CCTV1,http://sh.lnott.top:880/dx01.m3u8
+CCTV2,http://sh.lnott.top:880/dx02.m3u8
+CCTV3,http://sh.lnott.top:880/dx03.m3u8
+CCTV4,http://sh.lnott.top:880/dx04.m3u8
+CCTV5,http://sh.lnott.top:880/dx05.m3u8
+CCTV5+,http://sh.lnott.top:880/dx16.m3u8
+CCTV6,http://sh.lnott.top:880/dx06.m3u8
+CCTV7,http://sh.lnott.top:880/dx07.m3u8
+CCTV8,http://sh.lnott.top:880/dx08.m3u8
+CCTV9,http://sh.lnott.top:880/dx09.m3u8
+CCTV10,http://sh.lnott.top:880/dx10.m3u8
+CCTV11,http://sh.lnott.top:880/dx11.m3u8
+CCTV12,http://sh.lnott.top:880/dx12.m3u8
+CCTV13,http://sh.lnott.top:880/dx13.m3u8
+CCTV14,http://sh.lnott.top:880/dx14.m3u8
+CCTV15,http://sh.lnott.top:880/dx15.m3u8
+CCTV16,http://sh.lnott.top:880/dx16.m3u8
+CCTV17,http://sh.lnott.top:880/dx17.m3u8
 
 🇨🇳国内频道,#genre#
-CCTV-01,http://go.bkpcp.top/mg/cctv1
-CCTV-02,http://go.bkpcp.top/mg/cctv2
-CCTV-03,http://go.bkpcp.top/mg/cctv3
-CCTV-04,http://go.bkpcp.top/mg/cctv4
-CCTV-05,http://go.bkpcp.top/mg/cctv5
+CCTV-1 综合 HD,https://live.catvod.com/catvod_com.php?id=cctv1
+CCTV-2 财经,https://live.catvod.com/catvod_com.php?id=cctv2
+CCTV-3 综艺 HD,https://live.catvod.com/catvod_com.php?id=cctv3
+CCTV-4 中文国际,https://live.catvod.com/catvod_com.php?id=cctv4
+CCTV4 新闻台,https://live.catvod.com/catvod_com.php?id=Cctv4
+CCTV-5 体育频道,https://live.catvod.com/catvod_com.php?id=cctv5
+CCTV-5+ 体育赛事 HD,https://live.catvod.com/catvod_com.php?id=cctv5plus
+CCTV-6,https://live.catvod.com/catvod_com.php?id=cctv6
+CCTV-7 军事农业,https://live.catvod.com/catvod_com.php?id=cctv7
+CCTV-8 电视剧 HD,https://live.catvod.com/catvod_com.php?id=cctv8hd
+CCTV-9 记录 HD,https://live.catvod.com/catvod_com.php?id=cctv9hd
+CCTV-10 科教 HD,https://live.catvod.com/catvod_com.php?id=cctv10hd
+CCTV-11 戏曲,https://live.catvod.com/catvod_com.php?id=cctv11
+CCTV-12 社会与法,https://live.catvod.com/catvod_com.php?id=cctv12
+CCTV-13 新闻频道,https://live.catvod.com/catvod_com.php?id=cctv13
+CCTV-14 少儿,https://live.catvod.com/catvod_com.php?id=cctv14
+CCTV-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15 
+CCTV-1,http://go.bkpcp.top/mg/cctv1
+CCTV-2,http://go.bkpcp.top/mg/cctv2
+CCTV-3,http://go.bkpcp.top/mg/cctv3
+CCTV-4,http://go.bkpcp.top/mg/cctv4
+CCTV-5,http://go.bkpcp.top/mg/cctv5
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p
-CCTV-06,http://go.bkpcp.top/mg/cctv6
-CCTV-07,http://go.bkpcp.top/mg/cctv7
-CCTV-08,http://go.bkpcp.top/mg/cctv8
-CCTV-09,http://go.bkpcp.top/mg/cctv9
+CCTV-6,http://go.bkpcp.top/mg/cctv6
+CCTV-7,http://go.bkpcp.top/mg/cctv7
+CCTV-8,http://go.bkpcp.top/mg/cctv8
+CCTV-9,http://go.bkpcp.top/mg/cctv9
 CCTV-10,http://go.bkpcp.top/mg/cctv10
 CCTV-11,http://go.bkpcp.top/mg/cctv11
 CCTV-12,http://go.bkpcp.top/mg/cctv12
