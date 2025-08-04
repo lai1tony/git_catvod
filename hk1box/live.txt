@@ -1,22 +1,32 @@
 🇨🇳央视频道👉移动,#genre#
-CCTV1,http://sh.lnott.top:880/dx01.m3u8
-CCTV2,http://sh.lnott.top:880/dx02.m3u8
-CCTV3,http://sh.lnott.top:880/dx03.m3u8
-CCTV4,http://sh.lnott.top:880/dx04.m3u8
-CCTV5,http://sh.lnott.top:880/dx05.m3u8
-CCTV5+,http://sh.lnott.top:880/dx16.m3u8
-CCTV6,http://sh.lnott.top:880/dx06.m3u8
-CCTV7,http://sh.lnott.top:880/dx07.m3u8
-CCTV8,http://sh.lnott.top:880/dx08.m3u8
-CCTV9,http://sh.lnott.top:880/dx09.m3u8
-CCTV10,http://sh.lnott.top:880/dx10.m3u8
-CCTV11,http://sh.lnott.top:880/dx11.m3u8
-CCTV12,http://sh.lnott.top:880/dx12.m3u8
-CCTV13,http://sh.lnott.top:880/dx13.m3u8
-CCTV14,http://sh.lnott.top:880/dx14.m3u8
-CCTV15,http://sh.lnott.top:880/dx15.m3u8
-CCTV16,http://sh.lnott.top:880/dx16.m3u8
-CCTV17,http://sh.lnott.top:880/dx17.m3u8
+CCTV-1 综合,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-2 财经,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
+CCTV-7 国防军事,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+CCTV-9 纪录,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
+CCTV-10 科教,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-11 戏曲,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
+CCTV-12 社会与法,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-15 音乐,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-16 奥林匹克,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8
+CCTV-17 农业农村,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/index.m3u8
+CCTV 4K,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/index.m3u8
+CCTV-16 4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
+CCTV-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+CCTV-世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+CCTV-风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+CCTV-风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+CCTV-风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+CCTV-第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+CCTV-怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+CCTV-文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
+CCTV-女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+CCTV-央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+CCTV-央视高网,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
+CCTV-电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+CETV-1 综合教育,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
+CETV-2 空中课堂,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
+CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 🇨🇳国内频道,#genre#
 CCTV-1 综合 HD,https://live.catvod.com/catvod_com.php?id=cctv1
