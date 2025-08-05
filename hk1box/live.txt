@@ -75,6 +75,19 @@ CGTN-阿,http://go.bkpcp.top/mg/cgtna
 CGTN-法,http://go.bkpcp.top/mg/cgtnf
 
 🇨🇳中国港澳台👉春盈,#genre#
+-myTV SUPER 18 台,http://bxtv.3a.ink/api.php?id=18
+-tvbplus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+-无线新闻台,http://bxtv.3a.ink/api.php?id=wxxw
+-美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
+-VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+千禧经典台,http://bxtv.3a.ink/api.php?id=qxjd
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+凤凰卫视中文台,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰卫视资讯台,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰卫视香港台,http://bxtv.3a.ink/api.php?id=fhhk
+NOW 新闻,http://bxtv.3a.ink/api.php?id=now
+纬来体育,http://bxtv.3a.ink/api.php?id=wlty
 -凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 -凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 -凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
@@ -118,7 +131,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 -凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn
 -HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn
 -RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn
--VIUTV1,https://live.catvod.com/catvod_com.php?id=viu1_twn
+-VIUTV,https://live.catvod.com/catvod_com.php?id=viu1_twn
 -RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn
 -凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd
 -凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd
@@ -541,6 +554,8 @@ SKY COMEDY,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401630523.m3
 广东珠江,http://go.bkpcp.top/mg/gdzj
 广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
 广东珠江,https://live.catvod.com/catvod_com.php?id=zhujiang
+广东体育,http://bxtv.3a.ink/api.php?id=gdty
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
 广东新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 广东民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
