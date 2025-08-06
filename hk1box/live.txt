@@ -201,6 +201,21 @@ NOW爆谷,http://j.s.bkpcp.top/js/nowbgt
 TVB PLUS,http://t.061899.xyz/tl/168.php?id=2j
 TVB翡翠,http://t.061899.xyz/tl/168.php?id=fct
 TVB千禧经典,http://t.061899.xyz/tl/168.php?id=tvbqxjd
+星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+莲花卫视（备用）,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+TVB无线星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+TVB翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
+ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
 天映频道,http://t.061899.xyz/tl/168.php?id=typd
 
