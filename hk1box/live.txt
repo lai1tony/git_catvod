@@ -1,6 +1,6 @@
 🇨🇳央视频道👉移动,#genre#
 CCTV-1 综合,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225812/index.m3u8
-CCTV-2 财经,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
+CCTV-2 财经,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=5361411c244460b356d312d971ec9b115b121fe5daab539540b14fa420d545e2842050d9980d1d250d8e18d6f915b860b5688ddc7bc3816857819b9da7e54aa063f0108385cafcd7a33dff11fe
 CCTV4 中文国际,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
  CCTV5+ 体育赛事,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
  CCTV13 新闻频道,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8
