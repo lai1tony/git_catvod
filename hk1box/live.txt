@@ -66,6 +66,7 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 -tvbplus,http://bxtv.3a.ink/api.php?id=tvbp
 -明珠台,http://bxtv.3a.ink/api.php?id=mz
 -无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
+-NOW 新闻,http://bxtv.3a.ink/api.php?id=now
 -美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
 -VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 -NOW 新闻,http://bxtv.3a.ink/api.php?id=now
