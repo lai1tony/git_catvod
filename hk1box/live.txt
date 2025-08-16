@@ -567,7 +567,7 @@ SKY COMEDY,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401630523.m3
 📡广东频道👉,#genre#
 广东珠江,http://go.bkpcp.top/mg/gdzj
 广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
-广东珠江,https://live.catvod.com/catvod_com.php?id=zhujiang
+广东珠江,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
