@@ -158,15 +158,29 @@ test01,http://s1.an94tv.cfd/test/test01/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 🇨🇳港澳台测试👉春盈,#genre#
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-美亚电影,http://bx.757888.xyz/api.php?id=meiya
+凤凰中文,http://api.mytv666.top/api/hk.php?id=3635353536383939393264346132646363626433646461373332353365633339267469643d74762669643d3230
+凤凰资讯,http://api.mytv666.top/api/hk.php?id=3639313932626236616366636537633734323039313738383137613037633739267469643d74762669643d3231
+凤凰香港,http://api.mytv666.top/api/hk.php?id=6366393933363838303835353235313030313837656130343336356238356364267469643d74762669643d3232
+中天新闻,http://api.mytv666.top/api/hk.php?id=3432626438356234306332353339386439363836663664633634323164393061267469643d74762669643d3939
+有线新闻,http://api.mytv666.top/api/hk.php?id=3036613663316638306536306134313638356161316134316465636662356435267469643d74762669643d3432
+有线新闻,http://api.mytv666.top/api/hk.php?id=3432323435666131343964353936633530396335663430623762353532623439267469643d74762669643d3239
+无线新闻,http://api.mytv666.top/api/hk.php?id=3437643561316430306564303532666566613235653961373961303464386662267469643d74762669643d3235
+now新闻,http://api.mytv666.top/api/hk.php?id=3861666539393633313665393630366237386632616666343339393737373837267469643d74762669643d3336
+无线翡翠,http://api.mytv666.top/api/hk.php?id=6133373062306330636436323766386638333930633734343164306361626637267469643d74762669643d3234
+无线明珠,http://api.mytv666.top/api/hk.php?id=3234333631636531363838373231366566333832376434366264306332626165267469643d74762669643d3237
+有线综合,http://api.mytv666.top/api/hk.php?id=3861653835393966663939393434646663323366326630316438316232623939267469643d74762669643d3433
+有线赛讯,http://api.mytv666.top/api/hk.php?id=6566353737646133643130376364373766366364666231333932636266353434267469643d74762669643d3431
+有线赛马,http://api.mytv666.top/api/hk.php?id=6636336261313634393131303637346636346234653561343663393636303161267469643d74762669643d3330
+有线赛马,http://api.mytv666.top/api/hk.php?id=6264643730343538616264326436373663363934306134373364383935363064267469643d74762669643d3331
+now直播,http://api.mytv666.top/api/hk.php?id=6636373032643161656535316162363136663334353964363265613064346462267469643d74762669643d3335
+now财经,http://api.mytv666.top/api/hk.php?id=3464396265323334356563633339626432333161343230393366636639326165267469643d74762669643d3337
+RTHK-31,http://api.mytv666.top/api/hk.php?id=6334396336393462363037333730353331323135386365643063323965656438267469643d74762669643d3435
+RTHK-32,http://api.mytv666.top/api/hk.php?id=3335636435633735323034636235316236373935323037366361653331656235267469643d74762669643d3436
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-NOW爆谷,http://j.s.bkpcp.top/js/nowbgt
 TVB PLUS,http://t.061899.xyz/tl/168.php?id=2j
 TVB翡翠,http://t.061899.xyz/tl/168.php?id=fct
 TVB千禧经典,http://t.061899.xyz/tl/168.php?id=tvbqxjd
@@ -181,90 +195,95 @@ TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
 ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
 天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
 天映频道,http://t.061899.xyz/tl/168.php?id=typd
 
 🇨🇳台湾频道测试,#genre#
-TVBS News 新闻台,https://live.catvod.com/catvod_com.php?id=tvbs_n
-TVBS 欢乐台 （备份）,https://live.catvod.com/catvod_com.php?id=tvbshuanle_twn
-TVBS HD,https://live.catvod.com/catvod_com.php?id=tvbs
-中天新闻 HD,https://live.catvod.com/catvod_com.php?id=ctinews
-中天娱乐 CTI Entertaiment,https://live.catvod.com/catvod_com.php?id=ctient
-中天综合 CTI Metro,https://live.catvod.com/catvod_com.php?id=ctizhonghe
-中天亚洲台,https://live.catvod.com/catvod_com.php?id=ctiasia_twn
-台视 TTV HD,https://live.catvod.com/catvod_com.php?id=ttv_taiwan
-台视新闻台,https://live.catvod.com/catvod_com.php?id=ttvnews_twn
-台视综合台,https://live.catvod.com/catvod_com.php?id=ttvzhonghe
-中视 HD,https://live.catvod.com/catvod_com.php?id=zhongshihd_twn
-中视新闻台,https://live.catvod.com/catvod_com.php?id=zhongshinews_twn
-民视 HD,https://live.catvod.com/catvod_com.php?id=ftvhd_taiwan
-民视新闻台 FTV News,https://live.catvod.com/catvod_com.php?id=ftvnew_taiwan
-民视台湾台,https://live.catvod.com/catvod_com.php?id=ftvtaiwan_twn
-华视 CTS HD,https://live.catvod.com/catvod_com.php?id=ctshd_twn
-公视 CTV,https://live.catvod.com/catvod_com.php?id=ctv18_twn
-八大第一 GTV First,https://live.catvod.com/catvod_com.php?id=badafirst
-八大综合 GTV Metro,https://live.catvod.com/catvod_com.php?id=badazhonghe
-八大戏剧 GTV Drama,https://live.catvod.com/catvod_com.php?id=badadrama
-HBO_HD,https://live.catvod.com/catvod_com.php?id=hbohd_twn
-HBO_HITS,https://live.catvod.com/catvod_com.php?id=hbohit_twn
-Hollywood Movies,https://live.catvod.com/catvod_com.php?id=hollywoodmovies_twn
-三立台湾,https://live.catvod.com/catvod_com.php?id=sanlitaiwan
-三立戏剧台,https://live.catvod.com/catvod_com.php?id=sanlixiju_twn
-三立综合,https://live.catvod.com/catvod_com.php?id=sanlizhonghe
-三立都会台,https://live.catvod.com/catvod_com.php?id=sanlidouhui
-东森新闻 ETTV News,https://live.catvod.com/catvod_com.php?id=ettvnews
-CINEMAX,https://live.catvod.com/catvod_com.php?id=cinemax_twn
-东森综合 ETTV Metro,https://live.catvod.com/catvod_com.php?id=ettvzhonghe
-东森戏剧 ETTV Drama,https://live.catvod.com/catvod_com.php?id=ettvdrama
-东森超视,https://live.catvod.com/catvod_com.php?id=ettvsuper
-东森财经新闻 ETTV Business,https://live.catvod.com/catvod_com.php?id=ettvcaijing_twn
-寰宇财经,https://live.catvod.com/catvod_com.php?id=huanyutaiwan_twn
-寰宇新闻台,https://live.catvod.com/catvod_com.php?id=huanyuxinwen_twn
-公视 2,https://live.catvod.com/catvod_com.php?id=ctv2_twn
-大爱 1 台,https://live.catvod.com/catvod_com.php?id=daai_twn
-非凡新闻台,https://live.catvod.com/catvod_com.php?id=feifannews_twn
-龙华戏剧 Lunghua Drama,https://live.catvod.com/catvod_com.php?id=lunghuaxiju_twn
-龙华经典台,https://live.catvod.com/catvod_com.php?id=lunghuajingdian_twn
-龙华偶像,https://live.catvod.com/catvod_com.php?id=lunghuaidol_twn
-AXN 台湾,https://live.catvod.com/catvod_com.php?id=axn_twn
-靖天国际台,https://live.catvod.com/catvod_com.php?id=jingtianintl_twn
-年代新闻,https://live.catvod.com/catvod_com.php?id=niandainews_twn
-纬来日本台,https://live.catvod.com/catvod_com.php?id=videolandjapan
-纬来电影台,https://live.catvod.com/catvod_com.php?id=videolandmovie
-纬来体育台,https://live.catvod.com/catvod_com.php?id=videolandsport
-纬来综合台,https://live.catvod.com/catvod_com.php?id=videolandzonghe
-纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandyule
-纬来精彩,https://live.catvod.com/catvod_com.php?id=videolandspecial_twn
-好消息 2,https://live.catvod.com/catvod_com.php?id=good2_twn
-大爱 2 台,https://live.catvod.com/catvod_com.php?id=daai2_twn
-亚洲美食,https://live.catvod.com/catvod_com.php?id=afc_twn
-美食星球,https://live.catvod.com/catvod_com.php?id=foodplanet_twn
-亚洲旅游 TLC Asia,https://live.catvod.com/catvod_com.php?id=tlc_twn
-东森电影 ETTV Movie,https://live.catvod.com/catvod_com.php?id=ettvmovie
-阿里郎 Arirang,https://live.catvod.com/catvod_com.php?id=arirang_twn
-博斯运动 1,https://live.catvod.com/catvod_com.php?id=bosisport1_twn
-博斯运动 2,https://live.catvod.com/catvod_com.php?id=bosisport2_twn
-博斯高球 2 HD,https://live.catvod.com/catvod_com.php?id=bosigolf2_twn
-博斯网球 HD,https://live.catvod.com/catvod_com.php?id=bositennis_twn
-东森洋片 ETTV 西部,https://live.catvod.com/catvod_com.php?id=ettvwestern
-龙华洋片 Lunghua 西部,https://live.catvod.com/catvod_com.php?id=lunghuawestern_twn
-博斯无限,https://live.catvod.com/catvod_com.php?id=bosiunlimited_twn
-MTV Live,https://live.catvod.com/catvod_com.php?id=mtvhd_twn
-龙详时代,https://live.catvod.com/catvod_com.php?id=lungxiangtime_twn
-EYETV 旅游,https://live.catvod.com/catvod_com.php?id=eyetvtravel_twn
-靖天卡通台,https://live.catvod.com/catvod_com.php?id=jingtiancartoon_twn
-EYETV 戏剧,https://live.catvod.com/catvod_com.php?id=eyetvxiju_twn
-卫视中文台 Star Movies Chinese,https://live.catvod.com/catvod_com.php?id=weishichinese_twn
-东森幼幼 Yoyo TV,https://live.catvod.com/catvod_com.php?id=yoyo_twn
-卫视电影台,https://live.catvod.com/catvod_com.php?id=weishimovie_twn
-美亚电影,https://live.catvod.com/catvod_com.php?id=meiyamovie_twn
-爱尔达影剧台,https://live.catvod.com/catvod_com.php?id=eltayingju_twn
-爱尔达综合台,https://live.catvod.com/catvod_com.php?id=eltazonghe_twn
-星卫电影,https://live.catvod.com/catvod_com.php?id=xingwei_movie
+中天新闻,http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439
+寰宇新闻,http://api.mytv666.top/api/hk.php?id=3262353734373966643964356430363336303339363333336436636262353133267469643d74762669643d3539
+寰宇新闻,http://api.mytv666.top/api/hk.php?id=6266346662396565336462643964373837326266373730326236353237383536267469643d74762669643d313132
+东森新闻,http://api.mytv666.top/api/hk.php?id=3034663439313837653865616166346561376139613235333434396531666564267469643d74762669643d3530
+东森新闻,http://api.mytv666.top/api/hk.php?id=3534346532363736323231376661333239383839363464666132363138313131267469643d74762669643d313037
+tvbs新闻,http://api.mytv666.top/api/hk.php?id=6437303339323237356232633666346535353937623264636361613238353236267469643d74762669643d3633
+tvbs新闻,http://api.mytv666.top/api/hk.php?id=6433326131333730353865386539346239623032306533346562653234623365267469643d74762669643d3938
+三立新闻,http://api.mytv666.top/api/hk.php?id=6664313166363665303363346537313533346630306337303761363333393839267469643d74762669643d3534
+非凡新闻,http://api.mytv666.top/api/hk.php?id=6439363266323437646533636237336130353439363933613039653965353631267469643d74762669643d313035
+闽镜新闻,http://api.mytv666.top/api/hk.php?id=3831313462356431643937343764333264343532343837356535666665623032267469643d74762669643d313036
+闽镜新闻,http://api.mytv666.top/api/hk.php?id=6132656663616366343664633865396464656462633736396337666532383663267469643d74762669643d3538
+民视新闻,http://api.mytv666.top/api/hk.php?id=6133333434353635663133373938343030353333343563353132326433396230267469643d74762669643d3536
+民视新闻,http://api.mytv666.top/api/hk.php?id=6333356235396430353565313132653234663436373463386363396139623936267469643d74762669643d313130
+中视新闻,http://api.mytv666.top/api/hk.php?id=3639313461653631653063653039636165353132386535623331623263316631267469643d74762669643d3532
+中视新闻,http://api.mytv666.top/api/hk.php?id=3935653434333461353033393966666364363031303466346131373436383437267469643d74762669643d313034
+华视新闻,http://api.mytv666.top/api/hk.php?id=6336363138633563363661326531343237616265653233303539356532363065267469643d74762669643d3537
+华视新闻,http://api.mytv666.top/api/hk.php?id=3537326339386632386464663735336532316461313764643035633834323661267469643d74762669643d313032
+台视新闻,http://api.mytv666.top/api/hk.php?id=3532663033343761633136633334333932346565303765616636633239323362267469643d74762669643d3533
+台视新闻,http://api.mytv666.top/api/hk.php?id=3663373532323635333633666462356635623632313130333233393162303838267469643d74762669643d313031
+民视闽南,http://api.mytv666.top/api/hk.php?id=6361363033353131663530376266363361636334336333653632306432396439267469643d74762669643d3730
+民视闽南,http://api.mytv666.top/api/hk.php?id=3039313639653531353135383931613266353266353863623032313533613632267469643d74762669643d313136
+中视闽南,http://api.mytv666.top/api/hk.php?id=3735333965643234313330643235393236666134346364646139393065363839267469643d74762669643d3638
+中视闽南,http://api.mytv666.top/api/hk.php?id=3464346135333265303837393831333236363336666134303261386664336234267469643d74762669643d313138
+华视闽南,http://api.mytv666.top/api/hk.php?id=3365666436303335663238313031386236313534663061623262383237396633267469643d74762669643d3731
+华视闽南,http://api.mytv666.top/api/hk.php?id=3838353863663263646330383163326466643535306539366535303963653963267469643d74762669643d313139
+台视闽南,http://api.mytv666.top/api/hk.php?id=3837336464383036613733306162366165643731666434336664376263663166267469643d74762669643d3639
+台视闽南,http://api.mytv666.top/api/hk.php?id=3131376436636639653166326535623238366237646639393164336336303962267469643d74762669643d313135
+三立闽南,http://api.mytv666.top/api/hk.php?id=3431663838343031373566326636316465393566653637343436313266653666267469643d74762669643d3733
+tvbs闽南,http://api.mytv666.top/api/hk.php?id=6338353765393031313964363830396232336564343339356139653361633532267469643d74762669643d3635
+tvbs闽南,http://api.mytv666.top/api/hk.php?id=3266393834623966663864373438353433313662666237356336646262653465267469643d74762669643d3937
+寰宇闽南,http://api.mytv666.top/api/hk.php?id=6663313334653639326536343765613362363865383137386639663930323237267469643d74762669643d3630
+寰宇闽南,http://api.mytv666.top/api/hk.php?id=3033373433646530353534613238376432643166376430666330623766303633267469643d74762669643d313133
+寰宇财经,http://api.mytv666.top/api/hk.php?id=6232313931303432633731343630636431343030336130396662343066306131267469643d74762669643d313134
+东森财经,http://api.mytv666.top/api/hk.php?id=3234393438633333356332626430653464356635333236346565626161316431267469643d74762669643d3531
+东森财经,http://api.mytv666.top/api/hk.php?id=3562643832313631313434373563326638623863323238613638656438333937267469643d74762669643d313038
+台视财经,http://api.mytv666.top/api/hk.php?id=3430653266396334373235643533373737646262616130373136356362633564267469643d74762669643d313033
+闽南戏剧,http://api.mytv666.top/api/hk.php?id=3463306332643630643937393638373465353766316635323663316330353239267469643d74762669643d313332
+公视戏剧,http://api.mytv666.top/api/hk.php?id=6166663738326236646135356364343066353033643135666631306136313965267469643d74762669643d313335
+民视闽语,http://api.mytv666.top/api/hk.php?id=6261653964303931643764396634653232316134666337633531336261373363267469643d74762669643d313131
+民视第一,http://api.mytv666.top/api/hk.php?id=6564636432633233613630653031366663363066613933326138326133396637267469643d74762669643d313732
+民视综艺,http://api.mytv666.top/api/hk.php?id=3336323233613362366336356466306163343537313533386461366539313539267469643d74762669643d313731
+民视旅游,http://api.mytv666.top/api/hk.php?id=6661393234373339313163383837613836623134613563323132623331623164267469643d74762669643d313733
+民视影剧,http://api.mytv666.top/api/hk.php?id=3737616264346339376163646432313336343463303535303963626531336161267469643d74762669643d313239
+中视经典,http://api.mytv666.top/api/hk.php?id=3130643637316464346664313538393839303063663564663535386230323339267469643d74762669643d313331
+中视菁采,http://api.mytv666.top/api/hk.php?id=3265643234663932333564313563356430663036346636303535616139663434267469643d74762669643d313534
+中天亚洲,http://api.mytv666.top/api/hk.php?id=3962383334666661326334396461326537383063663333666566333830363536267469643d74762669643d313030
+八大精彩,http://api.mytv666.top/api/hk.php?id=3434643962353934663735326130343665373733333532666238666637636236267469643d74762669643d313535
+八大综艺,http://api.mytv666.top/api/hk.php?id=3661663237323836323533336531326231366461356565383364653331353739267469643d74762669643d313536
+tvbs精采,http://api.mytv666.top/api/hk.php?id=3830363432383130613863336265653834636434616138323833633234613230267469643d74762669643d313537
+tvbs欢乐,http://api.mytv666.top/api/hk.php?id=3762336166623866323763356361653833376266313161666333646136363637267469643d74762669643d313538
+龙华经典,http://api.mytv666.top/api/hk.php?id=3065633761663630333461656536343531636333616636383031653138653532267469643d74762669643d313330
+龙华戏剧,http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636133383266363636333161267469643d74762669643d313336
+龙华卡通,http://api.mytv666.top/api/hk.php?id=3961623136396366373832363138326665363465376132323166356131303438267469643d74762669643d313638
+龙华日韩,http://api.mytv666.top/api/hk.php?id=3736613333383334346630626430353238656638393462343032653335616630267469643d74762669643d313639
+龙华偶像,http://api.mytv666.top/api/hk.php?id=3333626561633566626266666436633135393564303031376437623464303066267469643d74762669643d313730
+龙华电影,http://api.mytv666.top/api/hk.php?id=3035323564303234633636363432306231623132633130343263343863633231267469643d74762669643d313237
+靖天电影,http://api.mytv666.top/api/hk.php?id=3235646236316132333834636665636537663935383763353038393730396532267469643d74762669643d313236
+靖天育乐,http://api.mytv666.top/api/hk.php?id=3133636463383564376130636362643433633466316532626264303232346139267469643d74762669643d313431
+靖天欢乐,http://api.mytv666.top/api/hk.php?id=3839366637653866343562363363376538376632633733353235626162363134267469643d74762669643d313539
+靖天综合,http://api.mytv666.top/api/hk.php?id=3730333133323235653333313763616232336432646539356165303036653662267469643d74762669643d313630
+靖天资讯,http://api.mytv666.top/api/hk.php?id=6639383065333066306334313662336238356630636437666434343762656663267469643d74762669643d313631
+靖天卡通,http://api.mytv666.top/api/hk.php?id=3536363563306635366665346566326566613430323937633364666166666632267469643d74762669643d313632
+靖天日本,http://api.mytv666.top/api/hk.php?id=6262333561643236323763616135643836386163393966633066613330393130267469643d74762669643d313633
+靖天国际,http://api.mytv666.top/api/hk.php?id=6364643431346437396338333162316133383236656439623265636138303732267469643d74762669643d313635
+靖天映画,http://api.mytv666.top/api/hk.php?id=3366353563616434393236663337313533636664313136376136663331626566267469643d74762669643d313636
+靖天戏剧,http://api.mytv666.top/api/hk.php?id=6439376364633336386561313339623337393864633730336461636261613535267469643d74762669643d313334
+靖洋戏剧,http://api.mytv666.top/api/hk.php?id=3339666661346639386533613638363831376163336238643537356233633165267469643d74762669643d313333
+靖洋卡通,http://api.mytv666.top/api/hk.php?id=6439333435633230343261376137336237646336336138646138643336303965267469643d74762669643d313634
+纬来日本,http://api.mytv666.top/api/hk.php?id=3133363034363738393961346338323433306638356263633139386238313034267469643d74762669643d3738
+纬来育乐,http://api.mytv666.top/api/hk.php?id=3330336638356238356263323033303763623537646464323863373231323864267469643d74762669643d3739
+纬来体育,http://api.mytv666.top/api/hk.php?id=6330343464373162386136666261663835613165633337366136386437306133267469643d74762669643d3737
+ELta娱乐,http://api.mytv666.top/api/hk.php?id=3035653866366636306131363162616335323535653161336166626337346133267469643d74762669643d313637
+ELta体壹,http://api.mytv666.top/api/hk.php?id=6539366165663464356333353065326136666264626134656661313536636166267469643d74762669643d3833
+ELta体贰,http://api.mytv666.top/api/hk.php?id=3232323063326432373966343263323330313330636461643933386238363034267469643d74762669643d3834
+ELta体叁,http://api.mytv666.top/api/hk.php?id=6638656562393265373935386161636631316132316566353837373133656161267469643d74762669643d3835
+ELta体肆,http://api.mytv666.top/api/hk.php?id=3536613431373665346133366337643737336535653030616332383839376666267469643d74762669643d3836
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
 🇨🇳台湾频道,#genre#
 阿里郎,http://api.mytv666.top/api/hk.php?id=6533306662643238393336626162343736653738343739326163336237306133267469643d74762669643d313834
