@@ -1,27 +1,22 @@
 🇨🇳央视频道👉移动,#genre#
-CCTV1综合,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=abf5d4482ab78fc8f2828cbe8d4ab578a2c8dc44a50e25f866177a7ae92362c0229619827d67b5f9ccb83e48436377965bcf2430016c88a191ec650e80e75443788ccd823934bea8c6be302684
- CCTV2财经,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=5361411c244460b356d312d971ec9b115b121fe5daab539540b14fa420d545e2842050d9980d1d250d8e18d6f915b860b5688ddc7bc3816857819b9da7e54aa063f0108385cafcd7a33dff11fe
- CCTV3综艺,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=4cc4512608ef4b639d2806fa1589cc5bfa5be086d7c483055dd1b2c062ab57ce087ee617fcb401e26ca94032b779cf8345828b21ba90ca9a6bddd61443bdfd6a9a289fb8280531ac6c8e5c746f
- CCTV4中文国际,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=a588d8b958a65552700394058b86e891a7e06c8327ccd9b9eee09d4ca4a9583474b4aed365cf90bfb0255671f30d3764fb70ebce77c940e60ca47a198615f96903635c127a7db8ae76c57dcde3
- CCTV5体育,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=8d1748aeae674272aa8febd22cc2223bc89928299e373e01ef27227e1ed9711633a0131da4b4232227f3afb925df68c7c0a896d8785a33df1a039c823b1c9795d5666b18a8773a437386e4f89c
- CCTV5+体育赛事,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=0c2757c8d78019e1625a10edfa30690ad92b20520f2b5f62316fa80583dbfc99eab5922ccf47254828b9bd42fe809708a4d4c4e34330fc5db438720ca18e411fe0e36169b08a27519305d042a6
- CCTV6电影,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=6bfef56d160a71d4b2fe079e8ef9e6b6829397a906e33c3f18701d77f2a5541610fc54642cf2a63076578813a3a741fea61bda2cadb2eb51c62dfc970add700aedc83de6c2e0de6f135fee807b
- CCTV7国防军事,https://mursor.ottiptv.cc/migu/673168121.m3u8?migutoken=271c86b6f73d161e29399075d0a009a23cb54f42de07e00acf7ac24cf75cb6fa7e9734d84659a78ba4987ccf576e74a9c0f6943466aefdbdead546fc4d919c361f34c99dc0cbf2eb472cdac4ed
- CCTV8电视剧,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=27abb6577ab32b1cfae931dcb9fbf71ac1649a10c1ca2c26ab6825a76ebb9202830cd2e8a0e8684100df3017eaf7d238b18420759b49f77406a653e3de3ce3073173215c58399edcf23b65f188
- CCTV9纪录,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=e69c8e4425584f2dee031cd706badeb5e3ea3a0f9253cf682c931678767fbaa5da0eb60ccc444e87addef13f1fbc8292ba2950d44b6d5a104e672f1dc4a963d5cec757f9a22e2bfb70f9da6aaf
- CCTV10科教,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=2fb2541de86ddf0832d0b6cd42c7b29d2bc32694badcd4605010cff8f0f0e0bdb9ec42e07767e5a4af960a6a140b248de8f1ba09fc1fcfb58f6367afb1e94657086e28f9d2007815d17156405f
- CCTV11戏曲,https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=167f721b7901636ee98a716ee8ac5c14929d6868f77dcf9e7fb04c5b29e971fa3e0a8d134d4553c4635666bdd6f30837e9c5cc9fd381e2a912f5d88a3621180477d1732c1b2def51980eb0c6b6
- CCTV12社会与法,https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=99c2c1ba9689958d0f520e0a2798bc63e0860c42e94ba7115469a340b5d065bc468d6a6a987a22d015ec2ff0d603c59ad22c708c6a6a645079939d73d86c826c6592ee47f7a7850f2e57840339
- CCTV13新闻,https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=51fec56b58eb0c9515955fdd5515432035bb55624e71ec13b5947d42876b4c403e1c79575fcf77396eb20f4954e636fb3aec37016686c9b976e9febd057c8f593af7459c57d6995a2b3227fa65
- CCTV14少儿,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=73fb9bd1e9dfca856aede5f3ebc8fa05357075396f16b8e7efdd02509b313e0715aad895e5d9b1170f361da04b3507e556d30c1cc7aa3ca3e46e15d787377869a3648df84bb982ceb3fbfe9013
- CCTV15音乐,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=aea37cca033e675bd213802416e0573c11f94dab42fcc441d087ef3797c088c72cf75a74b5505fb005c8e25808330aa79c5e893b3aa4fbe3eb7084ebfd9fd983e14cc6cc001038385db0c663cf
- CCTV17农业农村,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=4671310a52bc78d0534a5ae358377addbbbc7c7df9cc9bc8dd8e099953ffca7526a8d1f3c4efc2d8088c8dccaf4a3f782356b3e5dd8da565c7ccbbe46e9e19ebf4a02ce5e4f90c87812df24016
- CCTV4欧洲,https://mursor.ottiptv.cc/migu/608807419.m3u8?migutoken=77dbfa98ec2050a65df8298a3dc994e3cf12703fd2c96b97d8ebabd65c66a77f8c454131efd19aae319e8e98a4c483597205cf9928d990c9509956a0f6ccca438cb326e97a520acf021c982239
- CCTV4美洲,https://mursor.ottiptv.cc/migu/608807416.m3u8?migutoken=b28ec1c42332c8cab8a090809b9d58e02648fc3cc426c6233dfa5143984f9dea7808172e60b2b2250886154cbc2fc0c184544182fbe66f56d0dc2ca19e5c16cb9261e14c0edf14c371ee34b835
- CGTN外语纪录,https://mursor.ottiptv.cc/migu/609006487.m3u8?migutoken=40fbbfa857ddf4b9938734e148314f400d91d5458411885c3a470d65fb7dbc0ac03f2b8ccdacc805d4164ff69dab72c7992f72919b74847114b643f5938dec79724566179cb5b2efbe1524e1b6
- CGTN阿拉伯语,https://mursor.ottiptv.cc/migu/609154345.m3u8?migutoken=65c313916420ec49fc75f3f7b3c2867c35ec25fec17c824217960e2715fe00d1304f7d3629a59999f4afe8d42812ba217058ef20598a9adfcd3a9f4771019a81df2941d36db2d37ab14c73854b
- CGTN西班牙语,https://mursor.ottiptv.cc/migu/609006450.m3u8?migutoken=9d8705b42a6cb484e297008c14962c1ef92c2fd263cfbc8323aa3f0082da79d9a4cf5ef1c0b13a784f23a0d167e8565d9762e1b29e721725f7701a5c79d5ebb6b1201cfdb65014088ab139c296
- CGTN法语,https://mursor.ottiptv.cc/migu/609006476.m3u8?
+CCTV-1综合,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+CCTV-2财经,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+CCTV-3综艺,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+CCTV-4国际,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+CCTV-5体育,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV-5+赛事,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+CCTV-6电影,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+CCTV-7军事,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+CCTV-8电视剧,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+CCTV-9纪录,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV-10科教,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+CCTV-11戏曲,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+CCTV-12社会,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+CCTV-13新闻,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+CCTV-14少儿,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+CCTV-15音乐,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+CCTV-16奥运,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV-17农村,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 
 🇨🇳国内频道,#genre#
 CCTV-1,http://go.bkpcp.top/mg/cctv1
