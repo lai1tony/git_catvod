@@ -470,47 +470,60 @@ COMEDY CENTRAL,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/40023029
 SKY COMEDY,http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401630523.m3u8
 
 📡卫视频道1👉全网,#genre#
- 东方卫视,https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=816ae849186c10d4ecbae79a0204ed1807dc76e9f23245a58791f47be3f46e4ed96049eef17c5915d3a0f244ba3ba47740483c88e00b4a8e11e3293dec816d08a7dbf7d49bc207cd6547dc6f75
- 江苏卫视,https://mursor.ottiptv.cc/migu/623899368.m3u8?migutoken=8b34e4a4c61562d1e536873a579e101343e1e364aa784c2a793e32953e2f08767be1532d049719a8448227e08c155093011f35260e6f07018694aed53b0a1cfd24e40f4efb7cc2d856eaf855b2
- 广东卫视,https://mursor.ottiptv.cc/migu/608831231.m3u8?migutoken=4f2544151ba16c5330599675f8c8abfd5194ed52df0e4404d3af294e71763e9d0d8df50b8c27b5f35580a16a749abc977fa2ed1780fed8d1aa235721e2e5265713f129563c9a2a072a89670640
- 江西卫视,https://mursor.ottiptv.cc/migu/783847495.m3u8?migutoken=0e8fe78b4ec86a4197b64409df652643a70ba5a89e68d31257ef0216125b45d10596e8386f2b972f08f453c030a0c3dab2d8e0bdf53bc590bf49796433de505623389bcfcbdd9314c8984e189b
- 河南卫视,https://mursor.ottiptv.cc/migu/790187291.m3u8?migutoken=4f76ae6513151635c89c75e1cf07bc0d27a2a827d73705c61409473667d0597057945f9bb839ba78a1b322ad6068cdf899a357f18d2c11a18f231fb8421b1636d1d022de9c33158f18b0f81667
- 陕西卫视,https://mursor.ottiptv.cc/migu/738910838.m3u8?migutoken=25c92579c266f9f988863c8afcb68c9972c85a6655309669ac1ccb138544c07ab6cba2df43327af4896cd4af999ef559174f6043bc8b2118e641b738c1fcf3762ba9b6b2f463bc295d21bdbebd
- 大湾区卫视,https://mursor.ottiptv.cc/migu/608917627.m3u8?migutoken=30ea7de77a0233ca9fd214e37d29c0f72403f6713ad3cde23caf18298f74994ae24a88a48e9bc4fae9b9c43a2ab3cd58f8b6f72a7d3d65c4a7bdeeb10b305de47fa837513c708ff6e288880677
- 湖北卫视,https://mursor.ottiptv.cc/migu/947472496.m3u8?migutoken=358b6e4b299c1a58a96aca7f0f1bb8f1fd4af225b82d159abfb9b1f5ea03cb5768158c9b197cca19c23defb75a55029ef4d3182df5ddd386755cb8a131a3a0f2a67763330f406d337e792c8cde
- 吉林卫视,https://mursor.ottiptv.cc/migu/947472500.m3u8?migutoken=6af8bb7e31aaf3f951e75a9a12fc87ee468e63bfc9b9ee0d1c334e2cfdd3b893d38c0e3e9380e79a36fa980821ad1c80eeb9ba301ffc35a13e74fbe57446762fbf973847af5af388b7e286629c
- 青海卫视,https://mursor.ottiptv.cc/migu/947472506.m3u8?migutoken=419e8e08edb7818cf4e6992592d716447a4f44b7607d9f0961b3902f1971f7a09397ce6d65f56308a0ed365dc5a352f3f40a46191a292237936f0078572d7e7482608fe9f69778512b2cb131d5
- 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=62a36ff30e33ee4b8cf5e6c6153aa412a1b201a9ec5207b32dbc7790b6d847bf6fdf542fdcc0b06d8ad1b87602289594315e6924aa661e2abe93fa38ee9d8253ecc126aa227e075fb2f700b34a
- 海南卫视,https://mursor.ottiptv.cc/migu/947472502.m3u8?migutoken=acebd292a90f16c290f2dbd196e30c2efa3365d26362247634628e12c209a5f021534dbae6bb4ed01a7c1359631dec32f980c335e2769c5d841f2a58bf05003529759fb8a22a36bd00dc4c5a28
- 海峡卫视,https://mursor.ottiptv.cc/migu/849119120.m3u8?migutoken=8cadd39dc6cdd5b06f2b6c6be734d3ba20eb7994409a6ccfb2e20702dcbb2e95a353ce35c533300e5381a914007bf4f669e221328622e76eefed613bb2461bfd848418fc19bb9bcbfac06a23a3
- 中国农林卫视,https://mursor.ottiptv.cc/migu/956904896.m3u8?migutoken=099fafbbe2fcac29cc40be258691ca828c8bda013971bfbe801a00c28960ec0cea4839b45e271e8405d731158e23f5a62cb155406c104d2049de8319b82f155c9dff7af1948dbd357ea1e98343
- 兵团卫视,https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=3be33fcea1bddf67b19a5f25725dad8d5ba598f7738c50fdaca616f8b9fc7d12b859300bfd0a7f7c35bef766861445a17502f1029f70aaf939d44cfb9e9d3fe7855e926884cad0b86a1a75f0a2
-tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="主力-卫视",东方卫视HD-主力,https://mursor.ottiptv.cc/bst/hddfws@4000000.m3u8
-tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="主力-卫视",河北卫视HD-主力,https://mursor.ottiptv.cc/bst/hbwshd4m@4000000.m3u8
-tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="主力-卫视",浙江卫视HD-主力,https://mursor.ottiptv.cc/bst/zjwshd@4000000.m3u8
-tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="主力-卫视",北京卫视HD-主力,https://mursor.ottiptv.cc/bst/bjwshd@4000000.m3u8
-tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="主力-卫视",江苏卫视HD-主力,https://mursor.ottiptv.cc/bst/jswshd@4000000.m3u8
-tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="主力-卫视",天津卫视HD-主力,https://mursor.ottiptv.cc/bst/tjwshd@4000000.m3u8
-tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="主力-卫视",湖南卫视HD-主力,https://mursor.ottiptv.cc/bst/hnwshd@4000000.m3u8
-主力-其他,#genre#
-tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://11.112114.xyz/logo/中国教育1台.png" group-title="主力-其他",中国教育-1HD-主力,https://mursor.ottiptv.cc/bst/zgjy1ott@4000000.m3u8
-tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://11.112114.xyz/logo/中国教育2台.png" group-title="主力-其他",中国教育-2-主力,https://mursor.ottiptv.cc/bst/cetv2@2500000.m3u8
-tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://11.112114.xyz/logo/中国教育4台.png" group-title="主力-其他",中国教育-4HD-主力,https://mursor.ottiptv.cc/bst/cetv4@1300000.m3u8
-主力-卫视,#genre#
-tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="主力-卫视",山东卫视HD-主力,https://mursor.ottiptv.cc/bst/sdwshd@4000000.m3u8
-tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="主力-卫视",东南卫视HD-主力,https://mursor.ottiptv.cc/bst/dnwshd@4000000.m3u8
-tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="主力-卫视",安徽卫视HD-主力,https://mursor.ottiptv.cc/bst/ahwshd@4000000.m3u8
-tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="主力-卫视",湖北卫视HD-主力,https://mursor.ottiptv.cc/bst/hbwshd@4000000.m3u8
-tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="主力-卫视",甘肃卫视HD-主力,https://mursor.ottiptv.cc/bst/gswshd4m@4000000.m3u8
-tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="主力-卫视",广东卫视HD-主力,https://mursor.ottiptv.cc/bst/gdwshd@4000000.m3u8
-tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="主力-卫视",广西卫视HD-主力,https://mursor.ottiptv.cc/bst/gxwshd4m@4000000.m3u8
-tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="主力-卫视",贵州卫视HD-主力,https://mursor.ottiptv.cc/bst/gzwshd4m@4000000.m3u8
-tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="主力-卫视",重庆卫视HD-主力,https://mursor.ottiptv.cc/bst/cqwshd4m@4000000.m3u8
-tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="主力-卫视",河南卫视HD-主力,https://mursor.ottiptv.cc/bst/henwshd4m@4000000.m3u8
-tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="主力-卫视",黑龙江卫视HD-主力,https://mursor.ottiptv.cc/bst/hljwshd@4000000.m3u8
-tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="主力-卫视",海南卫视HD-主力,https://mursor.ottiptv.cc/bst/hainwshd4m@4000000.m3u8
-tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="主力-卫视",吉林卫视HD-主力,https://mursor.ottiptv.cc/bst/jlwshd4m@4000000.m3u8
-tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="主力-卫视",江西卫视HD-主力,https://mursor.ottiptv.cc/bst/jxwshd@4000000.m3u8
+ 北京卫视,http://k.061899.xyz/m.php?id=bjws
+东方卫视,http://k.061899.xyz/m.php?id=dfws
+浙江卫视,http://k.061899.xyz/m.php?id=zjws
+江苏卫视,http://k.061899.xyz/m.php?id=jsws
+湖南卫视,http://k.061899.xyz/m.php?id=hunws
+广东卫视,http://k.061899.xyz/m.php?id=gdws
+深圳卫视,http://k.061899.xyz/m.php?id=szws
+天津卫视,http://k.061899.xyz/m.php?id=tjws
+安徽卫视,http://k.061899.xyz/m.php?id=ahws
+山东卫视,http://k.061899.xyz/m.php?id=sdws
+辽宁卫视,http://k.061899.xyz/m.php?id=lnws
+河北卫视,http://k.061899.xyz/m.php?id=hbws
+河南卫视,http://k.061899.xyz/m.php?id=hnws
+江西卫视,http://k.061899.xyz/m.php?id=jxws
+四川卫视,http://k.061899.xyz/m.php?id=scws
+重庆卫视,http://k.061899.xyz/m.php?id=cqws
+贵州卫视,http://k.061899.xyz/m.php?id=gzws
+湖北卫视,http://k.061899.xyz/m.php?id=hubws
+广西卫视,http://k.061899.xyz/m.php?id=gxws
+东南卫视,http://k.061899.xyz/m.php?id=dnws
+海南卫视,http://k.061899.xyz/m.php?id=hinws
+青海卫视,http://k.061899.xyz/m.php?id=qhws
+吉林卫视,http://k.061899.xyz/m.php?id=jlws
+兵团卫视,http://k.061899.xyz/m.php?id=btws
+西藏卫视,http://k.061899.xyz/m.php?id=xzws
+内蒙古视,http://k.061899.xyz/m.php?id=nmgws
+黑龙江卫视,http://k.061899.xyz/m.php?id=hljws
+北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
+东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
+浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
+江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
+湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
+广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
+深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
+天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
+安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
+山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
+辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
+河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
+河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
+江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
+四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
+重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
+贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
+湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
+广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
+东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
+海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
+青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
+吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
+兵团卫视,http://t.061899.xyz/tl/tl.php?id=btws
+西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
+内蒙古视,http://t.061899.xyz/tl/tl.php?id=nmgws
+黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
 
 📡卫视频道2👉全网,#genre#
 北京卫视,http://go.bkpcp.top/mg/bjws
