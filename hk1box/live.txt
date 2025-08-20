@@ -44,65 +44,29 @@ CGTN-阿,http://go.bkpcp.top/mg/cgtna
 CGTN-法,http://go.bkpcp.top/mg/cgtnf
 
 🇨🇳中国港澳台👉春盈,#genre#
--凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
--凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
--凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
--中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
 凤凰卫视中文台,http://bxtv.3a.ink/api.php?id=fhzw
 凤凰卫视资讯台,http://bxtv.3a.ink/api.php?id=fhzx
 凤凰卫视香港台,http://bxtv.3a.ink/api.php?id=fhhk
-纬来体育,http://bxtv.3a.ink/api.php?id=wlty
--中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
--中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
--香港PEAU,http://183.237.95.108:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
--翡翠台,http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
--翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
--无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
--凤凰电影频标,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
--无线赛马,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
--重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
--tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
--myTV SUPER 18 台,http://bxtv.3a.ink/api.php?id=18
--tvbplus,http://bxtv.3a.ink/api.php?id=tvbp
--明珠台,http://bxtv.3a.ink/api.php?id=mz
--无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
--NOW 新闻,http://bxtv.3a.ink/api.php?id=now
--美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
--VIUTV,http://bxtv.3a.ink/api.php?id=viutv
--NOW 新闻,http://bxtv.3a.ink/api.php?id=now
+香港PEAU,http://183.237.95.108:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台,http://183.237.95.108:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=0&authid=0
+tvbplus,http://bxtv.3a.ink/api.php?id=tvbp
+myTV SUPER 18 台,http://bxtv.3a.ink/api.php?id=18
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
+NOW 新闻,http://bxtv.3a.ink/api.php?id=now
+美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
+VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+NOW 新闻,http://bxtv.3a.ink/api.php?id=now
 千禧经典台,http://bxtv.3a.ink/api.php?id=qxjd
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
--民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
--民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
--HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
--HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
--RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
--RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
--面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
--美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
--东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
--东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
--八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
--八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
--爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
--OneTV  ,http://play2.one-tv.com/live/onetv.m3u8
--美亚电影台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
--澳門蓮花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
--Global News,https://stream1.freetv.fun/500c9b9e561b13a054cb3f012b7c85d6497ceb7b1500b811dceb42d4e213cd73.m3u8
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+OneTV  ,http://play2.one-tv.com/live/onetv.m3u8
+美亚电影台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+澳門蓮花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+Global News,https://stream1.freetv.fun/500c9b9e561b13a054cb3f012b7c85d6497ceb7b1500b811dceb42d4e213cd73.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
--翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn
--翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue
--iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn
--J 2,https://live.catvod.com/catvod_com.php?id=j2_twn
--珍珠台,https://live.catvod.com/catvod_com.php?id=pearl_twn
--凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn
--HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn
--RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn
--VIUTV,https://live.catvod.com/catvod_com.php?id=viu1_twn
--RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn
--凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd
--凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd
--Viu6,https://live.catvod.com/catvod_com.php?id=viusix_twn
 
 🇨🇳AKTV👉春盈,#genre#
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
