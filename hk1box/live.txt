@@ -93,6 +93,21 @@ ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
 天映频道,http://t.061899.xyz/tl/168.php?id=typd
 
+🇨🇳港台catvod👉春盈,#genre#
+翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=dc82f5deceb5dda6e1b0d82ec442e1d44bafbbbea26606deb45304aafcbb330b%3A1757749252
+翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=0603a05057d9ef7553a1c9e67781a52519c73947981776d706ebe5b4c8bdd7fd%3A1757749252
+iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=fd4bfac9ec78578e1f1398f6f8120f7728d06c753a200e8d555f5c9397557076%3A1757749252
+J 2,https://live.catvod.com/catvod_com.php?id=j2_twn&token=091b8c9685b4c1bfab1ca775ed3d784ef7d6c773477faf7d274d85faa8642ee1%3A1757749252
+珍珠台,https://live.catvod.com/catvod_com.php?id=pearl_twn&token=63fca404cdb711605f44982aa278a07f09ed97e2a368e4ffd79a89a12dcfc181%3A1757749252
+凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn&token=59dca1d3ce3fd4ecdc12c8e3857f5467b14075755075ff6b8a9e7ffc0414c6ea%3A1757749252
+HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn&token=1aa2d64bedd9b82220102f0bfce543e02445226ba676fba1fd768132ae89bf87%3A1757749252
+RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn&token=0c15646d5f0548da0acc53dcd8628c03a93b687c442c2ee27bb2ed962c8e0a66%3A1757749252
+VIUTV1,https://live.catvod.com/catvod_com.php?id=viu1_twn&token=05d045bbd7a9b9dc2a718807d6c7fb559b7fab93e87d95cffb76a1f3cdee7ad6%3A1757749252
+RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn&token=2db7f5d19a606bc4ca7663d43aa9c0c3e5d67b2343ee9cb423f49f17698cadc6%3A1757749252
+凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=82f356d710bc009e76fe56bf3eaa79fe8a2a59fe4687c88af7085ae2236fde45%3A1757749252
+凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd&token=989f7b63ca9db63909063ac95ea9e5b8ee040a1448d79a03cb610b5910270a65%3A1757749252
+Viu6,https://live.catvod.com/catvod_com.php?id=viusix_twn&token=61d6149a870656c9067c7234418e78b16b7637f1279d7001d666f5ee645c66d1%3A1757749252
+
 🇨🇳台湾频道测试,#genre#
 tvbs欢乐高码,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
 东森超视高码,http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
