@@ -94,19 +94,19 @@ ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 天映频道,http://t.061899.xyz/tl/168.php?id=typd
 
 🇨🇳港台catvod👉春盈,#genre#
-翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=d4f5068e2c66fa1f45f9fc7c305fd25bce54c89b636a01382ac9e812f5c08202%3A1757832380
-翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=8192cb9bbd2cd86c012c177fa49fa619b50a192ac268296f3798a74f66ff103d%3A1757832380
-iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=f85d23aa1a08dfc48e5b79db08b2db98a4a8aa22af10ea2347ddc3c322395041%3A1757832380
-J 2,https://live.catvod.com/catvod_com.php?id=j2_twn&token=f2d64eced4d13776f20d5845fbb65dbc86ed5a70012ab0f113579a5726d9b865%3A1757832380
-珍珠台,https://live.catvod.com/catvod_com.php?id=pearl_twn&token=0e739ff2ee5bb9b6e7131f2c387e6bab18fbe619224f2a87a333b970d0f6211f%3A1757832380
-凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn&token=675fe5747f0f1ee31658e99506ffe6b8bfd8f5ec9e711d109e8d8a043d38f230%3A1757832380
-HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn&token=9f5f3f9ce68628fd63618f45958e9ef8401745500b5e6f6d0305310c8b0ba15f%3A1757832380
-RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn&token=364afc7861dba4fde3641094f9b596d43b1fda04a07a4029f725a22111e30d31%3A1757832380
-VIUTV1,https://live.catvod.com/catvod_com.php?id=viu1_twn&token=65de9ea083e6d6d6e4c845ed3fd8eb939a481b24528e03af432086a16495ca71%3A1757832380
-RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn&token=ccc7c5b8656cac216f6c1e65d552de718fc99251fa7d1aee395439b880113e30%3A1757832380
-凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=2ec6b274f1e1caa4a0c8a3f11dc2c7739b5f12fe8e119ac6d8a464a29acdf49c%3A1757832380
-凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd&token=e4e9b102e362f4684ab10eb7df9c237b4350ae713bb3f93c53ce05c1e6186719%3A1757832380
-Viu6,https://live.catvod.com/catvod_com.php?id=viusix_twn&token=bc017b43699b4b027cfdf500b070f8b8068fd79f51dfeb8da818734f1e5f3424%3A1757832380
+翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=1d5fcbbb170617778f573fbd4d48b6427e01a6ce2dbe6130ed062cfd3495e497%3A1758556760
+翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=937615475d0d86692669a067aabd8dd4b8ed57efb75f4368a2cdb3f62cfc4bdf%3A1758556760
+iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=8bc6a81dd8f2af451c7ca8ca14d9ec88cb69db10c1bcbeaddeb69a218def0cc5%3A1758556760
+J 2,https://live.catvod.com/catvod_com.php?id=j2_twn&token=193cb934ff4a2a0776dad18746ac8cbd546ad1a7c24894784024a64494a920b4%3A1758556760
+珍珠台,https://live.catvod.com/catvod_com.php?id=pearl_twn&token=2e3823ef255707f0532f7ef23138a56929bd13dddeb75c19f686fe9623cc4734%3A1758556760
+凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn&token=f354a943724b765137a8b94de0b15a1e9a57209dde3ec6ebca1118cbbe0fe5f8%3A1758556760
+HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn&token=5dfe5f687671122e28452c8e333ad5cd31e4529237789b93c7cfad5c05f14c7f%3A1758556760
+RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn&token=61a47bb3bd5a5e650b4e29e238544574cebee5a6f46bfd1733fe1a54d8899ccb%3A1758556760
+VIUTV1,https://live.catvod.com/catvod_com.php?id=viu1_twn&token=c4a4bd786fba527184ce947624ea76df0d67515000a61d878594aaa2846a3f28%3A1758556760
+RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn&token=93808a6c67fe2b56364b46246c534cafcb416082be2fcafa2bec2245de22f9d5%3A1758556760
+凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=2de491a89063e15de50681f0fe1fb7121975d2d876730491b16bc82e46d88d5d%3A1758556760
+凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd&token=f877c5dc20a9cd207ad1299fb0e7cf355dd1c5dd4c409dfa170625307fa0dfb8%3A1758556760
+Viu6,https://live.catvod.com/catvod_com.php?id=viusix_twn&token=bc82e099bdaae56785e29ce3d4ea2efbbd63895f2a089ee3ece475c704c34736%3A1758556760
 
 🇨🇳台湾频道测试,#genre#
 tvbs欢乐高码,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
