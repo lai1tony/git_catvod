@@ -94,19 +94,19 @@ ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 天映频道,http://t.061899.xyz/tl/168.php?id=typd
 
 🇨🇳港台catvod👉春盈,#genre#
-翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=1d5fcbbb170617778f573fbd4d48b6427e01a6ce2dbe6130ed062cfd3495e497%3A1758556760
-翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=937615475d0d86692669a067aabd8dd4b8ed57efb75f4368a2cdb3f62cfc4bdf%3A1758556760
-iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=8bc6a81dd8f2af451c7ca8ca14d9ec88cb69db10c1bcbeaddeb69a218def0cc5%3A1758556760
-J 2,https://live.catvod.com/catvod_com.php?id=j2_twn&token=193cb934ff4a2a0776dad18746ac8cbd546ad1a7c24894784024a64494a920b4%3A1758556760
-珍珠台,https://live.catvod.com/catvod_com.php?id=pearl_twn&token=2e3823ef255707f0532f7ef23138a56929bd13dddeb75c19f686fe9623cc4734%3A1758556760
-凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn&token=f354a943724b765137a8b94de0b15a1e9a57209dde3ec6ebca1118cbbe0fe5f8%3A1758556760
-HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn&token=5dfe5f687671122e28452c8e333ad5cd31e4529237789b93c7cfad5c05f14c7f%3A1758556760
-RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn&token=61a47bb3bd5a5e650b4e29e238544574cebee5a6f46bfd1733fe1a54d8899ccb%3A1758556760
-VIUTV1,https://live.catvod.com/catvod_com.php?id=viu1_twn&token=c4a4bd786fba527184ce947624ea76df0d67515000a61d878594aaa2846a3f28%3A1758556760
-RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn&token=93808a6c67fe2b56364b46246c534cafcb416082be2fcafa2bec2245de22f9d5%3A1758556760
-凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=2de491a89063e15de50681f0fe1fb7121975d2d876730491b16bc82e46d88d5d%3A1758556760
-凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd&token=f877c5dc20a9cd207ad1299fb0e7cf355dd1c5dd4c409dfa170625307fa0dfb8%3A1758556760
-Viu6,https://live.catvod.com/catvod_com.php?id=viusix_twn&token=bc82e099bdaae56785e29ce3d4ea2efbbd63895f2a089ee3ece475c704c34736%3A1758556760
+翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=286e1ef1b9a349ff285dfe345fe528dd45d2ba98658062a031058b23d44aad7d%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=1f58db2ade57e0a41c845d12d266b1abadb367a2d6f464984ff8c025dc5a1bb5%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=de338b80b114a67906d157490e2ebb8aed954c9fe9643d8ffc7f5b6cf1e34321%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+J 2,https://live.catvod.com/catvod_com.php?id=j2_twn&token=87c7dfb08ec2b6898f8e216bcd32cb84c9df73e203a0e0fdba8f9a588b604433%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+珍珠台,https://live.catvod.com/catvod_com.php?id=pearl_twn&token=87f7a2157909e446b4552106eda09bccff06db203394ade085198da3ab76cd02%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn&token=c6bdca5f1ce09b0931ddb29caf13644e07506ccedb0f95c94cee7407d430bca3%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn&token=c88bd72402eefcb969558f8e025d5624c2889e4f474b3297237f0c691cb499fd%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn&token=e657c034ea37a671196ba9d3be93825c313fe6af1ee7d1577bd3c7e22248b677%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+VIUTV1,https://live.catvod.com/catvod_com.php?id=viu1_twn&token=9af2f6370652088a77f13540ef82bba94d59b7c1a570e55e5c64fb79b7a0695b%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn&token=9eb056812780bee9f1e1dcd936ad4c2e24f904a2c5ca65a7fa18189559f3830b%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=35c4e1e3f386713c809a6d579a32957c47bab403515ca37492f52b9a5fcca2fa%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd&token=909b0339f3a739d4f9d17e4a1391e723f3b351ade56fce4b43a4e9a29ceaf155%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
+Viu6,https://live.catvod.com/catvod_com.php?id=viusix_twn&token=620a97807a4fa019ae2af5673556f47227d9319aaa77e4d5170b48efc1deee13%3A1758817269%3AMTIwLjIzMC43Ni4xNzM%3D
 
 🇨🇳台湾频道测试,#genre#
 tvbs欢乐高码,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
