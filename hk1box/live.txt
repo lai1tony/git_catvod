@@ -116,6 +116,7 @@ CCTV-15 音乐,http://tv.tslgpt.top:5050/smart.php?id=cctv15&token=boxgpt
 CCTV-16 奥林匹克,http://tv.tslgpt.top:5050/smart.php?id=cctv16&token=boxgpt
 CCTV-17 农业农村,http://tv.tslgpt.top:5050/smart.php?id=cctv17&token=boxgpt
 CCTV-5+ 体育赛事,http://tv.tslgpt.top:5050/smart.php?id=cctv5plus&token=boxgpt
+GPT-卫视,#genre#
 湖南卫视,http://tv.tslgpt.top:5050/smart.php?id=hunan_twn&token=boxgpt
 浙江卫视,http://tv.tslgpt.top:5050/smart.php?id=zhejiang_twn&token=boxgpt
 江苏卫视,http://tv.tslgpt.top:5050/smart.php?id=jiangsu_twn&token=boxgpt
