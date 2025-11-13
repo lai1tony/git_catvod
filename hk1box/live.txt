@@ -1,5 +1,4 @@
 GPT-BXTV,#genre#
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 明珠台,http://bxtv.3a.ink/api.php?id=mz
 無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
