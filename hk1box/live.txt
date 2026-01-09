@@ -126,6 +126,249 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 綜合,#genre#
 [BD]凤凰香港[geo-blocked],https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv
 [BD]凤凰香港 *sg,https://stream1.freetv.fun/9b8c3d71546b4dd10e2ff194bdb79941d8455270835e35027622d509742ff377.m3u8
+广东,#genre#
+广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=570d3fb2514dc3000715e0ce6ba8b793
+广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=570d3fb2514dc3000715e0ce6ba8b793
+广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=570d3fb2514dc3000715e0ce6ba8b793
+大湾区卫视,http://iptv.cqshushu.com/gdtv.php?id=dwqws1&token=570d3fb2514dc3000715e0ce6ba8b793
+大湾区卫视(海外),http://iptv.cqshushu.com/gdtv.php?id=dwqws2&token=570d3fb2514dc3000715e0ce6ba8b793
+广东影视,http://iptv.cqshushu.com/gdtv.php?id=gdys&token=570d3fb2514dc3000715e0ce6ba8b793
+广东4K,http://iptv.cqshushu.com/gdtv.php?id=gd4k&token=570d3fb2514dc3000715e0ce6ba8b793
+岭南戏曲,http://iptv.cqshushu.com/gdtv.php?id=lnxq&token=570d3fb2514dc3000715e0ce6ba8b793
+广东民生,http://iptv.cqshushu.com/gdtv.php?id=gdms&token=570d3fb2514dc3000715e0ce6ba8b793
+广东新闻,http://iptv.cqshushu.com/gdtv.php?id=gdxw&token=570d3fb2514dc3000715e0ce6ba8b793
+广东移动,http://iptv.cqshushu.com/gdtv.php?id=gdyd&token=570d3fb2514dc3000715e0ce6ba8b793
+广东少儿,http://iptv.cqshushu.com/gdtv.php?id=gdse&token=570d3fb2514dc3000715e0ce6ba8b793
+嘉佳卡通,http://iptv.cqshushu.com/gdtv.php?id=jjkt&token=570d3fb2514dc3000715e0ce6ba8b793
+广州综合,http://iptv.cqshushu.com/gddf.php?id=gzzh&token=570d3fb2514dc3000715e0ce6ba8b793
+广州新闻,http://iptv.cqshushu.com/gddf.php?id=gzxw&token=570d3fb2514dc3000715e0ce6ba8b793
+广州法治,http://iptv.cqshushu.com/gddf.php?id=gzfz&token=570d3fb2514dc3000715e0ce6ba8b793
+4K南国都市,http://iptv.cqshushu.com/gddf.php?id=ngds&token=570d3fb2514dc3000715e0ce6ba8b793
+番禺综合,http://iptv.cqshushu.com/gddf.php?id=pyzh&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳卫视4K,http://iptv.cqshushu.com/gddf.php?id=szws4k&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳卫视4K,http://iptv.cqshushu.com/gddf.php?id=szws4k2&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳卫视,http://iptv.cqshushu.com/gddf.php?id=szws&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳都市,http://iptv.cqshushu.com/gddf.php?id=szds&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳都市,http://iptv.cqshushu.com/gddf.php?id=szds2&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳电视剧,http://iptv.cqshushu.com/gddf.php?id=szdsj&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳财经,http://iptv.cqshushu.com/gddf.php?id=szcj&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳少儿,http://iptv.cqshushu.com/gddf.php?id=szse&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳移动,http://iptv.cqshushu.com/gddf.php?id=szyd&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳宜和购物,http://iptv.cqshushu.com/gddf.php?id=szyhgw&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳国际,http://iptv.cqshushu.com/gddf.php?id=szgj&token=570d3fb2514dc3000715e0ce6ba8b793
+东莞综合,http://iptv.cqshushu.com/gddf.php?id=dgzh&token=570d3fb2514dc3000715e0ce6ba8b793
+东莞生活,http://iptv.cqshushu.com/gddf.php?id=dgsh&token=570d3fb2514dc3000715e0ce6ba8b793
+江门综合,http://iptv.cqshushu.com/gddf.php?id=jmzh&token=570d3fb2514dc3000715e0ce6ba8b793
+中山综合,http://iptv.cqshushu.com/gddf.php?id=zszh&token=570d3fb2514dc3000715e0ce6ba8b793
+云浮综合,http://iptv.cqshushu.com/gddf.php?id=yfzh&token=570d3fb2514dc3000715e0ce6ba8b793
+云浮文旅,http://iptv.cqshushu.com/gddf.php?id=yfwl&token=570d3fb2514dc3000715e0ce6ba8b793
+湛江综合,http://iptv.cqshushu.com/gddf.php?id=zjzh&token=570d3fb2514dc3000715e0ce6ba8b793
+湛江公共,http://iptv.cqshushu.com/gddf.php?id=zjgg&token=570d3fb2514dc3000715e0ce6ba8b793
+丰顺综合,http://iptv.cqshushu.com/gddf.php?id=fszh&token=570d3fb2514dc3000715e0ce6ba8b793
+五华综合,http://iptv.cqshushu.com/gddf.php?id=whzh&token=570d3fb2514dc3000715e0ce6ba8b793
+汕头综合,http://iptv.cqshushu.com/gddf.php?id=stzh&token=570d3fb2514dc3000715e0ce6ba8b793
+汕头生活,http://iptv.cqshushu.com/gddf.php?id=stsh&token=570d3fb2514dc3000715e0ce6ba8b793
+汕尾综合,http://iptv.cqshushu.com/gddf.php?id=swzh&token=570d3fb2514dc3000715e0ce6ba8b793
+汕尾生活,http://iptv.cqshushu.com/gddf.php?id=swsh&token=570d3fb2514dc3000715e0ce6ba8b793
+潮州综合,http://iptv.cqshushu.com/gddf.php?id=czzh&token=570d3fb2514dc3000715e0ce6ba8b793
+潮州民生,http://iptv.cqshushu.com/gddf.php?id=czms&token=570d3fb2514dc3000715e0ce6ba8b793
+揭阳综合,http://iptv.cqshushu.com/gddf.php?id=jytv1&token=570d3fb2514dc3000715e0ce6ba8b793
+揭阳生活,http://iptv.cqshushu.com/gddf.php?id=jytv2&token=570d3fb2514dc3000715e0ce6ba8b793
+河源综合,http://iptv.cqshushu.com/gddf.php?id=hyzh&token=570d3fb2514dc3000715e0ce6ba8b793
+河源生活,http://iptv.cqshushu.com/gddf.php?id=hysh&token=570d3fb2514dc3000715e0ce6ba8b793
+韶关综合,http://iptv.cqshushu.com/gddf.php?id=sgzh&token=570d3fb2514dc3000715e0ce6ba8b793
+阳江1,http://iptv.cqshushu.com/gddf.php?id=yjtv1&token=570d3fb2514dc3000715e0ce6ba8b793
+阳江2,http://iptv.cqshushu.com/gddf.php?id=yjtv2&token=570d3fb2514dc3000715e0ce6ba8b793
+清远综合,http://iptv.cqshushu.com/gddf.php?id=qyzh&token=570d3fb2514dc3000715e0ce6ba8b793
+肇庆综合,http://iptv.cqshushu.com/gddf.php?id=zqzh&token=570d3fb2514dc3000715e0ce6ba8b793
+肇庆生活,http://iptv.cqshushu.com/gddf.php?id=zqsh&token=570d3fb2514dc3000715e0ce6ba8b793
+怀集综合,http://iptv.cqshushu.com/gddf.php?id=hjzh&token=570d3fb2514dc3000715e0ce6ba8b793
+其他,#genre#
+凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=570d3fb2514dc3000715e0ce6ba8b793
+凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=570d3fb2514dc3000715e0ce6ba8b793
+凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=570d3fb2514dc3000715e0ce6ba8b793
+纬来体育,http://iptv.cqshushu.com/wltv.php?id=wlty&token=570d3fb2514dc3000715e0ce6ba8b793
+央视,#genre#
+CCTV1,http://iptv.cqshushu.com/migu.php?pid=cctv1&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV2,http://iptv.cqshushu.com/migu.php?pid=cctv2&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-3 综艺,http://iptv.cqshushu.com/migu.php?pid=cctv3&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-4 中文国际,http://iptv.cqshushu.com/migu.php?pid=cctv4&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-5 体育,http://iptv.cqshushu.com/migu.php?pid=cctv5&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-5+ 体育赛事,http://iptv.cqshushu.com/migu.php?pid=cctv5p&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-6 电影,http://iptv.cqshushu.com/migu.php?pid=cctv6&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-7 国防军事,http://iptv.cqshushu.com/migu.php?pid=cctv7&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-8 电视剧,http://iptv.cqshushu.com/migu.php?pid=cctv8&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-9 纪录,http://iptv.cqshushu.com/migu.php?pid=cctv9&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-10 科教,http://iptv.cqshushu.com/migu.php?pid=cctv10&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-11 戏曲,http://iptv.cqshushu.com/migu.php?pid=cctv11&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-12 社会与法,http://iptv.cqshushu.com/migu.php?pid=cctv12&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-13 新闻,http://iptv.cqshushu.com/migu.php?pid=cctv13&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-14 少儿,http://iptv.cqshushu.com/migu.php?pid=cctv14&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-15 音乐,http://iptv.cqshushu.com/migu.php?pid=cctv15&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-17 农业农村,http://iptv.cqshushu.com/migu.php?pid=cctv17&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-4 中文国际 欧洲,http://iptv.cqshushu.com/migu.php?pid=cctv4oz&token=570d3fb2514dc3000715e0ce6ba8b793
+CCTV-4 中文国际 美洲,http://iptv.cqshushu.com/migu.php?pid=cctv4mz&token=570d3fb2514dc3000715e0ce6ba8b793
+卫视,#genre#
+湖南卫视,http://iptv.cqshushu.com/migu.php?pid=hnws&token=570d3fb2514dc3000715e0ce6ba8b793
+浙江卫视,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+浙江卫视,http://iptv.cqshushu.com/migu.php?pid=z_jws&token=570d3fb2514dc3000715e0ce6ba8b793
+江苏卫视,http://iptv.cqshushu.com/migu.php?pid=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+东方卫视,http://iptv.cqshushu.com/migu.php?pid=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+广东卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+湖北卫视,http://iptv.cqshushu.com/migu.php?pid=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+江西卫视,http://iptv.cqshushu.com/migu.php?pid=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+辽宁卫视,http://iptv.cqshushu.com/migu.php?pid=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+陕西卫视,http://iptv.cqshushu.com/migu.php?pid=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+河南卫视,http://iptv.cqshushu.com/migu.php?pid=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&token=570d3fb2514dc3000715e0ce6ba8b793
+海南卫视,http://iptv.cqshushu.com/migu.php?pid=hn_hnws&token=570d3fb2514dc3000715e0ce6ba8b793
+三沙卫视,http://iptv.cqshushu.com/migu.php?pid=hn_ssws&token=570d3fb2514dc3000715e0ce6ba8b793
+吉林卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+青海卫视,http://iptv.cqshushu.com/migu.php?pid=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+海南卫视,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+农林卫视,http://iptv.cqshushu.com/migu.php?pid=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+内蒙古卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+兵团卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+大湾区卫视,http://iptv.cqshushu.com/migu.php?pid=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+超清,#genre#
+湖南卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864k&token=570d3fb2514dc3000715e0ce6ba8b793
+浙江卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864k&token=570d3fb2514dc3000715e0ce6ba8b793
+东方卫视4K,http://iptv.cqshushu.com/migu.php?pid=dfws&token=570d3fb2514dc3000715e0ce6ba8b793
+北京卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+深圳卫视4K,http://iptv.cqshushu.com/migu.php?pid=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+其他,#genre#
+CHC家庭影院,http://iptv.cqshushu.com/migu.php?pid=chc%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&token=570d3fb2514dc3000715e0ce6ba8b793
+CHC动作电影,http://iptv.cqshushu.com/migu.php?pid=chc%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&token=570d3fb2514dc3000715e0ce6ba8b793
+CHC影迷电影,http://iptv.cqshushu.com/migu.php?pid=chc%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&token=570d3fb2514dc3000715e0ce6ba8b793
+五星体育,http://iptv.cqshushu.com/migu.php?pid=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&token=570d3fb2514dc3000715e0ce6ba8b793
+五星体育,https://other.ottiptv.cc/wxty.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+重温经典,https://other.ottiptv.cc/cwjd.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+新片放映厅,http://iptv.cqshushu.com/migu.php?pid=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&token=570d3fb2514dc3000715e0ce6ba8b793
+经典香港电影,http://iptv.cqshushu.com/migu.php?pid=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&token=570d3fb2514dc3000715e0ce6ba8b793
+抗战经典影片,http://iptv.cqshushu.com/migu.php?pid=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&token=570d3fb2514dc3000715e0ce6ba8b793
+赛事最经典,http://iptv.cqshushu.com/migu.php?pid=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&token=570d3fb2514dc3000715e0ce6ba8b793
+武术世界,http://iptv.cqshushu.com/migu.php?pid=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&token=570d3fb2514dc3000715e0ce6ba8b793
+四海钓鱼,http://iptv.cqshushu.com/migu.php?pid=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&token=570d3fb2514dc3000715e0ce6ba8b793
+环球旅游,http://iptv.cqshushu.com/migu.php?pid=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&token=570d3fb2514dc3000715e0ce6ba8b793
+最强综艺趴,http://iptv.cqshushu.com/migu.php?pid=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&token=570d3fb2514dc3000715e0ce6ba8b793
+嘉佳卡通,http://iptv.cqshushu.com/migu.php?pid=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&token=570d3fb2514dc3000715e0ce6ba8b793
+经典动画大集合,http://iptv.cqshushu.com/migu.php?pid=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+优漫卡通,http://iptv.cqshushu.com/migu.php?pid=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+财富天下,http://iptv.cqshushu.com/migu.php?pid=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&token=570d3fb2514dc3000715e0ce6ba8b793
+体坛名栏汇,http://iptv.cqshushu.com/migu.php?pid=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&token=570d3fb2514dc3000715e0ce6ba8b793
+24小时全运会轮播台,http://iptv.cqshushu.com/migu.php?pid=24%E5%B0%8F%E6%97%B6%E5%85%A8%E8%BF%90%E4%BC%9A%E8%BD%AE%E6%92%AD%E5%8F%B0&token=570d3fb2514dc3000715e0ce6ba8b793
+24小时城市联赛轮播台,http://iptv.cqshushu.com/migu.php?pid=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&token=570d3fb2514dc3000715e0ce6ba8b793
+山东教育,http://iptv.cqshushu.com/migu.php?pid=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&token=570d3fb2514dc3000715e0ce6ba8b793
+中学生,http://iptv.cqshushu.com/migu.php?pid=%E4%B8%AD%E5%AD%A6%E7%94%9F&token=570d3fb2514dc3000715e0ce6ba8b793
+老故事,http://iptv.cqshushu.com/migu.php?pid=%E8%80%81%E6%95%85%E4%BA%8B&token=570d3fb2514dc3000715e0ce6ba8b793
+CETV-1,http://iptv.cqshushu.com/migu.php?pid=cetv1&token=570d3fb2514dc3000715e0ce6ba8b793
+CETV-2,http://iptv.cqshushu.com/migu.php?pid=cetv2&token=570d3fb2514dc3000715e0ce6ba8b793
+CETV-4,http://iptv.cqshushu.com/migu.php?pid=cetv4&token=570d3fb2514dc3000715e0ce6ba8b793
+新动力量创一流,http://iptv.cqshushu.com/migu.php?pid=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&token=570d3fb2514dc3000715e0ce6ba8b793
+钱塘江,http://iptv.cqshushu.com/migu.php?pid=%E9%92%B1%E5%A1%98%E6%B1%9F&token=570d3fb2514dc3000715e0ce6ba8b793
+地方,#genre#
+卡酷少儿,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&token=570d3fb2514dc3000715e0ce6ba8b793
+北京影视,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&token=570d3fb2514dc3000715e0ce6ba8b793
+北京文艺,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&token=570d3fb2514dc3000715e0ce6ba8b793
+北京财经,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&token=570d3fb2514dc3000715e0ce6ba8b793
+北京生活,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&token=570d3fb2514dc3000715e0ce6ba8b793
+北京新闻,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&token=570d3fb2514dc3000715e0ce6ba8b793
+北京纪实科教,http://iptv.cqshushu.com/migu.php?pid=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&token=570d3fb2514dc3000715e0ce6ba8b793
+河南梨园,http://iptv.cqshushu.com/migu.php?pid=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南新闻,http://iptv.cqshushu.com/migu.php?pid=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南都市,http://iptv.cqshushu.com/migu.php?pid=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南民生,http://iptv.cqshushu.com/migu.php?pid=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南电视剧,http://iptv.cqshushu.com/migu.php?pid=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南公共,http://iptv.cqshushu.com/migu.php?pid=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南法治,http://iptv.cqshushu.com/migu.php?pid=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南武术,http://iptv.cqshushu.com/migu.php?pid=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南移动戏曲,http://iptv.cqshushu.com/migu.php?pid=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南文物宝库,http://iptv.cqshushu.com/migu.php?pid=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&token=570d3fb2514dc3000715e0ce6ba8b793
+河南象视界,http://iptv.cqshushu.com/migu.php?pid=%E8%B1%A1%E8%A7%86%E7%95%8C&token=570d3fb2514dc3000715e0ce6ba8b793
+广东体育,http://iptv.cqshushu.com/migu.php?pid=hk_gdty&token=570d3fb2514dc3000715e0ce6ba8b793
+广东体育,http://iptv.cqshushu.com/migu.php?pid=gd_gdty&token=570d3fb2514dc3000715e0ce6ba8b793
+广东新闻,http://iptv.cqshushu.com/migu.php?pid=gd_gdxw&token=570d3fb2514dc3000715e0ce6ba8b793
+广东珠江,http://iptv.cqshushu.com/migu.php?pid=gd_gdzj&token=570d3fb2514dc3000715e0ce6ba8b793
+广东民生,http://iptv.cqshushu.com/migu.php?pid=gd_gdms&token=570d3fb2514dc3000715e0ce6ba8b793
+广东影视,http://iptv.cqshushu.com/migu.php?pid=gd_gdys&token=570d3fb2514dc3000715e0ce6ba8b793
+广东少儿,http://iptv.cqshushu.com/migu.php?pid=gd_gdse&token=570d3fb2514dc3000715e0ce6ba8b793
+嘉佳卡通,http://iptv.cqshushu.com/migu.php?pid=gd_jjkt&token=570d3fb2514dc3000715e0ce6ba8b793
+岭南戏曲,http://iptv.cqshushu.com/migu.php?pid=gd_lnxq&token=570d3fb2514dc3000715e0ce6ba8b793
+广东移动,http://iptv.cqshushu.com/migu.php?pid=gd_gdyd&token=570d3fb2514dc3000715e0ce6ba8b793
+现代教育,http://iptv.cqshushu.com/migu.php?pid=gd_xdjy&token=570d3fb2514dc3000715e0ce6ba8b793
+广东生活频道,http://iptv.cqshushu.com/migu.php?pid=gd_gdsh&token=570d3fb2514dc3000715e0ce6ba8b793
+上海新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+上海第一财经,http://iptv.cqshushu.com/migu.php?pid=dycj&token=570d3fb2514dc3000715e0ce6ba8b793
+上海新纪实,http://iptv.cqshushu.com/migu.php?pid=jsrw&token=570d3fb2514dc3000715e0ce6ba8b793
+上海都市,http://iptv.cqshushu.com/migu.php?pid=shds&token=570d3fb2514dc3000715e0ce6ba8b793
+哈哈炫动,http://iptv.cqshushu.com/migu.php?pid=hhxd&token=570d3fb2514dc3000715e0ce6ba8b793
+上海魔都眼,http://iptv.cqshushu.com/migu.php?pid=mdy&token=570d3fb2514dc3000715e0ce6ba8b793
+爱上海,http://iptv.cqshushu.com/migu.php?pid=ash&token=570d3fb2514dc3000715e0ce6ba8b793
+海南新闻,http://iptv.cqshushu.com/migu.php?pid=hn_xwpd&token=570d3fb2514dc3000715e0ce6ba8b793
+海南文旅,http://iptv.cqshushu.com/migu.php?pid=hn_wlpd&token=570d3fb2514dc3000715e0ce6ba8b793
+海南自贸,http://iptv.cqshushu.com/migu.php?pid=hn_jjpd&token=570d3fb2514dc3000715e0ce6ba8b793
+海南公共,http://iptv.cqshushu.com/migu.php?pid=hn_ggpd&token=570d3fb2514dc3000715e0ce6ba8b793
+海南少儿,http://iptv.cqshushu.com/migu.php?pid=hn_sepd&token=570d3fb2514dc3000715e0ce6ba8b793
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+内蒙古农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8?token=570d3fb2514dc3000715e0ce6ba8b793
+江苏新闻,http://iptv.cqshushu.com/migu.php?pid=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+江苏国际,http://iptv.cqshushu.com/migu.php?pid=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85&token=570d3fb2514dc3000715e0ce6ba8b793
+江苏综艺,http://iptv.cqshushu.com/migu.php?pid=%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+江苏影视,http://iptv.cqshushu.com/migu.php?pid=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+江苏教育,http://iptv.cqshushu.com/migu.php?pid=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&token=570d3fb2514dc3000715e0ce6ba8b793
+江苏体育,http://iptv.cqshushu.com/migu.php?pid=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+南京新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+南京教科,http://iptv.cqshushu.com/migu.php?pid=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+南京十八,http://iptv.cqshushu.com/migu.php?pid=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+盐城新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E7%9B%90%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+淮安新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+泰州新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E6%B3%B0%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+连云港新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+宿迁新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E5%AE%BF%E8%BF%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+徐州新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E5%BE%90%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+江阴新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E6%B1%9F%E9%98%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+南通新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E5%8D%97%E9%80%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+宜兴新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E5%AE%9C%E5%85%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+溧水新闻综合,http://iptv.cqshushu.com/migu.php?pid=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&token=570d3fb2514dc3000715e0ce6ba8b793
+陕西银龄频道,http://iptv.cqshushu.com/migu.php?pid=%E9%99%95%E8%A5%BF%E9%93%B6%E9%BE%84%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+陕西都市青春频道,http://iptv.cqshushu.com/migu.php?pid=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+陕西秦腔频道,http://iptv.cqshushu.com/migu.php?pid=%E9%99%95%E8%A5%BF%E7%A7%A6%E8%85%94%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+陕西新闻资讯频道,http://iptv.cqshushu.com/migu.php?pid=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&token=570d3fb2514dc3000715e0ce6ba8b793
+其他,#genre#
+凤凰中文,http://iptv.cqshushu.com/migu.php?pid=fhzw&token=570d3fb2514dc3000715e0ce6ba8b793
+凤凰中文,http://iptv.cqshushu.com/migu.php?pid=hk_fhzw&token=570d3fb2514dc3000715e0ce6ba8b793
+凤凰资讯,http://iptv.cqshushu.com/migu.php?pid=fhzx&token=570d3fb2514dc3000715e0ce6ba8b793
+凤凰资讯,http://iptv.cqshushu.com/migu.php?pid=hk_fhzx&token=570d3fb2514dc3000715e0ce6ba8b793
+凤凰香港,http://iptv.cqshushu.com/migu.php?pid=fhhk&token=570d3fb2514dc3000715e0ce6ba8b793
+凤凰香港,http://iptv.cqshushu.com/migu.php?pid=hk_fhhk&token=570d3fb2514dc3000715e0ce6ba8b793
+翡翠台,http://iptv.cqshushu.com/migu.php?pid=hk_fct&token=570d3fb2514dc3000715e0ce6ba8b793
+翡翠台4K,http://iptv.cqshushu.com/migu.php?pid=hk_fct4k&token=570d3fb2514dc3000715e0ce6ba8b793
+无线新闻,http://iptv.cqshushu.com/migu.php?pid=hk_wxxw&token=570d3fb2514dc3000715e0ce6ba8b793
+Now新闻台,http://iptv.cqshushu.com/migu.php?pid=hk_now&token=570d3fb2514dc3000715e0ce6ba8b793
+TVB Plus,http://iptv.cqshushu.com/migu.php?pid=hk_tvbp&token=570d3fb2514dc3000715e0ce6ba8b793
+明珠台,http://iptv.cqshushu.com/migu.php?pid=hk_mzt&token=570d3fb2514dc3000715e0ce6ba8b793
+TVB星河,http://iptv.cqshushu.com/migu.php?pid=hk_tvbxh&token=570d3fb2514dc3000715e0ce6ba8b793
+TVB功夫,http://iptv.cqshushu.com/migu.php?pid=hk_yzwx&token=570d3fb2514dc3000715e0ce6ba8b793
+八度空间,http://iptv.cqshushu.com/migu.php?pid=hk_8tv&token=570d3fb2514dc3000715e0ce6ba8b793
+CHU,http://iptv.cqshushu.com/migu.php?pid=hk_chu&token=570d3fb2514dc3000715e0ce6ba8b793
+CH5,http://iptv.cqshushu.com/migu.php?pid=hk_ch5&token=570d3fb2514dc3000715e0ce6ba8b793
+CH8,http://iptv.cqshushu.com/migu.php?pid=hk_ch8&token=570d3fb2514dc3000715e0ce6ba8b793
+澳视澳门,http://iptv.cqshushu.com/migu.php?pid=hk_asam&token=570d3fb2514dc3000715e0ce6ba8b793
+HOY77,http://iptv.cqshushu.com/migu.php?pid=hk_hoy&token=570d3fb2514dc3000715e0ce6ba8b793
 
 🍁收音广播电台👉全网,#genre#
 飛揚電台FM89.5,https://n04.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABjvvfDv8AtwcSpYG-1O9Fow
