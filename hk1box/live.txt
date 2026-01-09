@@ -11,521 +11,121 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
 POPC,http://bxtv.3a.ink/api.php?id=popc
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-GPT-香港,#genre#
-翡翠台,http://tv.tslgpt.top:5050/smart.php?id=jade_twn&token=boxgpt
-翡翠台,http://tv.tslgpt.top:5050/smart.php?id=Jade_xue&token=boxgpt
-翡翠台1,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-明珠台,http://tv.tslgpt.top:5050/smart.php?id=pearl_twn&token=boxgpt
-无线新闻,http://tv.tslgpt.top:5050/smart.php?id=inews_twn&token=boxgpt
-TVBPLUS,http://tv.tslgpt.top:5050/smart.php?id=j2_twn&token=boxgpt
-ViuTV,http://tv.tslgpt.top:5050/smart.php?id=viu1_twn&token=boxgpt
-ViuTV 6,http://tv.tslgpt.top:5050/smart.php?id=viusix_twn&token=boxgpt
-RTHK 31,http://tv.tslgpt.top:5050/smart.php?id=rhk31_twn&token=boxgpt
-RTHK 32,http://tv.tslgpt.top:5050/smart.php?id=rhk32_twn&token=boxgpt
-HOY TV,http://tv.tslgpt.top:5050/smart.php?id=hoycaijing_twn&token=boxgpt
-凤凰中文,http://tv.tslgpt.top:5050/smart.php?id=phoenixtv_hd&token=boxgpt
-凤凰资讯,http://tv.tslgpt.top:5050/smart.php?id=phoenixinfo_hd&token=boxgpt
-凤凰香港,http://tv.tslgpt.top:5050/smart.php?id=hkphoenix_twn&token=boxgpt
-GPT-台湾,#genre#
-台视 HD,http://tv.tslgpt.top:5050/smart.php?id=ttv_taiwan&token=boxgpt
-台视新闻,http://tv.tslgpt.top:5050/smart.php?id=ttvnews_twn&token=boxgpt
-台视综合,http://tv.tslgpt.top:5050/smart.php?id=ttvzhonghe&token=boxgpt
-中视 HD,http://tv.tslgpt.top:5050/smart.php?id=zhongshihd_twn&token=boxgpt
-中视新闻,http://tv.tslgpt.top:5050/smart.php?id=zhongshinews_twn&token=boxgpt
-中视经典,http://tv.tslgpt.top:5050/smart.php?id=zhongshi_twn&token=boxgpt
-华视 HD,http://tv.tslgpt.top:5050/smart.php?id=ctshd_twn&token=boxgpt
-公视 HD,http://tv.tslgpt.top:5050/smart.php?id=ctv_taiwan&token=boxgpt
-公视台语台,http://tv.tslgpt.top:5050/smart.php?id=ctv2_twn&token=boxgpt
-三立台湾台,http://tv.tslgpt.top:5050/smart.php?id=sanlitaiwan&token=boxgpt
-三立都会台,http://tv.tslgpt.top:5050/smart.php?id=sanlidouhui&token=boxgpt
-三立综合台,http://tv.tslgpt.top:5050/smart.php?id=sanlizhonghe&token=boxgpt
-三立戏剧台,http://tv.tslgpt.top:5050/smart.php?id=sanlixiju_twn&token=boxgpt
-东森新闻台,http://tv.tslgpt.top:5050/smart.php?id=ettvnews&token=boxgpt
-东森财经新闻台,http://tv.tslgpt.top:5050/smart.php?id=ettvcaijing_twn&token=boxgpt
-东森综合台,http://tv.tslgpt.top:5050/smart.php?id=ettvzhonghe&token=boxgpt
-东森戏剧台,http://tv.tslgpt.top:5050/smart.php?id=ettvdrama&token=boxgpt
-东森电影台,http://tv.tslgpt.top:5050/smart.php?id=ettvmovie&token=boxgpt
-东森洋片台,http://tv.tslgpt.top:5050/smart.php?id=ettvwestern&token=boxgpt
-东森幼幼台,http://tv.tslgpt.top:5050/smart.php?id=yoyo_twn&token=boxgpt
-东森超视,http://tv.tslgpt.top:5050/smart.php?id=ettvsuper&token=boxgpt
-TVBS HD,http://tv.tslgpt.top:5050/smart.php?id=tvbs&token=boxgpt
-TVBS 新闻台,http://tv.tslgpt.top:5050/smart.php?id=tvbs_n&token=boxgpt
-TVBS 欢乐台,http://tv.tslgpt.top:5050/smart.php?id=tvbshuanle_twn&token=boxgpt
-民视 HD,http://tv.tslgpt.top:5050/smart.php?id=ftvhd_taiwan&token=boxgpt
-民视新闻台,http://tv.tslgpt.top:5050/smart.php?id=ftvnew_taiwan&token=boxgpt
-民视台湾台,http://tv.tslgpt.top:5050/smart.php?id=ftvtaiwan_twn&token=boxgpt
-中天综合,http://tv.tslgpt.top:5050/smart.php?id=ctizhonghe&token=boxgpt
-中天娱乐,http://tv.tslgpt.top:5050/smart.php?id=ctient&token=boxgpt
-中天亚洲,http://tv.tslgpt.top:5050/smart.php?id=ctiasia_twn&token=boxgpt
-中天新闻,http://tv.tslgpt.top:5050/smart.php?id=ctinews&token=boxgpt
-寰宇新闻台,http://tv.tslgpt.top:5050/smart.php?id=huanyuxinwen_twn&token=boxgpt
-寰宇财经台,http://tv.tslgpt.top:5050/smart.php?id=huanyutaiwan_twn&token=boxgpt
-八大第一台,http://tv.tslgpt.top:5050/smart.php?id=badafirst&token=boxgpt
-八大综合台,http://tv.tslgpt.top:5050/smart.php?id=badazhonghe&token=boxgpt
-八大戏剧台,http://tv.tslgpt.top:5050/smart.php?id=badadrama&token=boxgpt
-八大娱乐台,http://tv.tslgpt.top:5050/smart.php?id=badaentertain&token=boxgpt
-纬来体育,http://tv.tslgpt.top:5050/smart.php?id=videolandsport&token=boxgpt
-纬来精彩,http://tv.tslgpt.top:5050/smart.php?id=videolandspecial_twn&token=boxgpt
-纬来日本,http://tv.tslgpt.top:5050/smart.php?id=videolandjapan&token=boxgpt
-纬来电影,http://tv.tslgpt.top:5050/smart.php?id=videolandmovie&token=boxgpt
-纬来综合,http://tv.tslgpt.top:5050/smart.php?id=videolandzonghe&token=boxgpt
-纬来育乐,http://tv.tslgpt.top:5050/smart.php?id=videolandyule&token=boxgpt
-爱尔达综合台,http://tv.tslgpt.top:5050/smart.php?id=eltazonghe_twn&token=boxgpt
-爱尔达影剧台,http://tv.tslgpt.top:5050/smart.php?id=eltayingju_twn&token=boxgpt
-爱尔达体育1台,http://tv.tslgpt.top:5050/smart.php?id=eltasport_twn&token=boxgpt
-爱尔达体育2台,http://tv.tslgpt.top:5050/smart.php?id=eltasport2_twn&token=boxgpt
-爱尔达体育3台,http://tv.tslgpt.top:5050/smart.php?id=eltasport3_twn&token=boxgpt
-非凡新闻,http://tv.tslgpt.top:5050/smart.php?id=feifannews_twn&token=boxgpt
-年代新闻,http://tv.tslgpt.top:5050/smart.php?id=niandainews_twn&token=boxgpt
-龙华戏剧,http://tv.tslgpt.top:5050/smart.php?id=lunghuaxiju_twn&token=boxgpt
-龙华偶像,http://tv.tslgpt.top:5050/smart.php?id=lunghuaidol_twn&token=boxgpt
-龙华电影,http://tv.tslgpt.top:5050/smart.php?id=xingwei_movie&token=boxgpt
-龙华洋片,http://tv.tslgpt.top:5050/smart.php?id=lunghuawestern_twn&token=boxgpt
-龙华经典,http://tv.tslgpt.top:5050/smart.php?id=lunghuajingdian_twn&token=boxgpt
-靖天国际,http://tv.tslgpt.top:5050/smart.php?id=jingtianintl_twn&token=boxgpt
-靖天卡通,http://tv.tslgpt.top:5050/smart.php?id=jingtiancartoon_twn&token=boxgpt
-大愛電視,http://tv.tslgpt.top:5050/smart.php?id=daai_twn&token=boxgpt
-大愛二台,http://tv.tslgpt.top:5050/smart.php?id=daai2_twn&token=boxgpt
-EYE 旅游台,http://tv.tslgpt.top:5050/smart.php?id=eyetvtravel_twn&token=boxgpt
-EYE 戏剧台,http://tv.tslgpt.top:5050/smart.php?id=eyetvxiju_twn&token=boxgpt
-亚洲美食,http://tv.tslgpt.top:5050/smart.php?id=afc_twn&token=boxgpt
-美食星球,http://tv.tslgpt.top:5050/smart.php?id=foodplanet_twn&token=boxgpt
-TLC旅遊生活,http://tv.tslgpt.top:5050/smart.php?id=tlc_twn&token=boxgpt
-亚洲旅游台,http://tv.tslgpt.top:5050/smart.php?id=asiatravel_twn&token=boxgpt
-Arirang,http://tv.tslgpt.top:5050/smart.php?id=arirang_twn&token=boxgpt
-AXN Taiwan,http://tv.tslgpt.top:5050/smart.php?id=axn_twn&token=boxgpt
-MTV Live,http://tv.tslgpt.top:5050/smart.php?id=mtvhd_twn&token=boxgpt
-HBO_HD,http://tv.tslgpt.top:5050/smart.php?id=hbohd_twn&token=boxgpt
-HBO_HITS,http://tv.tslgpt.top:5050/smart.php?id=hbohit_twn&token=boxgpt
-CINEMAX,http://tv.tslgpt.top:5050/smart.php?id=cinemax_twn&token=boxgpt
-好萊塢電影台,http://tv.tslgpt.top:5050/smart.php?id=hollywoodmovies_twn&token=boxgpt
-卫视电影台,http://tv.tslgpt.top:5050/smart.php?id=weishimovie_twn&token=boxgpt
-龙祥时代,http://tv.tslgpt.top:5050/smart.php?id=lungxiangtime_twn&token=boxgpt
-美亚电影,http://tv.tslgpt.top:5050/smart.php?id=meiyamovie_twn&token=boxgpt
-華藝綜合,http://tv.tslgpt.top:5050/smart.php?id=weishichinese_twn&token=boxgpt
-博斯运动一台,http://tv.tslgpt.top:5050/smart.php?id=bosisport1_twn&token=boxgpt
-博斯运动二台,http://tv.tslgpt.top:5050/smart.php?id=bosisport2_twn&token=boxgpt
-博斯高球一台,http://tv.tslgpt.top:5050/smart.php?id=bosigolf1_twn&token=boxgpt
-博斯高球二台,http://tv.tslgpt.top:5050/smart.php?id=bosigolf2_twn&token=boxgpt
-博斯网球台,http://tv.tslgpt.top:5050/smart.php?id=bositennis_twn&token=boxgpt
-博斯无限台,http://tv.tslgpt.top:5050/smart.php?id=bosiunlimited_twn&token=boxgpt
-好消息 2,http://tv.tslgpt.top:5050/smart.php?id=good2_twn&token=boxgpt
-GPT-央视,#genre#
-CCTV-1 综合,http://tv.tslgpt.top:5050/smart.php?id=cctv1&token=boxgpt
-CCTV-2 财经,http://tv.tslgpt.top:5050/smart.php?id=cctv2&token=boxgpt
-CCTV-3 综艺,http://tv.tslgpt.top:5050/smart.php?id=cctv3&token=boxgpt
-CCTV-4 中文国际,http://tv.tslgpt.top:5050/smart.php?id=Cctv4&token=boxgpt
-CCTV-4 中文国际,http://tv.tslgpt.top:5050/smart.php?id=cctv4&token=boxgpt
-CCTV-5 体育,http://tv.tslgpt.top:5050/smart.php?id=cctv5&token=boxgpt
-CCTV-6 电影,http://tv.tslgpt.top:5050/smart.php?id=cctv6&token=boxgpt
-CCTV-7 国防军事,http://tv.tslgpt.top:5050/smart.php?id=cctv7&token=boxgpt
-CCTV-8 电视剧,http://tv.tslgpt.top:5050/smart.php?id=cctv8hd&token=boxgpt
-CCTV-9 记录,http://tv.tslgpt.top:5050/smart.php?id=cctv9hd&token=boxgpt
-CCTV-10 科教,http://tv.tslgpt.top:5050/smart.php?id=cctv10hd&token=boxgpt
-CCTV-11 戏曲,http://tv.tslgpt.top:5050/smart.php?id=cctv11&token=boxgpt
-CCTV-12 社会与法,http://tv.tslgpt.top:5050/smart.php?id=cctv12&token=boxgpt
-CCTV-13 新闻,http://tv.tslgpt.top:5050/smart.php?id=cctv13&token=boxgpt
-CCTV-14 少儿,http://tv.tslgpt.top:5050/smart.php?id=cctv14&token=boxgpt
-CCTV-15 音乐,http://tv.tslgpt.top:5050/smart.php?id=cctv15&token=boxgpt
-CCTV-16 奥林匹克,http://tv.tslgpt.top:5050/smart.php?id=cctv16&token=boxgpt
-CCTV-17 农业农村,http://tv.tslgpt.top:5050/smart.php?id=cctv17&token=boxgpt
-CCTV-5+ 体育赛事,http://tv.tslgpt.top:5050/smart.php?id=cctv5plus&token=boxgpt
-GPT-卫视,#genre#
-湖南卫视,http://tv.tslgpt.top:5050/smart.php?id=hunan_twn&token=boxgpt
-浙江卫视,http://tv.tslgpt.top:5050/smart.php?id=zhejiang_twn&token=boxgpt
-江苏卫视,http://tv.tslgpt.top:5050/smart.php?id=jiangsu_twn&token=boxgpt
-东方卫视,http://tv.tslgpt.top:5050/smart.php?id=dongfangweishi_twn&token=boxgpt
-北京卫视,http://tv.tslgpt.top:5050/smart.php?id=beijing&token=boxgpt
-深圳卫视,http://tv.tslgpt.top:5050/smart.php?id=shenzhen&token=boxgpt
-广东卫视,http://tv.tslgpt.top:5050/smart.php?id=guangdongweishi_twn&token=boxgpt
-大湾区卫视,http://tv.tslgpt.top:5050/smart.php?id=nanfang_twn&token=boxgpt
-珠江台,http://tv.tslgpt.top:5050/smart.php?id=zhujiang&token=boxgpt
-东南卫视,http://tv.tslgpt.top:5050/smart.php?id=fujian&token=boxgpt
-广西卫视,http://tv.tslgpt.top:5050/smart.php?id=guangxi&token=boxgpt
-湖北卫视,http://tv.tslgpt.top:5050/smart.php?id=hubei&token=boxgpt
-四川卫视,http://tv.tslgpt.top:5050/smart.php?id=sichuan_twn&token=boxgpt
-CGTN,http://tv.tslgpt.top:5050/smart.php?id=CGTN&token=boxgpt
-GPT-电影,#genre#
-CCTV-6,http://tv.tslgpt.top:5050/smart.php?id=cctv6&token=boxgpt
-AXN Taiwan,http://tv.tslgpt.top:5050/smart.php?id=axn_twn&token=boxgpt
-HBO_HD,http://tv.tslgpt.top:5050/smart.php?id=hbohd_twn&token=boxgpt
-HBO_HITS,http://tv.tslgpt.top:5050/smart.php?id=hbohit_twn&token=boxgpt
-CINEMAX,http://tv.tslgpt.top:5050/smart.php?id=cinemax_twn&token=boxgpt
-好萊塢電影台,http://tv.tslgpt.top:5050/smart.php?id=hollywoodmovies_twn&token=boxgpt
-东森电影,http://tv.tslgpt.top:5050/smart.php?id=ettvmovie&token=boxgpt
-东森洋片,http://tv.tslgpt.top:5050/smart.php?id=ettvwestern&token=boxgpt
-龙华电影,http://tv.tslgpt.top:5050/smart.php?id=xingwei_movie&token=boxgpt
-龙华洋片,http://tv.tslgpt.top:5050/smart.php?id=lunghuawestern_twn&token=boxgpt
-龙祥时代,http://tv.tslgpt.top:5050/smart.php?id=lungxiangtime_twn&token=boxgpt
-美亚电影,http://tv.tslgpt.top:5050/smart.php?id=meiyamovie_twn&token=boxgpt
-卫视电影台,http://tv.tslgpt.top:5050/smart.php?id=weishimovie_twn&token=boxgpt
-天映频道,http://tv.tslgpt.top:5050/smart.php?id=Celestial&token=boxgpt
-天映频道,http://tv.tslgpt.top:5050/smart.php?id=Celestialindo&token=boxgpt
-天映经典,http://tv.tslgpt.top:5050/smart.php?id=Celestial2&token=boxgpt
-Animax,http://tv.tslgpt.top:5050/smart.php?id=Animax&token=boxgpt
-Movies Now HD,http://tv.tslgpt.top:5050/smart.php?id=moviesnow_raj&token=boxgpt
-Star Movies HD,http://tv.tslgpt.top:5050/smart.php?id=starmovies_raj&token=boxgpt
-Hits,http://tv.tslgpt.top:5050/smart.php?id=Hits&token=boxgpt
-Warner TV,http://tv.tslgpt.top:5050/smart.php?id=WarnerTV&token=boxgpt
-HBO HD,http://tv.tslgpt.top:5050/smart.php?id=Hbo&token=boxgpt
-HBO Signature,http://tv.tslgpt.top:5050/smart.php?id=Hbosignature&token=boxgpt
-HBO Family,http://tv.tslgpt.top:5050/smart.php?id=Hbofamily&token=boxgpt
-HBO Hits,http://tv.tslgpt.top:5050/smart.php?id=Hbohitshd&token=boxgpt
-Cinemax,http://tv.tslgpt.top:5050/smart.php?id=Cinemax&token=boxgpt
-Dreamworks,http://tv.tslgpt.top:5050/smart.php?id=Dreamworks&token=boxgpt
-SCM,http://tv.tslgpt.top:5050/smart.php?id=Weishimovie&token=boxgpt
-Thrill,http://tv.tslgpt.top:5050/smart.php?id=Thrill&token=boxgpt
-Hits Movie,http://tv.tslgpt.top:5050/smart.php?id=Hitsmovie&token=boxgpt
-One,http://tv.tslgpt.top:5050/smart.php?id=One&token=boxgpt
-tvN Movie,http://tv.tslgpt.top:5050/smart.php?id=Tvnmovie&token=boxgpt
-Axn HD,http://tv.tslgpt.top:5050/smart.php?id=Axn&token=boxgpt
-Paramount Network,http://tv.tslgpt.top:5050/smart.php?id=Paramountnetwork&token=boxgpt
-Astrol Kplus,http://tv.tslgpt.top:5050/smart.php?id=Kplus&token=boxgpt
-Rock Actions,http://tv.tslgpt.top:5050/smart.php?id=Rockaction&token=boxgpt
-Rock Entertainment,http://tv.tslgpt.top:5050/smart.php?id=Rockentertain&token=boxgpt
-GPT-记录,#genre#
-Natgeo_HD,http://tv.tslgpt.top:5050/smart.php?id=natgeohd_twn&token=boxgpt
-NatGeo_Wild HD,http://tv.tslgpt.top:5050/smart.php?id=natgeowild_twn&token=boxgpt
-Animal_Planet,http://tv.tslgpt.top:5050/smart.php?id=animalplanet_twn&token=boxgpt
-Discovery Asia,http://tv.tslgpt.top:5050/smart.php?id=discoverytwn_twn&token=boxgpt
-CI,http://tv.tslgpt.top:5050/smart.php?id=ci_twn&token=boxgpt
-Asia Travel,http://tv.tslgpt.top:5050/smart.php?id=asiatravel_twn&token=boxgpt
-Discovery HD,http://tv.tslgpt.top:5050/smart.php?id=discoveryhd_twn&token=boxgpt
-亚洲美食,http://tv.tslgpt.top:5050/smart.php?id=afc_twn&token=boxgpt
-美食星球,http://tv.tslgpt.top:5050/smart.php?id=foodplanet_twn&token=boxgpt
-亚洲TLC,http://tv.tslgpt.top:5050/smart.php?id=tlc_twn&token=boxgpt
-NatGeo HD,http://tv.tslgpt.top:5050/smart.php?id=Natgeo&token=boxgpt
-Fashion TV,http://tv.tslgpt.top:5050/smart.php?id=fashiontv_twn&token=boxgpt
-History,http://tv.tslgpt.top:5050/smart.php?id=History&token=boxgpt
-BBC Earth HD,http://tv.tslgpt.top:5050/smart.php?id=bbcearth_twn&token=boxgpt
-BBC Earth Lifestyle,http://tv.tslgpt.top:5050/smart.php?id=bbclifestyle_twn&token=boxgpt
-MTV Live,http://tv.tslgpt.top:5050/smart.php?id=mtvhd_twn&token=boxgpt
-NatGeo Wild HD,http://tv.tslgpt.top:5050/smart.php?id=Natgeowild&token=boxgpt
-Animal Planet (Eng),http://tv.tslgpt.top:5050/smart.php?id=AnimalPlanet&token=boxgpt
-TLC,http://tv.tslgpt.top:5050/smart.php?id=Tlc&token=boxgpt
-Foodnetwork Hd,http://tv.tslgpt.top:5050/smart.php?id=Foodnetwork&token=boxgpt
-HGTV,http://tv.tslgpt.top:5050/smart.php?id=HGTV&token=boxgpt
-亚洲旅游台,http://tv.tslgpt.top:5050/smart.php?id=asiatravel_twn&token=boxgpt
-GPT-新闻,#genre#
-Skynews,http://tv.tslgpt.top:5050/smart.php?id=skynews_twn&token=boxgpt
-ABC News,http://tv.tslgpt.top:5050/smart.php?id=abcnews_glo&token=boxgpt
-东森财经新闻,http://tv.tslgpt.top:5050/smart.php?id=ettvcaijing_twn&token=boxgpt
-CBS HD,http://tv.tslgpt.top:5050/smart.php?id=cbshd_glo&token=boxgpt
-CBSN HD,http://tv.tslgpt.top:5050/smart.php?id=cbsn_glo&token=boxgpt
-France 24,http://tv.tslgpt.top:5050/smart.php?id=france24_twn&token=boxgpt
-DW (Deutsch),http://tv.tslgpt.top:5050/smart.php?id=dw_twn&token=boxgpt
-NHK World,http://tv.tslgpt.top:5050/smart.php?id=nhkworld_japan&token=boxgpt
-Fox News,http://tv.tslgpt.top:5050/smart.php?id=foxnews_twn&token=boxgpt
-CGTN,http://tv.tslgpt.top:5050/smart.php?id=CGTN&token=boxgpt
-CNN International,http://tv.tslgpt.top:5050/smart.php?id=Cnn&token=boxgpt
-CNN backup,http://tv.tslgpt.top:5050/smart.php?id=cnn_twn&token=boxgpt
-CNBC,http://tv.tslgpt.top:5050/smart.php?id=cnbc_twn&token=boxgpt
-CNA,http://tv.tslgpt.top:5050/smart.php?id=cna&token=boxgpt
-BBC World News,http://tv.tslgpt.top:5050/smart.php?id=bbcnews_twn&token=boxgpt
-BBC World News,http://tv.tslgpt.top:5050/smart.php?id=Bbcnews&token=boxgpt
-Bloomberg News,http://tv.tslgpt.top:5050/smart.php?id=bloomberg_twn&token=boxgpt
-Al-Jazeera,http://tv.tslgpt.top:5050/smart.php?id=aljazeera_twn&token=boxgpt
-GPT-儿童,#genre#
-Baby TV Eng,http://tv.tslgpt.top:5050/smart.php?id=Babytv&token=boxgpt
-CBeebies,http://tv.tslgpt.top:5050/smart.php?id=Cbeebies&token=boxgpt
-Kids TV,http://tv.tslgpt.top:5050/smart.php?id=KidsTV&token=boxgpt
-Momo TV,http://tv.tslgpt.top:5050/smart.php?id=momo1_twn&token=boxgpt
-Animax,http://tv.tslgpt.top:5050/smart.php?id=Animax&token=boxgpt
-Baby TV,http://tv.tslgpt.top:5050/smart.php?id=babytv_twn&token=boxgpt
-MiaoMi,http://tv.tslgpt.top:5050/smart.php?id=MiaoMi&token=boxgpt
-靖天卡通,http://tv.tslgpt.top:5050/smart.php?id=jingtiancartoon_twn&token=boxgpt
-东森幼幼,http://tv.tslgpt.top:5050/smart.php?id=yoyo_twn&token=boxgpt
-Cartoon Network,http://tv.tslgpt.top:5050/smart.php?id=Cn&token=boxgpt
-Nickelodeon,http://tv.tslgpt.top:5050/smart.php?id=Nickelodeon&token=boxgpt
-Nick Jr,http://tv.tslgpt.top:5050/smart.php?id=Nickjr&token=boxgpt
-GPT-体育,#genre#
-Astro Premier League 1,http://tv.tslgpt.top:5050/smart.php?id=go_assp1&token=boxgpt
-Astro EPL 1 backup,http://tv.tslgpt.top:5050/smart.php?id=go_assp1x&token=boxgpt
-Astro Premier League 2,http://tv.tslgpt.top:5050/smart.php?id=go_assp2&token=boxgpt
-Astro Grandstand,http://tv.tslgpt.top:5050/smart.php?id=go_assp3&token=boxgpt
-Astro Football,http://tv.tslgpt.top:5050/smart.php?id=go_assp4&token=boxgpt
-Astro Sports Plus,http://tv.tslgpt.top:5050/smart.php?id=go_sportsplus&token=boxgpt
-Astro Badminton 1,http://tv.tslgpt.top:5050/smart.php?id=go_badminton1&token=boxgpt
-Astro Badminton 2,http://tv.tslgpt.top:5050/smart.php?id=go_badminton2&token=boxgpt
-Astro W-Sports,http://tv.tslgpt.top:5050/smart.php?id=go_assp5&token=boxgpt
-Supersports 1,http://tv.tslgpt.top:5050/smart.php?id=Assp1&token=boxgpt
-Supersports 2,http://tv.tslgpt.top:5050/smart.php?id=Assp2&token=boxgpt
-Supersports 3,http://tv.tslgpt.top:5050/smart.php?id=Assp3&token=boxgpt
-Supersports 4,http://tv.tslgpt.top:5050/smart.php?id=Assp4&token=boxgpt
-WWE,http://tv.tslgpt.top:5050/smart.php?id=Wwe&token=boxgpt
-Fight Sports,http://tv.tslgpt.top:5050/smart.php?id=Fs&token=boxgpt
-NBA TV,http://tv.tslgpt.top:5050/smart.php?id=Nba&token=boxgpt
-Astro Cricket,http://tv.tslgpt.top:5050/smart.php?id=Acricket&token=boxgpt
-Astro Golf,http://tv.tslgpt.top:5050/smart.php?id=Agolf&token=boxgpt
-Tnt Sports 1,http://tv.tslgpt.top:5050/smart.php?id=6fac0aaead&token=boxgpt
-TNT Sports 2,http://tv.tslgpt.top:5050/smart.php?id=d9a76a79cc&token=boxgpt
-TNT Sports 3,http://tv.tslgpt.top:5050/smart.php?id=5fea4d73db&token=boxgpt
-TNT Sports 4,http://tv.tslgpt.top:5050/smart.php?id=tntsport4&token=boxgpt
-Sony Ten 1,http://tv.tslgpt.top:5050/smart.php?id=ten1_raj&token=boxgpt
-Sony Ten 2,http://tv.tslgpt.top:5050/smart.php?id=ten2_raj&token=boxgpt
-Sony Ten 3,http://tv.tslgpt.top:5050/smart.php?id=ten3_raj&token=boxgpt
-SPOTV 1 HD,http://tv.tslgpt.top:5050/smart.php?id=go_spotv&token=boxgpt
-SPO TV 2,http://tv.tslgpt.top:5050/smart.php?id=go_spotv2&token=boxgpt
-Skysports F1,http://tv.tslgpt.top:5050/smart.php?id=tiankongf1&token=boxgpt
-Skysports Cricket,http://tv.tslgpt.top:5050/smart.php?id=tiankongcricket&token=boxgpt
-Skysports EPL,http://tv.tslgpt.top:5050/smart.php?id=tiankongepl&token=boxgpt
-Skysports Main Event,http://tv.tslgpt.top:5050/smart.php?id=tiankongmain&token=boxgpt
-Skysports News,http://tv.tslgpt.top:5050/smart.php?id=tiankongnews&token=boxgpt
-Skysports Mix,http://tv.tslgpt.top:5050/smart.php?id=tiankongmix&token=boxgpt
-CCTV-5 体育频道,http://tv.tslgpt.top:5050/smart.php?id=cctv5&token=boxgpt
-CCTV-5+ 体育赛事 HD,http://tv.tslgpt.top:5050/smart.php?id=cctv5plus&token=boxgpt
-爱尔达体育2台,http://tv.tslgpt.top:5050/smart.php?id=eltasport2_twn&token=boxgpt
-爱尔达体育3台,http://tv.tslgpt.top:5050/smart.php?id=eltasport3_twn&token=boxgpt
-Rugby Pass TV,http://tv.tslgpt.top:5050/smart.php?id=Rugbypasstv&token=boxgpt
-RTM Sports HD,http://tv.tslgpt.top:5050/smart.php?id=Rtmsport&token=boxgpt
-Arena,http://tv.tslgpt.top:5050/smart.php?id=Arena&token=boxgpt
-Arena 2,http://tv.tslgpt.top:5050/smart.php?id=Arena2&token=boxgpt
-BolaArena 1,http://tv.tslgpt.top:5050/smart.php?id=Bolaarena1&token=boxgpt
-BolaArena 2,http://tv.tslgpt.top:5050/smart.php?id=Bolaarena2&token=boxgpt
-Astro Beinsports 1,http://tv.tslgpt.top:5050/smart.php?id=Astrobein1&token=boxgpt
-Astro Beinsports 2,http://tv.tslgpt.top:5050/smart.php?id=Astrobein2&token=boxgpt
-Astro Beinsports 3,http://tv.tslgpt.top:5050/smart.php?id=Astrobein3&token=boxgpt
-GPT-新加坡,#genre#
-Channel 5,http://tv.tslgpt.top:5050/smart.php?id=Channel5HD&token=boxgpt
-Channel 8,http://tv.tslgpt.top:5050/smart.php?id=Channel8HD&token=boxgpt
-Suria,http://tv.tslgpt.top:5050/smart.php?id=Suria&token=boxgpt
-Channel U,http://tv.tslgpt.top:5050/smart.php?id=ChannelU&token=boxgpt
-Vasantham,http://tv.tslgpt.top:5050/smart.php?id=Vasantham&token=boxgpt
-CNA,http://tv.tslgpt.top:5050/smart.php?id=cna&token=boxgpt
-CNA backup,http://tv.tslgpt.top:5050/smart.php?id=cna_twn&token=boxgpt
-MeWatch Ch 5,http://tv.tslgpt.top:5050/smart.php?id=Mewatch_ch5&token=boxgpt
-MeWatch Ch 8,http://tv.tslgpt.top:5050/smart.php?id=Mewatch_ch8&token=boxgpt
-MeWatch Ch U,http://tv.tslgpt.top:5050/smart.php?id=Mewatch_chU&token=boxgpt
-MeWatch Suria,http://tv.tslgpt.top:5050/smart.php?id=Mewatch_Suria&token=boxgpt
-MeWatch Vasantham,http://tv.tslgpt.top:5050/smart.php?id=Mewatch_Vasantham&token=boxgpt
-MeWatch CNA,http://tv.tslgpt.top:5050/smart.php?id=Mewatch_cna&token=boxgpt
-GPT-马来西亚,#genre#
-TV1,http://tv.tslgpt.top:5050/smart.php?id=TV1&token=boxgpt
-TV1 backup,http://tv.tslgpt.top:5050/smart.php?id=TV1_backup&token=boxgpt
-TV2,http://tv.tslgpt.top:5050/smart.php?id=TV2&token=boxgpt
-TV3,http://tv.tslgpt.top:5050/smart.php?id=TV3&token=boxgpt
-TV3 SD,http://tv.tslgpt.top:5050/smart.php?id=TV3_mega&token=boxgpt
-NTV7,http://tv.tslgpt.top:5050/smart.php?id=NTV7&token=boxgpt
-TV8,http://tv.tslgpt.top:5050/smart.php?id=TV8&token=boxgpt
-TV9,http://tv.tslgpt.top:5050/smart.php?id=TV9&token=boxgpt
-Ria,http://tv.tslgpt.top:5050/smart.php?id=Ria-0&token=boxgpt
-Ria-3,http://tv.tslgpt.top:5050/smart.php?id=Ria_backup&token=boxgpt
-Al-Hijrah,http://tv.tslgpt.top:5050/smart.php?id=Alhijrah&token=boxgpt
-Al-Hijrah backup,http://tv.tslgpt.top:5050/smart.php?id=Alhijrah_backup&token=boxgpt
-Awani,http://tv.tslgpt.top:5050/smart.php?id=Awani&token=boxgpt
-Bernama,http://tv.tslgpt.top:5050/smart.php?id=Bernama&token=boxgpt
-Prima,http://tv.tslgpt.top:5050/smart.php?id=Prima-0&token=boxgpt
-Prima backup,http://tv.tslgpt.top:5050/smart.php?id=AAprima1&token=boxgpt
-Prima backup 2,http://tv.tslgpt.top:5050/smart.php?id=AAprima&token=boxgpt
-Ceria,http://tv.tslgpt.top:5050/smart.php?id=Ceria&token=boxgpt
-Astro MTV,http://tv.tslgpt.top:5050/smart.php?id=AstroMTV&token=boxgpt
-Mecca Live HD,http://tv.tslgpt.top:5050/smart.php?id=quran_mido&token=boxgpt
-Madinah HD,http://tv.tslgpt.top:5050/smart.php?id=sunnah_mido&token=boxgpt
-Oasis,http://tv.tslgpt.top:5050/smart.php?id=Oasis&token=boxgpt
-HBO HD,http://tv.tslgpt.top:5050/smart.php?id=Hbo&token=boxgpt
-HBO Signature,http://tv.tslgpt.top:5050/smart.php?id=Hbosignature&token=boxgpt
-HBO Hits,http://tv.tslgpt.top:5050/smart.php?id=Hbohitshd&token=boxgpt
-NatGeo Wild HD,http://tv.tslgpt.top:5050/smart.php?id=Natgeowild&token=boxgpt
-Cartoon Network,http://tv.tslgpt.top:5050/smart.php?id=Cn&token=boxgpt
-Nickelodeon,http://tv.tslgpt.top:5050/smart.php?id=Nickelodeon&token=boxgpt
-Nick Jr,http://tv.tslgpt.top:5050/smart.php?id=Nickjr&token=boxgpt
-Dreamworks,http://tv.tslgpt.top:5050/smart.php?id=Dreamworks&token=boxgpt
-Siar,http://tv.tslgpt.top:5050/smart.php?id=Siar&token=boxgpt
-Citra,http://tv.tslgpt.top:5050/smart.php?id=AAcitra&token=boxgpt
-Citra backup,http://tv.tslgpt.top:5050/smart.php?id=AAcitra1&token=boxgpt
-Sensasi,http://tv.tslgpt.top:5050/smart.php?id=Sensasi&token=boxgpt
-Aura,http://tv.tslgpt.top:5050/smart.php?id=Aura&token=boxgpt
-Rania,http://tv.tslgpt.top:5050/smart.php?id=Rania&token=boxgpt
-KBS World,http://tv.tslgpt.top:5050/smart.php?id=KBS&token=boxgpt
-Boo,http://tv.tslgpt.top:5050/smart.php?id=Boo&token=boxgpt
-Awesome TV,http://tv.tslgpt.top:5050/smart.php?id=Dsangat&token=boxgpt
-Astro Sonypix,http://tv.tslgpt.top:5050/smart.php?id=Asonypix&token=boxgpt
-Sony HD,http://tv.tslgpt.top:5050/smart.php?id=SetOne&token=boxgpt
-TvN,http://tv.tslgpt.top:5050/smart.php?id=TVN&token=boxgpt
-AEC,http://tv.tslgpt.top:5050/smart.php?id=AEC&token=boxgpt
-华丽台 HD （Wah Lai Toi）,http://tv.tslgpt.top:5050/smart.php?id=Wlt&token=boxgpt
-欢喜台 HD （Hua Hee Tai）,http://tv.tslgpt.top:5050/smart.php?id=Huahee&token=boxgpt
-Astro QJ,http://tv.tslgpt.top:5050/smart.php?id=Quanjia&token=boxgpt
-TVB Jade,http://tv.tslgpt.top:5050/smart.php?id=Tvbjade&token=boxgpt
-TVB Asia,http://tv.tslgpt.top:5050/smart.php?id=Tvbasia&token=boxgpt
-TVB Entertainment,http://tv.tslgpt.top:5050/smart.php?id=Tvbentertainment&token=boxgpt
-TVB Classic,http://tv.tslgpt.top:5050/smart.php?id=Tvbclassic&token=boxgpt
-AOD,http://tv.tslgpt.top:5050/smart.php?id=Aodhd&token=boxgpt
-One,http://tv.tslgpt.top:5050/smart.php?id=One&token=boxgpt
-TVB 星河台 Xing He,http://tv.tslgpt.top:5050/smart.php?id=Xinhe&token=boxgpt
-爱奇艺 iQiyi,http://tv.tslgpt.top:5050/smart.php?id=Qiyi&token=boxgpt
-Animal Planet (Eng),http://tv.tslgpt.top:5050/smart.php?id=AnimalPlanet&token=boxgpt
-tvN Movie,http://tv.tslgpt.top:5050/smart.php?id=Tvnmovie&token=boxgpt
-CNN backup,http://tv.tslgpt.top:5050/smart.php?id=cnn_twn&token=boxgpt
-Celestial Classic,http://tv.tslgpt.top:5050/smart.php?id=Celestial2&token=boxgpt
-CNBC,http://tv.tslgpt.top:5050/smart.php?id=cnbc_twn&token=boxgpt
-TLC,http://tv.tslgpt.top:5050/smart.php?id=Tlc&token=boxgpt
-CNA,http://tv.tslgpt.top:5050/smart.php?id=cna&token=boxgpt
-BBC World News,http://tv.tslgpt.top:5050/smart.php?id=bbcnews_twn&token=boxgpt
-Foodnetwork Hd,http://tv.tslgpt.top:5050/smart.php?id=Foodnetwork&token=boxgpt
-HGTV,http://tv.tslgpt.top:5050/smart.php?id=HGTV&token=boxgpt
-Goshop,http://tv.tslgpt.top:5050/smart.php?id=Goshop&token=boxgpt
-Celestial Movies HD,http://tv.tslgpt.top:5050/smart.php?id=Celestial&token=boxgpt
-Axn HD,http://tv.tslgpt.top:5050/smart.php?id=Axn&token=boxgpt
-Paramount Network,http://tv.tslgpt.top:5050/smart.php?id=Paramountnetwork&token=boxgpt
-Astrol Kplus,http://tv.tslgpt.top:5050/smart.php?id=Kplus&token=boxgpt
-AFC 亚洲旅游台,http://tv.tslgpt.top:5050/smart.php?id=asiatravel_twn&token=boxgpt
-Rock Actions,http://tv.tslgpt.top:5050/smart.php?id=Rockaction&token=boxgpt
-Bloomberg News,http://tv.tslgpt.top:5050/smart.php?id=bloomberg_twn&token=boxgpt
-Al-Jazeera,http://tv.tslgpt.top:5050/smart.php?id=aljazeera_twn&token=boxgpt
-Rock Entertainment,http://tv.tslgpt.top:5050/smart.php?id=Rockentertain&token=boxgpt
-RTM Sports HD,http://tv.tslgpt.top:5050/smart.php?id=Rtmsport&token=boxgpt
-Arena,http://tv.tslgpt.top:5050/smart.php?id=Arena&token=boxgpt
-Arena 2,http://tv.tslgpt.top:5050/smart.php?id=Arena2&token=boxgpt
-BolaArena 1,http://tv.tslgpt.top:5050/smart.php?id=Bolaarena1&token=boxgpt
-BolaArena 2,http://tv.tslgpt.top:5050/smart.php?id=Bolaarena2&token=boxgpt
-Astro LOL,http://tv.tslgpt.top:5050/smart.php?id=Astro_lol&token=boxgpt
-Astro Rusi,http://tv.tslgpt.top:5050/smart.php?id=Rusi&token=boxgpt
-WION,http://tv.tslgpt.top:5050/smart.php?id=Wion&token=boxgpt
-RTM Asean,http://tv.tslgpt.top:5050/smart.php?id=Rtmasean&token=boxgpt
-GPT-印尼,#genre#
-TVRI National,http://tv.tslgpt.top:5050/smart.php?id=TVRI&token=boxgpt
-RCTI,http://tv.tslgpt.top:5050/smart.php?id=Rcti&token=boxgpt
-Kompass TV,http://tv.tslgpt.top:5050/smart.php?id=Kompass&token=boxgpt
-Berita Satu,http://tv.tslgpt.top:5050/smart.php?id=BeritaSatu_eko&token=boxgpt
-Indosiar HD,http://tv.tslgpt.top:5050/smart.php?id=Indosiar&token=boxgpt
-AnTV,http://tv.tslgpt.top:5050/smart.php?id=Antv&token=boxgpt
-MNC TV,http://tv.tslgpt.top:5050/smart.php?id=Mnctv&token=boxgpt
-Trans 7,http://tv.tslgpt.top:5050/smart.php?id=Trans7_eko&token=boxgpt
-Transtv,http://tv.tslgpt.top:5050/smart.php?id=Transtv&token=boxgpt
-JTV,http://tv.tslgpt.top:5050/smart.php?id=JTV_eko&token=boxgpt
-Metro TV,http://tv.tslgpt.top:5050/smart.php?id=metrotv_eko&token=boxgpt
-Cinemax,http://tv.tslgpt.top:5050/smart.php?id=Cinemax&token=boxgpt
-SCTV,http://tv.tslgpt.top:5050/smart.php?id=SCTV&token=boxgpt
-Tvone,http://tv.tslgpt.top:5050/smart.php?id=Tvone&token=boxgpt
-TVMU,http://tv.tslgpt.top:5050/smart.php?id=TVMU_eko&token=boxgpt
-GTV,http://tv.tslgpt.top:5050/smart.php?id=Gtv&token=boxgpt
-RTV,http://tv.tslgpt.top:5050/smart.php?id=Rtv&token=boxgpt
-Jak TV,http://tv.tslgpt.top:5050/smart.php?id=JakTV&token=boxgpt
-iNews TV,http://tv.tslgpt.top:5050/smart.php?id=Inewstv&token=boxgpt
-Daai TV,http://tv.tslgpt.top:5050/smart.php?id=DaaiTV&token=boxgpt
-Net TV,http://tv.tslgpt.top:5050/smart.php?id=NetTV&token=boxgpt
-Animax,http://tv.tslgpt.top:5050/smart.php?id=Animax&token=boxgpt
-EWTN,http://tv.tslgpt.top:5050/smart.php?id=Ewtn&token=boxgpt
-AlQuran AlKareem,http://tv.tslgpt.top:5050/smart.php?id=AlQuran&token=boxgpt
-Tawaf TV,http://tv.tslgpt.top:5050/smart.php?id=TawafTV&token=boxgpt
-Vision Prime,http://tv.tslgpt.top:5050/smart.php?id=VisionPrime&token=boxgpt
-Muslim TV,http://tv.tslgpt.top:5050/smart.php?id=MuslimTV&token=boxgpt
-Music TV,http://tv.tslgpt.top:5050/smart.php?id=MusicTV&token=boxgpt
-Lifestyle&Fashion,http://tv.tslgpt.top:5050/smart.php?id=Lifestyle&token=boxgpt
-Entertain,http://tv.tslgpt.top:5050/smart.php?id=Entertain&token=boxgpt
-Hits,http://tv.tslgpt.top:5050/smart.php?id=Hits&token=boxgpt
-Warner TV,http://tv.tslgpt.top:5050/smart.php?id=WarnerTV&token=boxgpt
-SCM,http://tv.tslgpt.top:5050/smart.php?id=Weishimovie&token=boxgpt
-Thrill,http://tv.tslgpt.top:5050/smart.php?id=Thrill&token=boxgpt
-Fight Sports,http://tv.tslgpt.top:5050/smart.php?id=Fs&token=boxgpt
-Hits Movie,http://tv.tslgpt.top:5050/smart.php?id=Hitsmovie&token=boxgpt
-One,http://tv.tslgpt.top:5050/smart.php?id=One&token=boxgpt
-tvN Movie,http://tv.tslgpt.top:5050/smart.php?id=Tvnmovie&token=boxgpt
-Celestial Movies HD,http://tv.tslgpt.top:5050/smart.php?id=Celestialindo&token=boxgpt
-Rock Actions,http://tv.tslgpt.top:5050/smart.php?id=Rockaction&token=boxgpt
-Rock Entertainment,http://tv.tslgpt.top:5050/smart.php?id=Rockentertain&token=boxgpt
-GPT-印度,#genre#
-Sun TV HD,http://tv.tslgpt.top:5050/smart.php?id=Suntv&token=boxgpt
-Star Vijay,http://tv.tslgpt.top:5050/smart.php?id=Starvijay&token=boxgpt
-Colors Tamil,http://tv.tslgpt.top:5050/smart.php?id=Colorstam&token=boxgpt
-Sun Music,http://tv.tslgpt.top:5050/smart.php?id=Sunmusic&token=boxgpt
-Astro Sunlife,http://tv.tslgpt.top:5050/smart.php?id=Sunlife&token=boxgpt
-Astro Vaanavil,http://tv.tslgpt.top:5050/smart.php?id=Vaanavil&token=boxgpt
-Zee Tamil,http://tv.tslgpt.top:5050/smart.php?id=Zeetamil&token=boxgpt
-Zee Business,http://tv.tslgpt.top:5050/smart.php?id=Zeebusiness&token=boxgpt
-News 18 Tamil,http://tv.tslgpt.top:5050/smart.php?id=news18tamil_raj&token=boxgpt
-Adithya,http://tv.tslgpt.top:5050/smart.php?id=Adithya&token=boxgpt
-Makkal TV,http://tv.tslgpt.top:5050/smart.php?id=Makkaltv&token=boxgpt
-Zee Action,http://tv.tslgpt.top:5050/smart.php?id=Zeeaction&token=boxgpt
-Astro KTV,http://tv.tslgpt.top:5050/smart.php?id=Astroktv&token=boxgpt
-Zee TV HD,http://tv.tslgpt.top:5050/smart.php?id=Zeetvhd&token=boxgpt
-Zee Cinema HD,http://tv.tslgpt.top:5050/smart.php?id=Zeecinemahd&token=boxgpt
-Color HD,http://tv.tslgpt.top:5050/smart.php?id=Colorhd&token=boxgpt
-Starplus HD,http://tv.tslgpt.top:5050/smart.php?id=Starplushd&token=boxgpt
-Picture HD,http://tv.tslgpt.top:5050/smart.php?id=Npicture&token=boxgpt
-Zee News,http://tv.tslgpt.top:5050/smart.php?id=Zeenews&token=boxgpt
-Asianet,http://tv.tslgpt.top:5050/smart.php?id=asianet_raj&token=boxgpt
-Asianet News,http://tv.tslgpt.top:5050/smart.php?id=asianetnews_raj&token=boxgpt
-Discovery World Tamil,http://tv.tslgpt.top:5050/smart.php?id=discoveryworldtam_raj&token=boxgpt
-History Tamil,http://tv.tslgpt.top:5050/smart.php?id=historytam_raj&token=boxgpt
-NatGeo Tamil,http://tv.tslgpt.top:5050/smart.php?id=natgeotamil_raj&token=boxgpt
-Natgeo Wild Tamil,http://tv.tslgpt.top:5050/smart.php?id=natgeowildtamil_raj&token=boxgpt
-Astro Sonypix,http://tv.tslgpt.top:5050/smart.php?id=Asonypix&token=boxgpt
-Discovery Kids Tamil,http://tv.tslgpt.top:5050/smart.php?id=discoverykidtamil_raj&token=boxgpt
-Discovery Tamil,http://tv.tslgpt.top:5050/smart.php?id=discoverytamil_raj&token=boxgpt
-Sony Yay Tamil,http://tv.tslgpt.top:5050/smart.php?id=sonyyaytam_raj&token=boxgpt
-Sun TV India,http://tv.tslgpt.top:5050/smart.php?id=suntv_raj&token=boxgpt
-Starmaa HD,http://tv.tslgpt.top:5050/smart.php?id=starmaa_raj&token=boxgpt
-Starmaa Movies HD,http://tv.tslgpt.top:5050/smart.php?id=starmaamovies_raj&token=boxgpt
-Bollyone,http://tv.tslgpt.top:5050/smart.php?id=Bollyone&token=boxgpt
-Astro Sunmusic,http://tv.tslgpt.top:5050/smart.php?id=Sunmusic&token=boxgpt
-Vijay Super,http://tv.tslgpt.top:5050/smart.php?id=vijaysuper_raj&token=boxgpt
-Vellithirai,http://tv.tslgpt.top:5050/smart.php?id=Vellithirai&token=boxgpt
-GPT-泰国,#genre#
-Channel 3 Thailand,http://tv.tslgpt.top:5050/smart.php?id=ch3_pat&token=boxgpt
-Channel 5 Thailand,http://tv.tslgpt.top:5050/smart.php?id=ch5_pat&token=boxgpt
-Channel 7 Thailand,http://tv.tslgpt.top:5050/smart.php?id=ch7_pat&token=boxgpt
-MCOT HD Thailand-1,http://tv.tslgpt.top:5050/smart.php?id=mcot_pat&token=boxgpt
-PPTV Thailand1,http://tv.tslgpt.top:5050/smart.php?id=pptv_pat&token=boxgpt
-Thai Thai,http://tv.tslgpt.top:5050/smart.php?id=thaithai_pat&token=boxgpt
-Amarin,http://tv.tslgpt.top:5050/smart.php?id=amarin_pat&token=boxgpt
-Ch 8,http://tv.tslgpt.top:5050/smart.php?id=ch8_pat&token=boxgpt
-GmmOne,http://tv.tslgpt.top:5050/smart.php?id=gmmone_pat&token=boxgpt
-Mono,http://tv.tslgpt.top:5050/smart.php?id=mono_pat&token=boxgpt
-Thairath,http://tv.tslgpt.top:5050/smart.php?id=thairath_pat&token=boxgpt
-tpbs,http://tv.tslgpt.top:5050/smart.php?id=tpbs_pat&token=boxgpt
-Workpoint,http://tv.tslgpt.top:5050/smart.php?id=workpoint_pat&token=boxgpt
-Gmm Channel,http://tv.tslgpt.top:5050/smart.php?id=gmmchannel_pat&token=boxgpt
-Nation,http://tv.tslgpt.top:5050/smart.php?id=nation_pat&token=boxgpt
-Tnn24,http://tv.tslgpt.top:5050/smart.php?id=tnn24_pat&token=boxgpt
-Nbt,http://tv.tslgpt.top:5050/smart.php?id=nbt_pat&token=boxgpt
-New,http://tv.tslgpt.top:5050/smart.php?id=new_pat&token=boxgpt
-TPTV,http://tv.tslgpt.top:5050/smart.php?id=tptv_pat&token=boxgpt
-GPT-英国,#genre#
-BBC 1,http://tv.tslgpt.top:5050/smart.php?id=bbc1_antik&token=boxgpt
-BBC 2,http://tv.tslgpt.top:5050/smart.php?id=bbc2_antik&token=boxgpt
-CBBC,http://tv.tslgpt.top:5050/smart.php?id=cbbc_antik&token=boxgpt
-More4,http://tv.tslgpt.top:5050/smart.php?id=more4_antik&token=boxgpt
-Freesports,http://tv.tslgpt.top:5050/smart.php?id=freesports_antik&token=boxgpt
-Skynews,http://tv.tslgpt.top:5050/smart.php?id=skynews_twn&token=boxgpt
-Pick TV,http://tv.tslgpt.top:5050/smart.php?id=picktv_antik&token=boxgpt
-itv 1,http://tv.tslgpt.top:5050/smart.php?id=itv1_antik&token=boxgpt
-itv 2,http://tv.tslgpt.top:5050/smart.php?id=itv2_antik&token=boxgpt
-Euronews,http://tv.tslgpt.top:5050/smart.php?id=euronews_antik&token=boxgpt
-Channel 4,http://tv.tslgpt.top:5050/smart.php?id=channel4_antik&token=boxgpt
-NatGeo HD,http://tv.tslgpt.top:5050/smart.php?id=Natgeo&token=boxgpt
-CBeebies,http://tv.tslgpt.top:5050/smart.php?id=Cbeebies&token=boxgpt
-History,http://tv.tslgpt.top:5050/smart.php?id=History&token=boxgpt
-Kids TV,http://tv.tslgpt.top:5050/smart.php?id=KidsTV&token=boxgpt
-France 24,http://tv.tslgpt.top:5050/smart.php?id=france24_twn&token=boxgpt
-DW (Deutsch),http://tv.tslgpt.top:5050/smart.php?id=dw_twn&token=boxgpt
-BBC Earth HD,http://tv.tslgpt.top:5050/smart.php?id=bbcearth_twn&token=boxgpt
-BBC Earth Lifestyle,http://tv.tslgpt.top:5050/smart.php?id=bbclifestyle_twn&token=boxgpt
-MTV Live,http://tv.tslgpt.top:5050/smart.php?id=mtvhd_twn&token=boxgpt
-Star Movies HD,http://tv.tslgpt.top:5050/smart.php?id=starmovies_raj&token=boxgpt
-NHK World,http://tv.tslgpt.top:5050/smart.php?id=nhkworld_japan&token=boxgpt
-Warner TV,http://tv.tslgpt.top:5050/smart.php?id=WarnerTV&token=boxgpt
-HBO HD,http://tv.tslgpt.top:5050/smart.php?id=Hbo&token=boxgpt
-NatGeo Wild HD,http://tv.tslgpt.top:5050/smart.php?id=Natgeowild&token=boxgpt
-Nickelodeon,http://tv.tslgpt.top:5050/smart.php?id=Nickelodeon&token=boxgpt
-Nick Jr,http://tv.tslgpt.top:5050/smart.php?id=Nickjr&token=boxgpt
-Thrill,http://tv.tslgpt.top:5050/smart.php?id=Thrill&token=boxgpt
-CGTN,http://tv.tslgpt.top:5050/smart.php?id=CGTN&token=boxgpt
-Hits Movie,http://tv.tslgpt.top:5050/smart.php?id=Hitsmovie&token=boxgpt
-Animal Planet (Eng),http://tv.tslgpt.top:5050/smart.php?id=AnimalPlanet&token=boxgpt
-CNBC,http://tv.tslgpt.top:5050/smart.php?id=cnbc_twn&token=boxgpt
-TLC,http://tv.tslgpt.top:5050/smart.php?id=Tlc&token=boxgpt
-BBC World News,http://tv.tslgpt.top:5050/smart.php?id=bbcworldnews_antik&token=boxgpt
-HGTV,http://tv.tslgpt.top:5050/smart.php?id=HGTV&token=boxgpt
-Axn HD,http://tv.tslgpt.top:5050/smart.php?id=Axn&token=boxgpt
-Skysports F1,http://tv.tslgpt.top:5050/smart.php?id=tiankongf1&token=boxgpt
-Skysports Cricket,http://tv.tslgpt.top:5050/smart.php?id=tiankongcricket&token=boxgpt
-Bloomberg News,http://tv.tslgpt.top:5050/smart.php?id=bloomberg_twn&token=boxgpt
-Skysports EPL,http://tv.tslgpt.top:5050/smart.php?id=tiankongepl&token=boxgpt
-Skysports Main Event,http://tv.tslgpt.top:5050/smart.php?id=tiankongmain&token=boxgpt
-Skysports News,http://tv.tslgpt.top:5050/smart.php?id=tiankongnews&token=boxgpt
-Al-Jazeera,http://tv.tslgpt.top:5050/smart.php?id=aljazeera_twn&token=boxgpt
+兒童,#genre#
+[BD]animax,https://stream1.freetv.fun/725a37205cd0317bb462f4a974c27c498f25a0c40d23545481e551c2b916379b.m3u8
+[HD]cctv-4 asia,https://stream1.freetv.fun/a07acecf57e19b302cbfd1bcbc128969b7015d1048157424e28a2d912e22a7fb.m3u8
+綜藝,#genre#
+[HD]c plus,https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8
+[BD]香港c plus,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
+[HD]fifa plus united states[geo-blocked],https://stream1.freetv.fun/bf89cdb0e4c4e7495ee37052b0157c5cb8bcfdfcc6db77bf0b17bb9e3f4b3415.m3u8
+[HD]persiana plus,https://stream1.freetv.fun/e8ef69df7ffe2b12fdb3f6d36bd02a47a4fab7a9a397439734b1cc75f426b611.m3u8
+[HD]fifa plus women[geo-blocked],https://stream1.freetv.fun/37352d9c0bf11af3c0f24364a03a8847b73ae1cc541b6a8ccdcb34db009cc9c5.m3u8
+[BD]society plus[geo-blocked],https://stream1.freetv.fun/b74fbbfca7444dedf15dd7218f336deba5514687facbda0a203ffcd2bc4e9afd.m3u8
+[HD]fifa plus portuguese[geo-blocked],https://stream1.freetv.fun/484a77c8913311f7b0fdb3b7d6bd0c9b95bb61024f2e89d7f968902f81e0c147.m3u8
+[BD]icc plus,https://stream1.freetv.fun/b019c6ef2fe71105503633ec256f5449fa5675585d7570816210a109536f8382.m3u8
+新聞,#genre#
+[BD]cctv1,https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv
+[BD]cctv1[geo-blocked],https://stream1.freetv.fun/c26bc29b4c23283f729a3b949065d8be4420cd2339ed981b534aa0ac9bcf22dc.m3u8
+[BD]cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
+[BD]cctv-1高清[geo-blocked],https://stream1.freetv.fun/843fe786544f590b1151b970dd5fec282674681a6c2203234fa2ac3a09a72ac2.m3u8
+[HD]cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
+[BD]cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
+[BD]cctv-01,https://stream1.freetv.fun/25a9a0bf6f047007f1c4be30320c523fb0adf8df4cdffd624c0608ec73f74803.ctv
+[SD]cctv1,https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4e8bfeadf9d62a225e.ctv
+[BD]HOY 77 *sg,https://stream1.freetv.fun/7dc8bf470430004791ec5e7712e3eb2087cc07d7e8443a6b1843a59946a0fdcf.m3u8
+綜藝,#genre#
+[VGA]Kix *a[geo-blocked],https://stream1.freetv.fun/9377f46a9bf98114be8a5b30933e1bbc3f6cc633d9eb14bac066049e58439c5e.m3u8
+電影,#genre#
+[HD]mytime movie network,https://stream1.freetv.fun/fd70eb95cd85dcdbca37276d748b27e62558b30068263b66d59e1b49299cf2ff.m3u8
+[BD]mytime movie network,https://stream1.freetv.fun/38198a8fb9e075b47b838bc3e982921643497f7ca4b4590cc5cfe555685fa7ad.m3u8
+[BD]movie music,https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8
+[SD]maha movie,https://stream1.freetv.fun/add6cb23730d4627e6d07b38625043714265bb8ddb670d4d68d80820c78b0690.m3u8
+[BD]mytime movie network,https://stream1.freetv.fun/4dcfe6b94315e523fdc36c33af599d211682761d528521f889ff25a32659ef44.m3u8
+[BD]悬疑movie[geo-blocked],https://stream1.freetv.fun/272beffed35f2cb7c974aeefa04c155e4a4d0e7e23d12c022b5d276a96ad2439.ctv
+[SD]paramount movie channel,https://stream1.freetv.fun/f8c094c073007a655bcbce95b57d395085bc049e719d350446fc2d4efc9c0753.m3u8
+[SD]paramount movie channel,https://stream1.freetv.fun/deadac9145fbbc28b65e5896455938a10b0cafee4da64196f21b2bb7d0601b7d.m3u8
+[HD]artflix movie classics,https://stream1.freetv.fun/9676fd2129d8bbc10259c2894d749078ac5125468c61fd7201b016cc15a57122.m3u8
+[BD]now星影,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
+[BD]popc[geo-blocked],https://stream1.freetv.fun/79e0dcd59dba3828a61fa564c37e7f40016332cb35849829eca01da0a8f9800c.ctv
+綜藝,#genre#
+[BD]RTHK31 *sg,https://stream1.freetv.fun/a81da3fd66f335a20dea0f69a288eb2265d3ecba5d529e154b1429f9841c81d1.m3u8
+新聞,#genre#
+[BD]RTHK32 *sg,https://stream1.freetv.fun/8c15a3ad248d22f171970a3b22dc7fe2d902bcad59980fbe45fab592f1b0e995.m3u8
+運動,#genre#
+[HD]ช่อง sky sports plus,https://stream1.freetv.fun/c7c938e0400853bc3ef002eb4f5f9dcb6342ea669dab8fb17101b2997266a35c.m3u8
+綜藝,#genre#
+[BD]tvb plus,https://stream1.freetv.fun/dec5e1d162ddc4e733fb714c2c8795323ccf94261596cffe7ee65f0034986c70.ctv
+[BD]tvb plus,https://stream1.freetv.fun/70d6657916cfa5ded14dcf78c81e9a726d3e649581659fd0c6d550ac1f3fe0ee.m3u8
+[BD]tvb plus,https://stream1.freetv.fun/efea08e40d2af040689b157636dfc39a60cdd414ca5fa586e091a12876bb4bbf.m3u8
+[VGA]etv plus,https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8
+[BD]tvb plus备,https://stream1.freetv.fun/1ba42cc4a8fd0d66311f90bdb5fb2701abf64c9e442af3a072af203d2f4be0a4.ctv
+電影,#genre#
+[BD]tvbs亚洲,https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8
+[BD]tvbs亚洲,https://stream1.freetv.fun/2aef95d17a02f90322721318b132da070c7e4cf542e6fcebe3d6ce02379a4742.m3u8
+[BD]tvbs亞洲,https://stream1.freetv.fun/0854ce5d4e8860e055549f5881ef05ab76b1bd0bc5bea78057553ed66f44d800.m3u8
+[BD]tvbs亚洲,https://stream1.freetv.fun/490340d742eb83c96123103e77460d8be396d5b87ee81e045aecaed070e152b6.m3u8
+[BD]tvbs亚洲,https://stream1.freetv.fun/0e9dc5f67eeae3d90d5afce9b70b9a06d6b3db352230f64d93221b83afb9e9ff.m3u8
+[BD]tvbs亚洲,https://stream1.freetv.fun/395aa9bcecda230deb8046ff6d1b97f4158ab2d965e8610e865dc27560447d33.m3u8
+[BD]tvbs亚洲,https://stream1.freetv.fun/52055e00fcf09c1a1fdd4289f27dce8639ebf402e478b7204b22711cb6589d4c.m3u8
+[HD]tvb星河,https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
+[BD]TVB 翡翠台 *sg,https://stream1.freetv.fun/1fd385566e3e98d4ed278cd58366e1437d6f8126c643614886559c91b243fe9f.m3u8
+[BD]tvb翡翠[geo-blocked],rtmp://nowast.net/live/yifatv-jade01
+[BD]tvb翡翠,https://stream1.freetv.fun/68acc033476cd4c2ffeb3e90a756f023595401dbe5fc539de8a888d7f1f5abef.ctv
+[BD]tvb翡翠,https://stream1.freetv.fun/64f357d4de37d5ecac02cb8e44c8eeffd869dbdbfc71e33f8a2119f82d2eb504.m3u8
+綜藝,#genre#
+[BD]viutv,https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
+[BD]Viutv *sg,https://stream1.freetv.fun/45181db55db70a3fc349faf2ef2b901599a9cbc7106f2674134cac2db74b2f81.m3u8
+[BD]viutv,https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.m3u8
+[BD]viutv,https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.ctv
+[BD]viutv,https://stream1.freetv.fun/6e51cfdfdd9988358bd19ac505badd794b005798348da2715479b55057f921a5.ctv
+[BD]viutvsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8
+[BD]viutvsix,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
+新聞,#genre#
+[BD]now直播,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
+[BD]now直播,https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
+其它,#genre#
+[BD]snap,https://stream1.freetv.fun/1dad0882045d6c9065bc63bc343aeb79d12a7bc07104336818f2b841c1fae70b.m3u8
+電影,#genre#
+[HD]恐怖电影,https://stream1.freetv.fun/22d89fde8285a48f452e85d9841677aa8fabd9f9d39823fe4c1e143b85d0b394.ctv
+[BD]明珠,https://stream1.freetv.fun/9355776363cced50b636fb90bd1d63ba128a62b87206583d553b215847a74d2d.m3u8
+[BD]明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
+[BD]明珠,https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
+[BD]明珠,https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.ctv
+綜藝,#genre#
+[VGA]Star Chinese *a[geo-blocked],https://stream1.freetv.fun/88a3ad7016752debc54a84443b6ac87255f92a92dcf0d0c01499f620e1bf824d.m3u8
+[SD]星空卫视,https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.m3u8
+其它,#genre#
+[BD]星空国际[geo-blocked],https://stream1.freetv.fun/75e262d43778a32cb887d4ede15dc972143a0522e4d89a81f45b7307f6fedd61.m3u8
+新聞,#genre#
+[BD]无线新闻,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.m3u8
+[BD]无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
+[BD]无线新闻,https://stream1.freetv.fun/fc27b3908a78de41f3e9bc37f460b885afe653d73baf65ecea825df2eb5212f3.m3u8
+其它,#genre#
+[SD]甄子丹电影[geo-blocked],https://stream1.freetv.fun/cb8767752dd89bb0f48050386ee81b262e6637914c9d03277397acdd791b6ad4.ctv
+[SD]甄子丹电影[geo-blocked],https://stream1.freetv.fun/ef4f9d40bc9d730028e673c6c4f5d820079f93682e8b053886280a925dd8a275.ctv
+[SD]甄子丹电影[geo-blocked],https://stream1.freetv.fun/1790dbaeba0a12aa747c6ba24cee18933947cc86ff1b3a4bdf179c2935f354df.ctv
+綜合,#genre#
+[BD]翡翠,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
+[BD]翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv
+[BD]翡翠,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
+[BD]翡翠,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.ctv
+[BD]翡翠,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.m3u8
+[BD]翡翠[geo-blocked],https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv
+[BD]翡翠[geo-blocked],https://stream1.freetv.fun/ab22ef5c7f5290653d178b4eefe1c6c1ff4cf374752e59ab2708ec675951bcfa.ctv
+[BD]翡翠[geo-blocked],https://stream1.freetv.fun/fb264f1bfef92e4d5fd8cf107039be128d5e8cfa55c2730efd8d3fb231346d22.ctv
+[BD]翡翠[geo-blocked],https://stream1.freetv.fun/bd5fd58b590cbb1ae54807d43ded272a7db28b22446a0239754cf241dd1c27f3.ctv
+[BD]凤凰中文 *sg,https://stream1.freetv.fun/3892090ddf2c069555068609c569dd1d5c39c7a4b2d3d614fdec6a1337b715be.m3u8
+[HD]凤凰中文,https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv
+[BD]凤凰卫视,https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
+[HD]凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
+新聞,#genre#
+[HD]凤凰资讯,https://stream1.freetv.fun/7d3e0683dbf6e0636efa3bc17815aba2c44580449b0be83ed1e3ca97ed45bccc.ctv
+[HD]凤凰资讯,https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
+電影,#genre#
+[SD]凤凰电影,https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8
+綜合,#genre#
+[BD]凤凰香港[geo-blocked],https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv
+[BD]凤凰香港 *sg,https://stream1.freetv.fun/9b8c3d71546b4dd10e2ff194bdb79941d8455270835e35027622d509742ff377.m3u8
 
 🍁收音广播电台👉全网,#genre#
 飛揚電台FM89.5,https://n04.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABjvvfDv8AtwcSpYG-1O9Fow
