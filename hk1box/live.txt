@@ -11,6 +11,9 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
 POPC,http://bxtv.3a.ink/api.php?id=popc
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+CCTV1,http://bxtv.3a.ink/api.php?id=cctv1
+CCTV2,http://bxtv.3a.ink/api.php?id=cctv2
+CCTV3,http://bxtv.3a.ink/api.php?id=cctv3
 兒童,#genre#
 [BD]animax,https://stream1.freetv.fun/725a37205cd0317bb462f4a974c27c498f25a0c40d23545481e551c2b916379b.m3u8
 [HD]cctv-4 asia,https://stream1.freetv.fun/a07acecf57e19b302cbfd1bcbc128969b7015d1048157424e28a2d912e22a7fb.m3u8
