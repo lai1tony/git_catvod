@@ -14,183 +14,65 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 CCTV1,http://bxtv.3a.ink/api.php?id=cctv1
 CCTV2,http://bxtv.3a.ink/api.php?id=cctv2
 CCTV3,http://bxtv.3a.ink/api.php?id=cctv3
-兒童,#genre#
-[BD]animax,https://stream1.freetv.fun/725a37205cd0317bb462f4a974c27c498f25a0c40d23545481e551c2b916379b.m3u8
-[HD]cctv-4 asia,https://stream1.freetv.fun/a07acecf57e19b302cbfd1bcbc128969b7015d1048157424e28a2d912e22a7fb.m3u8
-綜藝,#genre#
-[HD]c plus,https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8
-[BD]香港c plus,https://stream1.freetv.fun/a4111f1cb8867dfcb4059fe13e27c223f54a287ccf12034aba10299dde08c7c7.m3u8
-[HD]fifa plus united states[geo-blocked],https://stream1.freetv.fun/bf89cdb0e4c4e7495ee37052b0157c5cb8bcfdfcc6db77bf0b17bb9e3f4b3415.m3u8
-[HD]persiana plus,https://stream1.freetv.fun/e8ef69df7ffe2b12fdb3f6d36bd02a47a4fab7a9a397439734b1cc75f426b611.m3u8
-[HD]fifa plus women[geo-blocked],https://stream1.freetv.fun/37352d9c0bf11af3c0f24364a03a8847b73ae1cc541b6a8ccdcb34db009cc9c5.m3u8
-[BD]society plus[geo-blocked],https://stream1.freetv.fun/b74fbbfca7444dedf15dd7218f336deba5514687facbda0a203ffcd2bc4e9afd.m3u8
-[HD]fifa plus portuguese[geo-blocked],https://stream1.freetv.fun/484a77c8913311f7b0fdb3b7d6bd0c9b95bb61024f2e89d7f968902f81e0c147.m3u8
-[BD]icc plus,https://stream1.freetv.fun/b019c6ef2fe71105503633ec256f5449fa5675585d7570816210a109536f8382.m3u8
-新聞,#genre#
-[BD]cctv1,https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv
-[BD]cctv1[geo-blocked],https://stream1.freetv.fun/c26bc29b4c23283f729a3b949065d8be4420cd2339ed981b534aa0ac9bcf22dc.m3u8
-[BD]cctv1综合,https://stream1.freetv.fun/1fb3f86be0eebb643de89f0b93f912bf1b2c513819c63050a91cf9cdfe4ab196.ctv
-[BD]cctv-1高清[geo-blocked],https://stream1.freetv.fun/843fe786544f590b1151b970dd5fec282674681a6c2203234fa2ac3a09a72ac2.m3u8
-[HD]cctv1综合,https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv
-[BD]cctv1综合,https://stream1.freetv.fun/e2d614c15f9f44a66769286821f4e204843fbb1ea976d65e2e7380425aa5b412.ctv
-[BD]cctv-01,https://stream1.freetv.fun/25a9a0bf6f047007f1c4be30320c523fb0adf8df4cdffd624c0608ec73f74803.ctv
-[SD]cctv1,https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4e8bfeadf9d62a225e.ctv
-[BD]HOY 77 *sg,https://stream1.freetv.fun/7dc8bf470430004791ec5e7712e3eb2087cc07d7e8443a6b1843a59946a0fdcf.m3u8
-綜藝,#genre#
-[VGA]Kix *a[geo-blocked],https://stream1.freetv.fun/9377f46a9bf98114be8a5b30933e1bbc3f6cc633d9eb14bac066049e58439c5e.m3u8
-電影,#genre#
-[HD]mytime movie network,https://stream1.freetv.fun/fd70eb95cd85dcdbca37276d748b27e62558b30068263b66d59e1b49299cf2ff.m3u8
-[BD]mytime movie network,https://stream1.freetv.fun/38198a8fb9e075b47b838bc3e982921643497f7ca4b4590cc5cfe555685fa7ad.m3u8
-[BD]movie music,https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8
-[SD]maha movie,https://stream1.freetv.fun/add6cb23730d4627e6d07b38625043714265bb8ddb670d4d68d80820c78b0690.m3u8
-[BD]mytime movie network,https://stream1.freetv.fun/4dcfe6b94315e523fdc36c33af599d211682761d528521f889ff25a32659ef44.m3u8
-[BD]悬疑movie[geo-blocked],https://stream1.freetv.fun/272beffed35f2cb7c974aeefa04c155e4a4d0e7e23d12c022b5d276a96ad2439.ctv
-[SD]paramount movie channel,https://stream1.freetv.fun/f8c094c073007a655bcbce95b57d395085bc049e719d350446fc2d4efc9c0753.m3u8
-[SD]paramount movie channel,https://stream1.freetv.fun/deadac9145fbbc28b65e5896455938a10b0cafee4da64196f21b2bb7d0601b7d.m3u8
-[HD]artflix movie classics,https://stream1.freetv.fun/9676fd2129d8bbc10259c2894d749078ac5125468c61fd7201b016cc15a57122.m3u8
-[BD]now星影,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
-[BD]popc[geo-blocked],https://stream1.freetv.fun/79e0dcd59dba3828a61fa564c37e7f40016332cb35849829eca01da0a8f9800c.ctv
-綜藝,#genre#
-[BD]RTHK31 *sg,https://stream1.freetv.fun/a81da3fd66f335a20dea0f69a288eb2265d3ecba5d529e154b1429f9841c81d1.m3u8
-新聞,#genre#
-[BD]RTHK32 *sg,https://stream1.freetv.fun/8c15a3ad248d22f171970a3b22dc7fe2d902bcad59980fbe45fab592f1b0e995.m3u8
-運動,#genre#
-[HD]ช่อง sky sports plus,https://stream1.freetv.fun/c7c938e0400853bc3ef002eb4f5f9dcb6342ea669dab8fb17101b2997266a35c.m3u8
-綜藝,#genre#
-[BD]tvb plus,https://stream1.freetv.fun/dec5e1d162ddc4e733fb714c2c8795323ccf94261596cffe7ee65f0034986c70.ctv
-[BD]tvb plus,https://stream1.freetv.fun/70d6657916cfa5ded14dcf78c81e9a726d3e649581659fd0c6d550ac1f3fe0ee.m3u8
-[BD]tvb plus,https://stream1.freetv.fun/efea08e40d2af040689b157636dfc39a60cdd414ca5fa586e091a12876bb4bbf.m3u8
-[VGA]etv plus,https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8
-[BD]tvb plus备,https://stream1.freetv.fun/1ba42cc4a8fd0d66311f90bdb5fb2701abf64c9e442af3a072af203d2f4be0a4.ctv
-電影,#genre#
-[BD]tvbs亚洲,https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8
-[BD]tvbs亚洲,https://stream1.freetv.fun/2aef95d17a02f90322721318b132da070c7e4cf542e6fcebe3d6ce02379a4742.m3u8
-[BD]tvbs亞洲,https://stream1.freetv.fun/0854ce5d4e8860e055549f5881ef05ab76b1bd0bc5bea78057553ed66f44d800.m3u8
-[BD]tvbs亚洲,https://stream1.freetv.fun/490340d742eb83c96123103e77460d8be396d5b87ee81e045aecaed070e152b6.m3u8
-[BD]tvbs亚洲,https://stream1.freetv.fun/0e9dc5f67eeae3d90d5afce9b70b9a06d6b3db352230f64d93221b83afb9e9ff.m3u8
-[BD]tvbs亚洲,https://stream1.freetv.fun/395aa9bcecda230deb8046ff6d1b97f4158ab2d965e8610e865dc27560447d33.m3u8
-[BD]tvbs亚洲,https://stream1.freetv.fun/52055e00fcf09c1a1fdd4289f27dce8639ebf402e478b7204b22711cb6589d4c.m3u8
-[HD]tvb星河,https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
-[BD]TVB 翡翠台 *sg,https://stream1.freetv.fun/1fd385566e3e98d4ed278cd58366e1437d6f8126c643614886559c91b243fe9f.m3u8
-[BD]tvb翡翠[geo-blocked],rtmp://nowast.net/live/yifatv-jade01
-[BD]tvb翡翠,https://stream1.freetv.fun/68acc033476cd4c2ffeb3e90a756f023595401dbe5fc539de8a888d7f1f5abef.ctv
-[BD]tvb翡翠,https://stream1.freetv.fun/64f357d4de37d5ecac02cb8e44c8eeffd869dbdbfc71e33f8a2119f82d2eb504.m3u8
-綜藝,#genre#
-[BD]viutv,https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
-[BD]Viutv *sg,https://stream1.freetv.fun/45181db55db70a3fc349faf2ef2b901599a9cbc7106f2674134cac2db74b2f81.m3u8
-[BD]viutv,https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.m3u8
-[BD]viutv,https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.ctv
-[BD]viutv,https://stream1.freetv.fun/6e51cfdfdd9988358bd19ac505badd794b005798348da2715479b55057f921a5.ctv
-[BD]viutvsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8
-[BD]viutvsix,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
-新聞,#genre#
-[BD]now直播,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
-[BD]now直播,https://stream1.freetv.fun/20a385a5c465c7bbffb60b3309e265829208c3fbf4e3fd0eedbca1776b2c8f23.m3u8
-其它,#genre#
-[BD]snap,https://stream1.freetv.fun/1dad0882045d6c9065bc63bc343aeb79d12a7bc07104336818f2b841c1fae70b.m3u8
-電影,#genre#
-[HD]恐怖电影,https://stream1.freetv.fun/22d89fde8285a48f452e85d9841677aa8fabd9f9d39823fe4c1e143b85d0b394.ctv
-[BD]明珠,https://stream1.freetv.fun/9355776363cced50b636fb90bd1d63ba128a62b87206583d553b215847a74d2d.m3u8
-[BD]明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
-[BD]明珠,https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
-[BD]明珠,https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.ctv
-綜藝,#genre#
-[VGA]Star Chinese *a[geo-blocked],https://stream1.freetv.fun/88a3ad7016752debc54a84443b6ac87255f92a92dcf0d0c01499f620e1bf824d.m3u8
-[SD]星空卫视,https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.m3u8
-其它,#genre#
-[BD]星空国际[geo-blocked],https://stream1.freetv.fun/75e262d43778a32cb887d4ede15dc972143a0522e4d89a81f45b7307f6fedd61.m3u8
-新聞,#genre#
-[BD]无线新闻,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.m3u8
-[BD]无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
-[BD]无线新闻,https://stream1.freetv.fun/fc27b3908a78de41f3e9bc37f460b885afe653d73baf65ecea825df2eb5212f3.m3u8
-其它,#genre#
-[SD]甄子丹电影[geo-blocked],https://stream1.freetv.fun/cb8767752dd89bb0f48050386ee81b262e6637914c9d03277397acdd791b6ad4.ctv
-[SD]甄子丹电影[geo-blocked],https://stream1.freetv.fun/ef4f9d40bc9d730028e673c6c4f5d820079f93682e8b053886280a925dd8a275.ctv
-[SD]甄子丹电影[geo-blocked],https://stream1.freetv.fun/1790dbaeba0a12aa747c6ba24cee18933947cc86ff1b3a4bdf179c2935f354df.ctv
-綜合,#genre#
-[BD]翡翠,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
-[BD]翡翠,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv
-[BD]翡翠,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
-[BD]翡翠,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.ctv
-[BD]翡翠,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.m3u8
-[BD]翡翠[geo-blocked],https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv
-[BD]翡翠[geo-blocked],https://stream1.freetv.fun/ab22ef5c7f5290653d178b4eefe1c6c1ff4cf374752e59ab2708ec675951bcfa.ctv
-[BD]翡翠[geo-blocked],https://stream1.freetv.fun/fb264f1bfef92e4d5fd8cf107039be128d5e8cfa55c2730efd8d3fb231346d22.ctv
-[BD]翡翠[geo-blocked],https://stream1.freetv.fun/bd5fd58b590cbb1ae54807d43ded272a7db28b22446a0239754cf241dd1c27f3.ctv
-[BD]凤凰中文 *sg,https://stream1.freetv.fun/3892090ddf2c069555068609c569dd1d5c39c7a4b2d3d614fdec6a1337b715be.m3u8
-[HD]凤凰中文,https://stream1.freetv.fun/a4e7e8c192fe538f4878412af5f611bf10948212e980cf029ac0500a7cb8962f.ctv
-[BD]凤凰卫视,https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8
-[HD]凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
-新聞,#genre#
-[HD]凤凰资讯,https://stream1.freetv.fun/7d3e0683dbf6e0636efa3bc17815aba2c44580449b0be83ed1e3ca97ed45bccc.ctv
-[HD]凤凰资讯,https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.m3u8
-電影,#genre#
-[SD]凤凰电影,https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8
-綜合,#genre#
-[BD]凤凰香港[geo-blocked],https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv
-[BD]凤凰香港 *sg,https://stream1.freetv.fun/9b8c3d71546b4dd10e2ff194bdb79941d8455270835e35027622d509742ff377.m3u8
-广东,#genre#
-广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=570d3fb2514dc3000715e0ce6ba8b793
-广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=570d3fb2514dc3000715e0ce6ba8b793
-广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=570d3fb2514dc3000715e0ce6ba8b793
-大湾区卫视,http://iptv.cqshushu.com/gdtv.php?id=dwqws1&token=570d3fb2514dc3000715e0ce6ba8b793
-大湾区卫视(海外),http://iptv.cqshushu.com/gdtv.php?id=dwqws2&token=570d3fb2514dc3000715e0ce6ba8b793
-广东影视,http://iptv.cqshushu.com/gdtv.php?id=gdys&token=570d3fb2514dc3000715e0ce6ba8b793
-广东4K,http://iptv.cqshushu.com/gdtv.php?id=gd4k&token=570d3fb2514dc3000715e0ce6ba8b793
-岭南戏曲,http://iptv.cqshushu.com/gdtv.php?id=lnxq&token=570d3fb2514dc3000715e0ce6ba8b793
-广东民生,http://iptv.cqshushu.com/gdtv.php?id=gdms&token=570d3fb2514dc3000715e0ce6ba8b793
-广东新闻,http://iptv.cqshushu.com/gdtv.php?id=gdxw&token=570d3fb2514dc3000715e0ce6ba8b793
-广东移动,http://iptv.cqshushu.com/gdtv.php?id=gdyd&token=570d3fb2514dc3000715e0ce6ba8b793
-广东少儿,http://iptv.cqshushu.com/gdtv.php?id=gdse&token=570d3fb2514dc3000715e0ce6ba8b793
-嘉佳卡通,http://iptv.cqshushu.com/gdtv.php?id=jjkt&token=570d3fb2514dc3000715e0ce6ba8b793
-广州综合,http://iptv.cqshushu.com/gddf.php?id=gzzh&token=570d3fb2514dc3000715e0ce6ba8b793
-广州新闻,http://iptv.cqshushu.com/gddf.php?id=gzxw&token=570d3fb2514dc3000715e0ce6ba8b793
-广州法治,http://iptv.cqshushu.com/gddf.php?id=gzfz&token=570d3fb2514dc3000715e0ce6ba8b793
-4K南国都市,http://iptv.cqshushu.com/gddf.php?id=ngds&token=570d3fb2514dc3000715e0ce6ba8b793
-番禺综合,http://iptv.cqshushu.com/gddf.php?id=pyzh&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳卫视4K,http://iptv.cqshushu.com/gddf.php?id=szws4k&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳卫视4K,http://iptv.cqshushu.com/gddf.php?id=szws4k2&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳卫视,http://iptv.cqshushu.com/gddf.php?id=szws&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳都市,http://iptv.cqshushu.com/gddf.php?id=szds&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳都市,http://iptv.cqshushu.com/gddf.php?id=szds2&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳电视剧,http://iptv.cqshushu.com/gddf.php?id=szdsj&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳财经,http://iptv.cqshushu.com/gddf.php?id=szcj&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳少儿,http://iptv.cqshushu.com/gddf.php?id=szse&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳移动,http://iptv.cqshushu.com/gddf.php?id=szyd&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳宜和购物,http://iptv.cqshushu.com/gddf.php?id=szyhgw&token=570d3fb2514dc3000715e0ce6ba8b793
-深圳国际,http://iptv.cqshushu.com/gddf.php?id=szgj&token=570d3fb2514dc3000715e0ce6ba8b793
-东莞综合,http://iptv.cqshushu.com/gddf.php?id=dgzh&token=570d3fb2514dc3000715e0ce6ba8b793
-东莞生活,http://iptv.cqshushu.com/gddf.php?id=dgsh&token=570d3fb2514dc3000715e0ce6ba8b793
-江门综合,http://iptv.cqshushu.com/gddf.php?id=jmzh&token=570d3fb2514dc3000715e0ce6ba8b793
-中山综合,http://iptv.cqshushu.com/gddf.php?id=zszh&token=570d3fb2514dc3000715e0ce6ba8b793
-云浮综合,http://iptv.cqshushu.com/gddf.php?id=yfzh&token=570d3fb2514dc3000715e0ce6ba8b793
-云浮文旅,http://iptv.cqshushu.com/gddf.php?id=yfwl&token=570d3fb2514dc3000715e0ce6ba8b793
-湛江综合,http://iptv.cqshushu.com/gddf.php?id=zjzh&token=570d3fb2514dc3000715e0ce6ba8b793
-湛江公共,http://iptv.cqshushu.com/gddf.php?id=zjgg&token=570d3fb2514dc3000715e0ce6ba8b793
-丰顺综合,http://iptv.cqshushu.com/gddf.php?id=fszh&token=570d3fb2514dc3000715e0ce6ba8b793
-五华综合,http://iptv.cqshushu.com/gddf.php?id=whzh&token=570d3fb2514dc3000715e0ce6ba8b793
-汕头综合,http://iptv.cqshushu.com/gddf.php?id=stzh&token=570d3fb2514dc3000715e0ce6ba8b793
-汕头生活,http://iptv.cqshushu.com/gddf.php?id=stsh&token=570d3fb2514dc3000715e0ce6ba8b793
-汕尾综合,http://iptv.cqshushu.com/gddf.php?id=swzh&token=570d3fb2514dc3000715e0ce6ba8b793
-汕尾生活,http://iptv.cqshushu.com/gddf.php?id=swsh&token=570d3fb2514dc3000715e0ce6ba8b793
-潮州综合,http://iptv.cqshushu.com/gddf.php?id=czzh&token=570d3fb2514dc3000715e0ce6ba8b793
-潮州民生,http://iptv.cqshushu.com/gddf.php?id=czms&token=570d3fb2514dc3000715e0ce6ba8b793
-揭阳综合,http://iptv.cqshushu.com/gddf.php?id=jytv1&token=570d3fb2514dc3000715e0ce6ba8b793
-揭阳生活,http://iptv.cqshushu.com/gddf.php?id=jytv2&token=570d3fb2514dc3000715e0ce6ba8b793
-河源综合,http://iptv.cqshushu.com/gddf.php?id=hyzh&token=570d3fb2514dc3000715e0ce6ba8b793
-河源生活,http://iptv.cqshushu.com/gddf.php?id=hysh&token=570d3fb2514dc3000715e0ce6ba8b793
-韶关综合,http://iptv.cqshushu.com/gddf.php?id=sgzh&token=570d3fb2514dc3000715e0ce6ba8b793
-阳江1,http://iptv.cqshushu.com/gddf.php?id=yjtv1&token=570d3fb2514dc3000715e0ce6ba8b793
-阳江2,http://iptv.cqshushu.com/gddf.php?id=yjtv2&token=570d3fb2514dc3000715e0ce6ba8b793
-清远综合,http://iptv.cqshushu.com/gddf.php?id=qyzh&token=570d3fb2514dc3000715e0ce6ba8b793
-肇庆综合,http://iptv.cqshushu.com/gddf.php?id=zqzh&token=570d3fb2514dc3000715e0ce6ba8b793
-肇庆生活,http://iptv.cqshushu.com/gddf.php?id=zqsh&token=570d3fb2514dc3000715e0ce6ba8b793
-怀集综合,http://iptv.cqshushu.com/gddf.php?id=hjzh&token=570d3fb2514dc3000715e0ce6ba8b793
-其他,#genre#
-凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=570d3fb2514dc3000715e0ce6ba8b793
-凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=570d3fb2514dc3000715e0ce6ba8b793
-凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=570d3fb2514dc3000715e0ce6ba8b793
-纬来体育,http://iptv.cqshushu.com/wltv.php?id=wlty&token=570d3fb2514dc3000715e0ce6ba8b793
+JACK,#genre#
+翡翠台,http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+翡翠台(广电),http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+翡翠台4K,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+无线新闻台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+明珠台,http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+明珠台,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+TVB PLUS,http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+HOY 76,https://tvbjack.946985.filegear-sg.me/ch76/jcakch76.m3u8
+HOY 77,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+HOY 78,https://tvbjack.946985.filegear-sg.me/ch78/jcakch78.m3u8
+ViuTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+ViuTVSix,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+RTHK31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+澳视澳门,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+澳视卫星,http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+澳视体育,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+凤凰中文,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+凤凰资讯,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+凤凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+CCTV1,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+广东珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+广东体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+深圳卫视4K,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
+深圳财经生活,http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
+第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
+重温经典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+龙华电影,http://cdn8.veryfast.filegear-sg.me/163189/lhdy
+龙华经典,http://cdn8.veryfast.filegear-sg.me/163189/lhjd
+龙华卡通,http://cdn8.veryfast.filegear-sg.me/163189/lhkt
+龙华偶像,http://cdn8.veryfast.filegear-sg.me/163189/lhox
+龙华日韩,http://cdn8.veryfast.filegear-sg.me/163189/lhrh
+龙华戏剧,http://cdn8.veryfast.filegear-sg.me/163189/lhxj
+龙华洋片,http://cdn8.veryfast.filegear-sg.me/163189/lhyp
+TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+TVB娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+TVB华丽翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+天映马来西亚,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+天映经典频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 央视频道,#genre#
 CCTV1,http://183.236.43.98:4013/udp/239.77.1.144:5146$广东电信11
 CCTV1,http://115.58.216.71:4000/rtp/225.1.4.73:1102$河南联通11
