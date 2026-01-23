@@ -14,7 +14,6 @@ POPC,http://bxtv.3a.ink/api.php?id=popc
 CCTV1,http://bxtv.3a.ink/api.php?id=cctv1
 CCTV2,http://bxtv.3a.ink/api.php?id=cctv2
 CCTV3,http://bxtv.3a.ink/api.php?id=cctv3
-
 香港,#genre#
 翡翠台,https://live.catvod.com/live.php?id=fct002&token=1769153291.2e297fb8f8326d41ec2f1bc18bbd9bc0d4cee17b6369376c58dfb6d365425889
 翡翠台,https://live.catvod.com/live.php?id=fct003&token=1769153291.6e6bd3ead4c0955040705bf7af9d76fa375a0063b0b2474dbecd7b6efa60bf6b
